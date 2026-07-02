@@ -1,0 +1,41 @@
+{
+  "id": "mod-discrete-math",
+  "slug": "module-discrete-math",
+  "title": "离散数学基础",
+  "subtitle": "面向计算机专业和算法学习者",
+  "description": "面向计算机专业算法学习和408基础补弱的集合关系函数命题逻辑谓词逻辑证明方法组合计数图论树递推关系与布尔代数训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "离散数学",
+    "集合",
+    "关系",
+    "命题逻辑",
+    "谓词逻辑",
+    "图论",
+    "组合计数",
+    "证明"
+  ],
+  "estimatedHours": 170,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "📐",
+  "repoUrl": "https://github.com/openskill-galaxy/module-discrete-math",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 84
+  }
+}

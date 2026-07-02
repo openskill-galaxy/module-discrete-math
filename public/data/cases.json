@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "dm-case-001",
+    "title": "集合运算案例1",
+    "description": "通过集合运算掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003478",
+      "dm-q-003385",
+      "dm-q-003361"
+    ],
+    "tags": [
+      "集合运算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-002",
+    "title": "关系性质案例2",
+    "description": "通过关系性质掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001438",
+      "dm-q-003481",
+      "dm-q-002472"
+    ],
+    "tags": [
+      "关系性质"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-003",
+    "title": "等价关系案例3",
+    "description": "通过等价关系掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002461",
+      "dm-q-001878",
+      "dm-q-000075"
+    ],
+    "tags": [
+      "等价关系"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-004",
+    "title": "偏序哈斯图案例4",
+    "description": "通过偏序哈斯图掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000251",
+      "dm-q-000742",
+      "dm-q-002659"
+    ],
+    "tags": [
+      "偏序哈斯图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-005",
+    "title": "函数判断案例5",
+    "description": "通过函数判断掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000420",
+      "dm-q-001741",
+      "dm-q-002456"
+    ],
+    "tags": [
+      "函数判断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-006",
+    "title": "真值表案例6",
+    "description": "通过真值表掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003461",
+      "dm-q-000354",
+      "dm-q-002162"
+    ],
+    "tags": [
+      "真值表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-007",
+    "title": "命题等价案例7",
+    "description": "通过命题等价掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002908",
+      "dm-q-002058",
+      "dm-q-002009"
+    ],
+    "tags": [
+      "命题等价"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-008",
+    "title": "主范式案例8",
+    "description": "通过主范式掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003166",
+      "dm-q-003219",
+      "dm-q-000028"
+    ],
+    "tags": [
+      "主范式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-009",
+    "title": "谓词翻译案例9",
+    "description": "通过谓词翻译掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002907",
+      "dm-q-001200",
+      "dm-q-003067"
+    ],
+    "tags": [
+      "谓词翻译"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-010",
+    "title": "推理证明案例10",
+    "description": "通过推理证明掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000824",
+      "dm-q-001072",
+      "dm-q-000240"
+    ],
+    "tags": [
+      "推理证明"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-011",
+    "title": "反证法案例11",
+    "description": "通过反证法掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001923",
+      "dm-q-002705",
+      "dm-q-002123"
+    ],
+    "tags": [
+      "反证法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-012",
+    "title": "归纳法案例12",
+    "description": "通过归纳法掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002859",
+      "dm-q-000901",
+      "dm-q-001477"
+    ],
+    "tags": [
+      "归纳法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-013",
+    "title": "排列组合案例13",
+    "description": "通过排列组合掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002558",
+      "dm-q-001386",
+      "dm-q-001277"
+    ],
+    "tags": [
+      "排列组合"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-014",
+    "title": "容斥原理案例14",
+    "description": "通过容斥原理掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001632",
+      "dm-q-001566",
+      "dm-q-000480"
+    ],
+    "tags": [
+      "容斥原理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-015",
+    "title": "递推求解案例15",
+    "description": "通过递推求解掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000382",
+      "dm-q-001754",
+      "dm-q-001455"
+    ],
+    "tags": [
+      "递推求解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-016",
+    "title": "连通性案例16",
+    "description": "通过连通性掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001144",
+      "dm-q-003491",
+      "dm-q-002538"
+    ],
+    "tags": [
+      "连通性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-017",
+    "title": "欧拉图案例17",
+    "description": "通过欧拉图掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002790",
+      "dm-q-001447",
+      "dm-q-001833"
+    ],
+    "tags": [
+      "欧拉图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-018",
+    "title": "树结构案例18",
+    "description": "通过树结构掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001346",
+      "dm-q-000925",
+      "dm-q-003341"
+    ],
+    "tags": [
+      "树结构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-019",
+    "title": "最小生成树案例19",
+    "description": "通过最小生成树掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003347",
+      "dm-q-000476",
+      "dm-q-000604"
+    ],
+    "tags": [
+      "最小生成树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-020",
+    "title": "布尔化简案例20",
+    "description": "通过布尔化简掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000884",
+      "dm-q-002033",
+      "dm-q-003200"
+    ],
+    "tags": [
+      "布尔化简"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-021",
+    "title": "集合运算案例21",
+    "description": "通过集合运算掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000981",
+      "dm-q-000013",
+      "dm-q-000706"
+    ],
+    "tags": [
+      "集合运算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-022",
+    "title": "关系性质案例22",
+    "description": "通过关系性质掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002268",
+      "dm-q-001316",
+      "dm-q-002547"
+    ],
+    "tags": [
+      "关系性质"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-023",
+    "title": "等价关系案例23",
+    "description": "通过等价关系掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000181",
+      "dm-q-003137",
+      "dm-q-003518"
+    ],
+    "tags": [
+      "等价关系"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-024",
+    "title": "偏序哈斯图案例24",
+    "description": "通过偏序哈斯图掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003469",
+      "dm-q-003493",
+      "dm-q-002060"
+    ],
+    "tags": [
+      "偏序哈斯图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-025",
+    "title": "函数判断案例25",
+    "description": "通过函数判断掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001258",
+      "dm-q-001746",
+      "dm-q-000894"
+    ],
+    "tags": [
+      "函数判断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-026",
+    "title": "真值表案例26",
+    "description": "通过真值表掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001430",
+      "dm-q-002666",
+      "dm-q-002578"
+    ],
+    "tags": [
+      "真值表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-027",
+    "title": "命题等价案例27",
+    "description": "通过命题等价掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000909",
+      "dm-q-002806",
+      "dm-q-002736"
+    ],
+    "tags": [
+      "命题等价"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-028",
+    "title": "主范式案例28",
+    "description": "通过主范式掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000516",
+      "dm-q-002963",
+      "dm-q-002137"
+    ],
+    "tags": [
+      "主范式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-029",
+    "title": "谓词翻译案例29",
+    "description": "通过谓词翻译掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003260",
+      "dm-q-002799",
+      "dm-q-002831"
+    ],
+    "tags": [
+      "谓词翻译"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-030",
+    "title": "推理证明案例30",
+    "description": "通过推理证明掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001518",
+      "dm-q-002067",
+      "dm-q-000961"
+    ],
+    "tags": [
+      "推理证明"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-031",
+    "title": "反证法案例31",
+    "description": "通过反证法掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000277",
+      "dm-q-002269",
+      "dm-q-000644"
+    ],
+    "tags": [
+      "反证法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-032",
+    "title": "归纳法案例32",
+    "description": "通过归纳法掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001213",
+      "dm-q-001814",
+      "dm-q-000745"
+    ],
+    "tags": [
+      "归纳法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-033",
+    "title": "排列组合案例33",
+    "description": "通过排列组合掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002533",
+      "dm-q-001950",
+      "dm-q-002957"
+    ],
+    "tags": [
+      "排列组合"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-034",
+    "title": "容斥原理案例34",
+    "description": "通过容斥原理掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001925",
+      "dm-q-001799",
+      "dm-q-000290"
+    ],
+    "tags": [
+      "容斥原理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-035",
+    "title": "递推求解案例35",
+    "description": "通过递推求解掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001668",
+      "dm-q-000206",
+      "dm-q-002037"
+    ],
+    "tags": [
+      "递推求解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-036",
+    "title": "连通性案例36",
+    "description": "通过连通性掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003507",
+      "dm-q-001028",
+      "dm-q-000505"
+    ],
+    "tags": [
+      "连通性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-037",
+    "title": "欧拉图案例37",
+    "description": "通过欧拉图掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002505",
+      "dm-q-001858",
+      "dm-q-000377"
+    ],
+    "tags": [
+      "欧拉图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-038",
+    "title": "树结构案例38",
+    "description": "通过树结构掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001962",
+      "dm-q-003646",
+      "dm-q-001936"
+    ],
+    "tags": [
+      "树结构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-039",
+    "title": "最小生成树案例39",
+    "description": "通过最小生成树掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002693",
+      "dm-q-000627",
+      "dm-q-000692"
+    ],
+    "tags": [
+      "最小生成树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-040",
+    "title": "布尔化简案例40",
+    "description": "通过布尔化简掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001376",
+      "dm-q-003040",
+      "dm-q-002775"
+    ],
+    "tags": [
+      "布尔化简"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-041",
+    "title": "集合运算案例41",
+    "description": "通过集合运算掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000467",
+      "dm-q-003531",
+      "dm-q-001855"
+    ],
+    "tags": [
+      "集合运算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-042",
+    "title": "关系性质案例42",
+    "description": "通过关系性质掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001907",
+      "dm-q-003091",
+      "dm-q-000293"
+    ],
+    "tags": [
+      "关系性质"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-043",
+    "title": "等价关系案例43",
+    "description": "通过等价关系掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000439",
+      "dm-q-001623",
+      "dm-q-003630"
+    ],
+    "tags": [
+      "等价关系"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-044",
+    "title": "偏序哈斯图案例44",
+    "description": "通过偏序哈斯图掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000379",
+      "dm-q-003490",
+      "dm-q-001801"
+    ],
+    "tags": [
+      "偏序哈斯图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-045",
+    "title": "函数判断案例45",
+    "description": "通过函数判断掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002072",
+      "dm-q-002395",
+      "dm-q-000274"
+    ],
+    "tags": [
+      "函数判断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-046",
+    "title": "真值表案例46",
+    "description": "通过真值表掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001554",
+      "dm-q-000647",
+      "dm-q-002959"
+    ],
+    "tags": [
+      "真值表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-047",
+    "title": "命题等价案例47",
+    "description": "通过命题等价掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003442",
+      "dm-q-003437",
+      "dm-q-002077"
+    ],
+    "tags": [
+      "命题等价"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-048",
+    "title": "主范式案例48",
+    "description": "通过主范式掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002801",
+      "dm-q-003398",
+      "dm-q-001764"
+    ],
+    "tags": [
+      "主范式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-049",
+    "title": "谓词翻译案例49",
+    "description": "通过谓词翻译掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003657",
+      "dm-q-003403",
+      "dm-q-001837"
+    ],
+    "tags": [
+      "谓词翻译"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-050",
+    "title": "推理证明案例50",
+    "description": "通过推理证明掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002731",
+      "dm-q-001418",
+      "dm-q-002760"
+    ],
+    "tags": [
+      "推理证明"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-051",
+    "title": "反证法案例51",
+    "description": "通过反证法掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001774",
+      "dm-q-002121",
+      "dm-q-003388"
+    ],
+    "tags": [
+      "反证法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-052",
+    "title": "归纳法案例52",
+    "description": "通过归纳法掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002866",
+      "dm-q-002436",
+      "dm-q-001677"
+    ],
+    "tags": [
+      "归纳法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-053",
+    "title": "排列组合案例53",
+    "description": "通过排列组合掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003410",
+      "dm-q-002016",
+      "dm-q-001663"
+    ],
+    "tags": [
+      "排列组合"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-054",
+    "title": "容斥原理案例54",
+    "description": "通过容斥原理掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003609",
+      "dm-q-002021",
+      "dm-q-002115"
+    ],
+    "tags": [
+      "容斥原理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-055",
+    "title": "递推求解案例55",
+    "description": "通过递推求解掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000927",
+      "dm-q-003105",
+      "dm-q-001469"
+    ],
+    "tags": [
+      "递推求解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-056",
+    "title": "连通性案例56",
+    "description": "通过连通性掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000203",
+      "dm-q-001668",
+      "dm-q-001908"
+    ],
+    "tags": [
+      "连通性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-057",
+    "title": "欧拉图案例57",
+    "description": "通过欧拉图掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002635",
+      "dm-q-003242",
+      "dm-q-000721"
+    ],
+    "tags": [
+      "欧拉图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-058",
+    "title": "树结构案例58",
+    "description": "通过树结构掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001561",
+      "dm-q-000790",
+      "dm-q-000200"
+    ],
+    "tags": [
+      "树结构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-059",
+    "title": "最小生成树案例59",
+    "description": "通过最小生成树掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002234",
+      "dm-q-001007",
+      "dm-q-002193"
+    ],
+    "tags": [
+      "最小生成树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-060",
+    "title": "布尔化简案例60",
+    "description": "通过布尔化简掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003593",
+      "dm-q-002773",
+      "dm-q-000829"
+    ],
+    "tags": [
+      "布尔化简"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-061",
+    "title": "集合运算案例61",
+    "description": "通过集合运算掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000563",
+      "dm-q-002838",
+      "dm-q-002355"
+    ],
+    "tags": [
+      "集合运算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-062",
+    "title": "关系性质案例62",
+    "description": "通过关系性质掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001637",
+      "dm-q-001435",
+      "dm-q-001973"
+    ],
+    "tags": [
+      "关系性质"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-063",
+    "title": "等价关系案例63",
+    "description": "通过等价关系掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002078",
+      "dm-q-003311",
+      "dm-q-001291"
+    ],
+    "tags": [
+      "等价关系"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-064",
+    "title": "偏序哈斯图案例64",
+    "description": "通过偏序哈斯图掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001885",
+      "dm-q-003481",
+      "dm-q-000356"
+    ],
+    "tags": [
+      "偏序哈斯图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-065",
+    "title": "函数判断案例65",
+    "description": "通过函数判断掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000617",
+      "dm-q-003565",
+      "dm-q-000223"
+    ],
+    "tags": [
+      "函数判断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-066",
+    "title": "真值表案例66",
+    "description": "通过真值表掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001345",
+      "dm-q-003242",
+      "dm-q-002059"
+    ],
+    "tags": [
+      "真值表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-067",
+    "title": "命题等价案例67",
+    "description": "通过命题等价掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002824",
+      "dm-q-002560",
+      "dm-q-000578"
+    ],
+    "tags": [
+      "命题等价"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-068",
+    "title": "主范式案例68",
+    "description": "通过主范式掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001907",
+      "dm-q-000206",
+      "dm-q-001722"
+    ],
+    "tags": [
+      "主范式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-069",
+    "title": "谓词翻译案例69",
+    "description": "通过谓词翻译掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003457",
+      "dm-q-001426",
+      "dm-q-003658"
+    ],
+    "tags": [
+      "谓词翻译"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-070",
+    "title": "推理证明案例70",
+    "description": "通过推理证明掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001524",
+      "dm-q-000486",
+      "dm-q-002557"
+    ],
+    "tags": [
+      "推理证明"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-071",
+    "title": "反证法案例71",
+    "description": "通过反证法掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000824",
+      "dm-q-001265",
+      "dm-q-003423"
+    ],
+    "tags": [
+      "反证法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-072",
+    "title": "归纳法案例72",
+    "description": "通过归纳法掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000348",
+      "dm-q-000885",
+      "dm-q-002344"
+    ],
+    "tags": [
+      "归纳法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-073",
+    "title": "排列组合案例73",
+    "description": "通过排列组合掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001835",
+      "dm-q-002690",
+      "dm-q-001873"
+    ],
+    "tags": [
+      "排列组合"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-074",
+    "title": "容斥原理案例74",
+    "description": "通过容斥原理掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003520",
+      "dm-q-001781",
+      "dm-q-003357"
+    ],
+    "tags": [
+      "容斥原理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-075",
+    "title": "递推求解案例75",
+    "description": "通过递推求解掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003068",
+      "dm-q-001587",
+      "dm-q-001095"
+    ],
+    "tags": [
+      "递推求解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-076",
+    "title": "连通性案例76",
+    "description": "通过连通性掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000290",
+      "dm-q-001049",
+      "dm-q-002630"
+    ],
+    "tags": [
+      "连通性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-077",
+    "title": "欧拉图案例77",
+    "description": "通过欧拉图掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001954",
+      "dm-q-000361",
+      "dm-q-002038"
+    ],
+    "tags": [
+      "欧拉图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-078",
+    "title": "树结构案例78",
+    "description": "通过树结构掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000818",
+      "dm-q-003181",
+      "dm-q-000753"
+    ],
+    "tags": [
+      "树结构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-079",
+    "title": "最小生成树案例79",
+    "description": "通过最小生成树掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001604",
+      "dm-q-002151",
+      "dm-q-000901"
+    ],
+    "tags": [
+      "最小生成树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-080",
+    "title": "布尔化简案例80",
+    "description": "通过布尔化简掌握DM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001059",
+      "dm-q-001015",
+      "dm-q-000097"
+    ],
+    "tags": [
+      "布尔化简"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-081",
+    "title": "集合运算案例81",
+    "description": "通过集合运算掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001604",
+      "dm-q-001209",
+      "dm-q-002589"
+    ],
+    "tags": [
+      "集合运算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-082",
+    "title": "关系性质案例82",
+    "description": "通过关系性质掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002979",
+      "dm-q-000196",
+      "dm-q-000371"
+    ],
+    "tags": [
+      "关系性质"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-083",
+    "title": "等价关系案例83",
+    "description": "通过等价关系掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002666",
+      "dm-q-003092",
+      "dm-q-002946"
+    ],
+    "tags": [
+      "等价关系"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-084",
+    "title": "偏序哈斯图案例84",
+    "description": "通过偏序哈斯图掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001674",
+      "dm-q-002570",
+      "dm-q-001552"
+    ],
+    "tags": [
+      "偏序哈斯图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-085",
+    "title": "函数判断案例85",
+    "description": "通过函数判断掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000534",
+      "dm-q-001611",
+      "dm-q-003621"
+    ],
+    "tags": [
+      "函数判断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-086",
+    "title": "真值表案例86",
+    "description": "通过真值表掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001775",
+      "dm-q-001525",
+      "dm-q-000479"
+    ],
+    "tags": [
+      "真值表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-087",
+    "title": "命题等价案例87",
+    "description": "通过命题等价掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003421",
+      "dm-q-002921",
+      "dm-q-003587"
+    ],
+    "tags": [
+      "命题等价"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-088",
+    "title": "主范式案例88",
+    "description": "通过主范式掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003626",
+      "dm-q-003538",
+      "dm-q-002741"
+    ],
+    "tags": [
+      "主范式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-089",
+    "title": "谓词翻译案例89",
+    "description": "通过谓词翻译掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001576",
+      "dm-q-003447",
+      "dm-q-003558"
+    ],
+    "tags": [
+      "谓词翻译"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-090",
+    "title": "推理证明案例90",
+    "description": "通过推理证明掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000057",
+      "dm-q-000749",
+      "dm-q-001193"
+    ],
+    "tags": [
+      "推理证明"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-091",
+    "title": "反证法案例91",
+    "description": "通过反证法掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001900",
+      "dm-q-001106",
+      "dm-q-001264"
+    ],
+    "tags": [
+      "反证法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-092",
+    "title": "归纳法案例92",
+    "description": "通过归纳法掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002435",
+      "dm-q-001718",
+      "dm-q-001178"
+    ],
+    "tags": [
+      "归纳法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-093",
+    "title": "排列组合案例93",
+    "description": "通过排列组合掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003307",
+      "dm-q-001531",
+      "dm-q-001377"
+    ],
+    "tags": [
+      "排列组合"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-094",
+    "title": "容斥原理案例94",
+    "description": "通过容斥原理掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003471",
+      "dm-q-000904",
+      "dm-q-002877"
+    ],
+    "tags": [
+      "容斥原理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-095",
+    "title": "递推求解案例95",
+    "description": "通过递推求解掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002553",
+      "dm-q-002584",
+      "dm-q-002557"
+    ],
+    "tags": [
+      "递推求解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-096",
+    "title": "连通性案例96",
+    "description": "通过连通性掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001244",
+      "dm-q-000855",
+      "dm-q-001695"
+    ],
+    "tags": [
+      "连通性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-097",
+    "title": "欧拉图案例97",
+    "description": "通过欧拉图掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002355",
+      "dm-q-000832",
+      "dm-q-001000"
+    ],
+    "tags": [
+      "欧拉图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-098",
+    "title": "树结构案例98",
+    "description": "通过树结构掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001869",
+      "dm-q-002340",
+      "dm-q-002666"
+    ],
+    "tags": [
+      "树结构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-099",
+    "title": "最小生成树案例99",
+    "description": "通过最小生成树掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002037",
+      "dm-q-001809",
+      "dm-q-003698"
+    ],
+    "tags": [
+      "最小生成树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-100",
+    "title": "布尔化简案例100",
+    "description": "通过布尔化简掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001443",
+      "dm-q-002693",
+      "dm-q-002847"
+    ],
+    "tags": [
+      "布尔化简"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-101",
+    "title": "集合运算案例101",
+    "description": "通过集合运算掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001264",
+      "dm-q-002564",
+      "dm-q-003252"
+    ],
+    "tags": [
+      "集合运算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-102",
+    "title": "关系性质案例102",
+    "description": "通过关系性质掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002660",
+      "dm-q-000773",
+      "dm-q-003081"
+    ],
+    "tags": [
+      "关系性质"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-103",
+    "title": "等价关系案例103",
+    "description": "通过等价关系掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001180",
+      "dm-q-001845",
+      "dm-q-001881"
+    ],
+    "tags": [
+      "等价关系"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-104",
+    "title": "偏序哈斯图案例104",
+    "description": "通过偏序哈斯图掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001133",
+      "dm-q-003166",
+      "dm-q-000665"
+    ],
+    "tags": [
+      "偏序哈斯图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-105",
+    "title": "函数判断案例105",
+    "description": "通过函数判断掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000771",
+      "dm-q-002361",
+      "dm-q-001981"
+    ],
+    "tags": [
+      "函数判断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-106",
+    "title": "真值表案例106",
+    "description": "通过真值表掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003489",
+      "dm-q-001842",
+      "dm-q-000353"
+    ],
+    "tags": [
+      "真值表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-107",
+    "title": "命题等价案例107",
+    "description": "通过命题等价掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001589",
+      "dm-q-002958",
+      "dm-q-001320"
+    ],
+    "tags": [
+      "命题等价"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-108",
+    "title": "主范式案例108",
+    "description": "通过主范式掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003423",
+      "dm-q-002802",
+      "dm-q-001071"
+    ],
+    "tags": [
+      "主范式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-109",
+    "title": "谓词翻译案例109",
+    "description": "通过谓词翻译掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002319",
+      "dm-q-001585",
+      "dm-q-003200"
+    ],
+    "tags": [
+      "谓词翻译"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-110",
+    "title": "推理证明案例110",
+    "description": "通过推理证明掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001759",
+      "dm-q-000934",
+      "dm-q-000770"
+    ],
+    "tags": [
+      "推理证明"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-111",
+    "title": "反证法案例111",
+    "description": "通过反证法掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002864",
+      "dm-q-000491",
+      "dm-q-000754"
+    ],
+    "tags": [
+      "反证法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-112",
+    "title": "归纳法案例112",
+    "description": "通过归纳法掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001509",
+      "dm-q-003678",
+      "dm-q-002639"
+    ],
+    "tags": [
+      "归纳法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-113",
+    "title": "排列组合案例113",
+    "description": "通过排列组合掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001428",
+      "dm-q-002076",
+      "dm-q-002925"
+    ],
+    "tags": [
+      "排列组合"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-114",
+    "title": "容斥原理案例114",
+    "description": "通过容斥原理掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003249",
+      "dm-q-000080",
+      "dm-q-000368"
+    ],
+    "tags": [
+      "容斥原理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-115",
+    "title": "递推求解案例115",
+    "description": "通过递推求解掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003083",
+      "dm-q-001272",
+      "dm-q-002620"
+    ],
+    "tags": [
+      "递推求解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-116",
+    "title": "连通性案例116",
+    "description": "通过连通性掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001145",
+      "dm-q-002406",
+      "dm-q-002676"
+    ],
+    "tags": [
+      "连通性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-117",
+    "title": "欧拉图案例117",
+    "description": "通过欧拉图掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002975",
+      "dm-q-001137",
+      "dm-q-002526"
+    ],
+    "tags": [
+      "欧拉图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-118",
+    "title": "树结构案例118",
+    "description": "通过树结构掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001249",
+      "dm-q-000498",
+      "dm-q-001184"
+    ],
+    "tags": [
+      "树结构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-119",
+    "title": "最小生成树案例119",
+    "description": "通过最小生成树掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003134",
+      "dm-q-000565",
+      "dm-q-001373"
+    ],
+    "tags": [
+      "最小生成树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-120",
+    "title": "布尔化简案例120",
+    "description": "通过布尔化简掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001218",
+      "dm-q-002272",
+      "dm-q-000075"
+    ],
+    "tags": [
+      "布尔化简"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-121",
+    "title": "集合运算案例121",
+    "description": "通过集合运算掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000218",
+      "dm-q-001373",
+      "dm-q-001468"
+    ],
+    "tags": [
+      "集合运算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-122",
+    "title": "关系性质案例122",
+    "description": "通过关系性质掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002726",
+      "dm-q-002232",
+      "dm-q-001629"
+    ],
+    "tags": [
+      "关系性质"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-123",
+    "title": "等价关系案例123",
+    "description": "通过等价关系掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001991",
+      "dm-q-002737",
+      "dm-q-003407"
+    ],
+    "tags": [
+      "等价关系"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-124",
+    "title": "偏序哈斯图案例124",
+    "description": "通过偏序哈斯图掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003272",
+      "dm-q-002197",
+      "dm-q-003111"
+    ],
+    "tags": [
+      "偏序哈斯图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-125",
+    "title": "函数判断案例125",
+    "description": "通过函数判断掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002172",
+      "dm-q-003413",
+      "dm-q-002692"
+    ],
+    "tags": [
+      "函数判断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-126",
+    "title": "真值表案例126",
+    "description": "通过真值表掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000453",
+      "dm-q-001931",
+      "dm-q-002154"
+    ],
+    "tags": [
+      "真值表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-127",
+    "title": "命题等价案例127",
+    "description": "通过命题等价掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003698",
+      "dm-q-000872",
+      "dm-q-001396"
+    ],
+    "tags": [
+      "命题等价"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-128",
+    "title": "主范式案例128",
+    "description": "通过主范式掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003123",
+      "dm-q-003379",
+      "dm-q-000701"
+    ],
+    "tags": [
+      "主范式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-129",
+    "title": "谓词翻译案例129",
+    "description": "通过谓词翻译掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002763",
+      "dm-q-002517",
+      "dm-q-000600"
+    ],
+    "tags": [
+      "谓词翻译"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-130",
+    "title": "推理证明案例130",
+    "description": "通过推理证明掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003270",
+      "dm-q-002842",
+      "dm-q-000606"
+    ],
+    "tags": [
+      "推理证明"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-131",
+    "title": "反证法案例131",
+    "description": "通过反证法掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000932",
+      "dm-q-001719",
+      "dm-q-000488"
+    ],
+    "tags": [
+      "反证法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-132",
+    "title": "归纳法案例132",
+    "description": "通过归纳法掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001753",
+      "dm-q-002058",
+      "dm-q-000237"
+    ],
+    "tags": [
+      "归纳法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-133",
+    "title": "排列组合案例133",
+    "description": "通过排列组合掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003320",
+      "dm-q-000256",
+      "dm-q-001739"
+    ],
+    "tags": [
+      "排列组合"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-134",
+    "title": "容斥原理案例134",
+    "description": "通过容斥原理掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003551",
+      "dm-q-001575",
+      "dm-q-001967"
+    ],
+    "tags": [
+      "容斥原理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-135",
+    "title": "递推求解案例135",
+    "description": "通过递推求解掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002298",
+      "dm-q-000144",
+      "dm-q-000584"
+    ],
+    "tags": [
+      "递推求解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-136",
+    "title": "连通性案例136",
+    "description": "通过连通性掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001974",
+      "dm-q-002116",
+      "dm-q-001313"
+    ],
+    "tags": [
+      "连通性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-137",
+    "title": "欧拉图案例137",
+    "description": "通过欧拉图掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000234",
+      "dm-q-002735",
+      "dm-q-000225"
+    ],
+    "tags": [
+      "欧拉图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-138",
+    "title": "树结构案例138",
+    "description": "通过树结构掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001659",
+      "dm-q-002084",
+      "dm-q-000099"
+    ],
+    "tags": [
+      "树结构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-139",
+    "title": "最小生成树案例139",
+    "description": "通过最小生成树掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001703",
+      "dm-q-003217",
+      "dm-q-000148"
+    ],
+    "tags": [
+      "最小生成树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-140",
+    "title": "布尔化简案例140",
+    "description": "通过布尔化简掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002980",
+      "dm-q-003538",
+      "dm-q-000621"
+    ],
+    "tags": [
+      "布尔化简"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-141",
+    "title": "集合运算案例141",
+    "description": "通过集合运算掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001179",
+      "dm-q-002570",
+      "dm-q-000111"
+    ],
+    "tags": [
+      "集合运算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-142",
+    "title": "关系性质案例142",
+    "description": "通过关系性质掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001123",
+      "dm-q-000940",
+      "dm-q-002275"
+    ],
+    "tags": [
+      "关系性质"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-143",
+    "title": "等价关系案例143",
+    "description": "通过等价关系掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003566",
+      "dm-q-001459",
+      "dm-q-000943"
+    ],
+    "tags": [
+      "等价关系"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-144",
+    "title": "偏序哈斯图案例144",
+    "description": "通过偏序哈斯图掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000516",
+      "dm-q-000378",
+      "dm-q-002773"
+    ],
+    "tags": [
+      "偏序哈斯图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-145",
+    "title": "函数判断案例145",
+    "description": "通过函数判断掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002019",
+      "dm-q-000703",
+      "dm-q-002627"
+    ],
+    "tags": [
+      "函数判断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-146",
+    "title": "真值表案例146",
+    "description": "通过真值表掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001429",
+      "dm-q-002778",
+      "dm-q-001538"
+    ],
+    "tags": [
+      "真值表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-147",
+    "title": "命题等价案例147",
+    "description": "通过命题等价掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002282",
+      "dm-q-000116",
+      "dm-q-000955"
+    ],
+    "tags": [
+      "命题等价"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-148",
+    "title": "主范式案例148",
+    "description": "通过主范式掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003198",
+      "dm-q-001819",
+      "dm-q-002577"
+    ],
+    "tags": [
+      "主范式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-149",
+    "title": "谓词翻译案例149",
+    "description": "通过谓词翻译掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002432",
+      "dm-q-002216",
+      "dm-q-001498"
+    ],
+    "tags": [
+      "谓词翻译"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-150",
+    "title": "推理证明案例150",
+    "description": "通过推理证明掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001051",
+      "dm-q-003459",
+      "dm-q-002320"
+    ],
+    "tags": [
+      "推理证明"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-151",
+    "title": "反证法案例151",
+    "description": "通过反证法掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003668",
+      "dm-q-001434",
+      "dm-q-001686"
+    ],
+    "tags": [
+      "反证法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-152",
+    "title": "归纳法案例152",
+    "description": "通过归纳法掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002566",
+      "dm-q-000898",
+      "dm-q-003671"
+    ],
+    "tags": [
+      "归纳法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-153",
+    "title": "排列组合案例153",
+    "description": "通过排列组合掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001989",
+      "dm-q-000425",
+      "dm-q-003381"
+    ],
+    "tags": [
+      "排列组合"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-154",
+    "title": "容斥原理案例154",
+    "description": "通过容斥原理掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000287",
+      "dm-q-002872",
+      "dm-q-003083"
+    ],
+    "tags": [
+      "容斥原理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-155",
+    "title": "递推求解案例155",
+    "description": "通过递推求解掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002155",
+      "dm-q-000122",
+      "dm-q-003651"
+    ],
+    "tags": [
+      "递推求解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-156",
+    "title": "连通性案例156",
+    "description": "通过连通性掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000274",
+      "dm-q-000269",
+      "dm-q-001189"
+    ],
+    "tags": [
+      "连通性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-157",
+    "title": "欧拉图案例157",
+    "description": "通过欧拉图掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002501",
+      "dm-q-001304",
+      "dm-q-002425"
+    ],
+    "tags": [
+      "欧拉图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-158",
+    "title": "树结构案例158",
+    "description": "通过树结构掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003527",
+      "dm-q-001905",
+      "dm-q-001974"
+    ],
+    "tags": [
+      "树结构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-159",
+    "title": "最小生成树案例159",
+    "description": "通过最小生成树掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000859",
+      "dm-q-003581",
+      "dm-q-001524"
+    ],
+    "tags": [
+      "最小生成树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-160",
+    "title": "布尔化简案例160",
+    "description": "通过布尔化简掌握DM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002671",
+      "dm-q-003336",
+      "dm-q-002001"
+    ],
+    "tags": [
+      "布尔化简"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-161",
+    "title": "集合运算案例161",
+    "description": "通过集合运算掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003206",
+      "dm-q-002930",
+      "dm-q-002536"
+    ],
+    "tags": [
+      "集合运算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-162",
+    "title": "关系性质案例162",
+    "description": "通过关系性质掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002209",
+      "dm-q-000539",
+      "dm-q-003676"
+    ],
+    "tags": [
+      "关系性质"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-163",
+    "title": "等价关系案例163",
+    "description": "通过等价关系掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000796",
+      "dm-q-002751",
+      "dm-q-002965"
+    ],
+    "tags": [
+      "等价关系"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-164",
+    "title": "偏序哈斯图案例164",
+    "description": "通过偏序哈斯图掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002461",
+      "dm-q-003176",
+      "dm-q-003541"
+    ],
+    "tags": [
+      "偏序哈斯图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-165",
+    "title": "函数判断案例165",
+    "description": "通过函数判断掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002269",
+      "dm-q-002999",
+      "dm-q-003583"
+    ],
+    "tags": [
+      "函数判断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-166",
+    "title": "真值表案例166",
+    "description": "通过真值表掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000035",
+      "dm-q-000501",
+      "dm-q-000770"
+    ],
+    "tags": [
+      "真值表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-167",
+    "title": "命题等价案例167",
+    "description": "通过命题等价掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003689",
+      "dm-q-000080",
+      "dm-q-000893"
+    ],
+    "tags": [
+      "命题等价"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-168",
+    "title": "主范式案例168",
+    "description": "通过主范式掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000769",
+      "dm-q-000655",
+      "dm-q-001483"
+    ],
+    "tags": [
+      "主范式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-169",
+    "title": "谓词翻译案例169",
+    "description": "通过谓词翻译掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002959",
+      "dm-q-002227",
+      "dm-q-003548"
+    ],
+    "tags": [
+      "谓词翻译"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-170",
+    "title": "推理证明案例170",
+    "description": "通过推理证明掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003176",
+      "dm-q-002825",
+      "dm-q-000284"
+    ],
+    "tags": [
+      "推理证明"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-171",
+    "title": "反证法案例171",
+    "description": "通过反证法掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000659",
+      "dm-q-003113",
+      "dm-q-001924"
+    ],
+    "tags": [
+      "反证法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-172",
+    "title": "归纳法案例172",
+    "description": "通过归纳法掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001533",
+      "dm-q-003163",
+      "dm-q-000170"
+    ],
+    "tags": [
+      "归纳法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-173",
+    "title": "排列组合案例173",
+    "description": "通过排列组合掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002192",
+      "dm-q-000685",
+      "dm-q-000406"
+    ],
+    "tags": [
+      "排列组合"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-174",
+    "title": "容斥原理案例174",
+    "description": "通过容斥原理掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001270",
+      "dm-q-003015",
+      "dm-q-002602"
+    ],
+    "tags": [
+      "容斥原理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-175",
+    "title": "递推求解案例175",
+    "description": "通过递推求解掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003416",
+      "dm-q-001908",
+      "dm-q-002328"
+    ],
+    "tags": [
+      "递推求解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-176",
+    "title": "连通性案例176",
+    "description": "通过连通性掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002036",
+      "dm-q-003393",
+      "dm-q-000651"
+    ],
+    "tags": [
+      "连通性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-177",
+    "title": "欧拉图案例177",
+    "description": "通过欧拉图掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003172",
+      "dm-q-001725",
+      "dm-q-000843"
+    ],
+    "tags": [
+      "欧拉图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-178",
+    "title": "树结构案例178",
+    "description": "通过树结构掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002302",
+      "dm-q-001261",
+      "dm-q-000139"
+    ],
+    "tags": [
+      "树结构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-179",
+    "title": "最小生成树案例179",
+    "description": "通过最小生成树掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003313",
+      "dm-q-001135",
+      "dm-q-001914"
+    ],
+    "tags": [
+      "最小生成树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-180",
+    "title": "布尔化简案例180",
+    "description": "通过布尔化简掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003045",
+      "dm-q-003274",
+      "dm-q-000464"
+    ],
+    "tags": [
+      "布尔化简"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-181",
+    "title": "集合运算案例181",
+    "description": "通过集合运算掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003393",
+      "dm-q-000297",
+      "dm-q-003693"
+    ],
+    "tags": [
+      "集合运算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-182",
+    "title": "关系性质案例182",
+    "description": "通过关系性质掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003151",
+      "dm-q-001121",
+      "dm-q-000389"
+    ],
+    "tags": [
+      "关系性质"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-183",
+    "title": "等价关系案例183",
+    "description": "通过等价关系掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003010",
+      "dm-q-003195",
+      "dm-q-000433"
+    ],
+    "tags": [
+      "等价关系"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-184",
+    "title": "偏序哈斯图案例184",
+    "description": "通过偏序哈斯图掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003005",
+      "dm-q-000189",
+      "dm-q-003126"
+    ],
+    "tags": [
+      "偏序哈斯图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-185",
+    "title": "函数判断案例185",
+    "description": "通过函数判断掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002958",
+      "dm-q-001555",
+      "dm-q-002813"
+    ],
+    "tags": [
+      "函数判断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-186",
+    "title": "真值表案例186",
+    "description": "通过真值表掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002763",
+      "dm-q-003532",
+      "dm-q-000212"
+    ],
+    "tags": [
+      "真值表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-187",
+    "title": "命题等价案例187",
+    "description": "通过命题等价掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000718",
+      "dm-q-000911",
+      "dm-q-002757"
+    ],
+    "tags": [
+      "命题等价"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-188",
+    "title": "主范式案例188",
+    "description": "通过主范式掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002902",
+      "dm-q-002872",
+      "dm-q-001831"
+    ],
+    "tags": [
+      "主范式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-189",
+    "title": "谓词翻译案例189",
+    "description": "通过谓词翻译掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002387",
+      "dm-q-001689",
+      "dm-q-001904"
+    ],
+    "tags": [
+      "谓词翻译"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-190",
+    "title": "推理证明案例190",
+    "description": "通过推理证明掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001991",
+      "dm-q-001053",
+      "dm-q-000480"
+    ],
+    "tags": [
+      "推理证明"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-191",
+    "title": "反证法案例191",
+    "description": "通过反证法掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000302",
+      "dm-q-002926",
+      "dm-q-000688"
+    ],
+    "tags": [
+      "反证法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-192",
+    "title": "归纳法案例192",
+    "description": "通过归纳法掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000559",
+      "dm-q-001765",
+      "dm-q-000040"
+    ],
+    "tags": [
+      "归纳法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-193",
+    "title": "排列组合案例193",
+    "description": "通过排列组合掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002440",
+      "dm-q-001965",
+      "dm-q-001269"
+    ],
+    "tags": [
+      "排列组合"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-194",
+    "title": "容斥原理案例194",
+    "description": "通过容斥原理掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002692",
+      "dm-q-000585",
+      "dm-q-002435"
+    ],
+    "tags": [
+      "容斥原理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-195",
+    "title": "递推求解案例195",
+    "description": "通过递推求解掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003132",
+      "dm-q-002734",
+      "dm-q-003412"
+    ],
+    "tags": [
+      "递推求解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-196",
+    "title": "连通性案例196",
+    "description": "通过连通性掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000708",
+      "dm-q-003396",
+      "dm-q-003176"
+    ],
+    "tags": [
+      "连通性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-197",
+    "title": "欧拉图案例197",
+    "description": "通过欧拉图掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003671",
+      "dm-q-002544",
+      "dm-q-002816"
+    ],
+    "tags": [
+      "欧拉图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-198",
+    "title": "树结构案例198",
+    "description": "通过树结构掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002041",
+      "dm-q-001692",
+      "dm-q-001678"
+    ],
+    "tags": [
+      "树结构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-199",
+    "title": "最小生成树案例199",
+    "description": "通过最小生成树掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001497",
+      "dm-q-000226",
+      "dm-q-000378"
+    ],
+    "tags": [
+      "最小生成树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-200",
+    "title": "布尔化简案例200",
+    "description": "通过布尔化简掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000728",
+      "dm-q-001411",
+      "dm-q-000163"
+    ],
+    "tags": [
+      "布尔化简"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-201",
+    "title": "集合运算案例201",
+    "description": "通过集合运算掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000379",
+      "dm-q-003033",
+      "dm-q-002420"
+    ],
+    "tags": [
+      "集合运算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-202",
+    "title": "关系性质案例202",
+    "description": "通过关系性质掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001989",
+      "dm-q-002995",
+      "dm-q-003310"
+    ],
+    "tags": [
+      "关系性质"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-203",
+    "title": "等价关系案例203",
+    "description": "通过等价关系掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001030",
+      "dm-q-001672",
+      "dm-q-002656"
+    ],
+    "tags": [
+      "等价关系"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-204",
+    "title": "偏序哈斯图案例204",
+    "description": "通过偏序哈斯图掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001429",
+      "dm-q-003470",
+      "dm-q-001480"
+    ],
+    "tags": [
+      "偏序哈斯图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-205",
+    "title": "函数判断案例205",
+    "description": "通过函数判断掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000984",
+      "dm-q-002143",
+      "dm-q-001755"
+    ],
+    "tags": [
+      "函数判断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-206",
+    "title": "真值表案例206",
+    "description": "通过真值表掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001018",
+      "dm-q-003340",
+      "dm-q-000397"
+    ],
+    "tags": [
+      "真值表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-207",
+    "title": "命题等价案例207",
+    "description": "通过命题等价掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003686",
+      "dm-q-001630",
+      "dm-q-002356"
+    ],
+    "tags": [
+      "命题等价"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-208",
+    "title": "主范式案例208",
+    "description": "通过主范式掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002183",
+      "dm-q-001992",
+      "dm-q-001125"
+    ],
+    "tags": [
+      "主范式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-209",
+    "title": "谓词翻译案例209",
+    "description": "通过谓词翻译掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003111",
+      "dm-q-002357",
+      "dm-q-002768"
+    ],
+    "tags": [
+      "谓词翻译"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-210",
+    "title": "推理证明案例210",
+    "description": "通过推理证明掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003424",
+      "dm-q-000804",
+      "dm-q-003111"
+    ],
+    "tags": [
+      "推理证明"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-211",
+    "title": "反证法案例211",
+    "description": "通过反证法掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000528",
+      "dm-q-002823",
+      "dm-q-003130"
+    ],
+    "tags": [
+      "反证法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-212",
+    "title": "归纳法案例212",
+    "description": "通过归纳法掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000121",
+      "dm-q-002211",
+      "dm-q-000455"
+    ],
+    "tags": [
+      "归纳法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-213",
+    "title": "排列组合案例213",
+    "description": "通过排列组合掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002413",
+      "dm-q-000635",
+      "dm-q-001999"
+    ],
+    "tags": [
+      "排列组合"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-214",
+    "title": "容斥原理案例214",
+    "description": "通过容斥原理掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001778",
+      "dm-q-002651",
+      "dm-q-002581"
+    ],
+    "tags": [
+      "容斥原理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-215",
+    "title": "递推求解案例215",
+    "description": "通过递推求解掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002052",
+      "dm-q-002884",
+      "dm-q-002013"
+    ],
+    "tags": [
+      "递推求解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-216",
+    "title": "连通性案例216",
+    "description": "通过连通性掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003273",
+      "dm-q-002245",
+      "dm-q-002874"
+    ],
+    "tags": [
+      "连通性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-217",
+    "title": "欧拉图案例217",
+    "description": "通过欧拉图掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000158",
+      "dm-q-003062",
+      "dm-q-002311"
+    ],
+    "tags": [
+      "欧拉图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-218",
+    "title": "树结构案例218",
+    "description": "通过树结构掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000560",
+      "dm-q-002715",
+      "dm-q-000016"
+    ],
+    "tags": [
+      "树结构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-219",
+    "title": "最小生成树案例219",
+    "description": "通过最小生成树掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000198",
+      "dm-q-002468",
+      "dm-q-000355"
+    ],
+    "tags": [
+      "最小生成树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-220",
+    "title": "布尔化简案例220",
+    "description": "通过布尔化简掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003170",
+      "dm-q-003233",
+      "dm-q-003640"
+    ],
+    "tags": [
+      "布尔化简"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-221",
+    "title": "集合运算案例221",
+    "description": "通过集合运算掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003553",
+      "dm-q-000311",
+      "dm-q-002778"
+    ],
+    "tags": [
+      "集合运算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-222",
+    "title": "关系性质案例222",
+    "description": "通过关系性质掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003488",
+      "dm-q-000408",
+      "dm-q-001372"
+    ],
+    "tags": [
+      "关系性质"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-223",
+    "title": "等价关系案例223",
+    "description": "通过等价关系掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002279",
+      "dm-q-001929",
+      "dm-q-000337"
+    ],
+    "tags": [
+      "等价关系"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-224",
+    "title": "偏序哈斯图案例224",
+    "description": "通过偏序哈斯图掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000834",
+      "dm-q-001074",
+      "dm-q-000501"
+    ],
+    "tags": [
+      "偏序哈斯图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-225",
+    "title": "函数判断案例225",
+    "description": "通过函数判断掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002915",
+      "dm-q-003166",
+      "dm-q-002649"
+    ],
+    "tags": [
+      "函数判断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-226",
+    "title": "真值表案例226",
+    "description": "通过真值表掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003269",
+      "dm-q-000032",
+      "dm-q-002532"
+    ],
+    "tags": [
+      "真值表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-227",
+    "title": "命题等价案例227",
+    "description": "通过命题等价掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002616",
+      "dm-q-001492",
+      "dm-q-003619"
+    ],
+    "tags": [
+      "命题等价"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-228",
+    "title": "主范式案例228",
+    "description": "通过主范式掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002070",
+      "dm-q-000276",
+      "dm-q-000922"
+    ],
+    "tags": [
+      "主范式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-229",
+    "title": "谓词翻译案例229",
+    "description": "通过谓词翻译掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000225",
+      "dm-q-002429",
+      "dm-q-003124"
+    ],
+    "tags": [
+      "谓词翻译"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-230",
+    "title": "推理证明案例230",
+    "description": "通过推理证明掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003376",
+      "dm-q-001391",
+      "dm-q-002311"
+    ],
+    "tags": [
+      "推理证明"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-231",
+    "title": "反证法案例231",
+    "description": "通过反证法掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001629",
+      "dm-q-000499",
+      "dm-q-000258"
+    ],
+    "tags": [
+      "反证法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-232",
+    "title": "归纳法案例232",
+    "description": "通过归纳法掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001031",
+      "dm-q-002619",
+      "dm-q-000305"
+    ],
+    "tags": [
+      "归纳法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-233",
+    "title": "排列组合案例233",
+    "description": "通过排列组合掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001982",
+      "dm-q-001732",
+      "dm-q-002556"
+    ],
+    "tags": [
+      "排列组合"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-234",
+    "title": "容斥原理案例234",
+    "description": "通过容斥原理掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000663",
+      "dm-q-001825",
+      "dm-q-000959"
+    ],
+    "tags": [
+      "容斥原理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-235",
+    "title": "递推求解案例235",
+    "description": "通过递推求解掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001967",
+      "dm-q-002901",
+      "dm-q-002935"
+    ],
+    "tags": [
+      "递推求解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-236",
+    "title": "连通性案例236",
+    "description": "通过连通性掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000910",
+      "dm-q-002711",
+      "dm-q-003064"
+    ],
+    "tags": [
+      "连通性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-237",
+    "title": "欧拉图案例237",
+    "description": "通过欧拉图掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000071",
+      "dm-q-003623",
+      "dm-q-003072"
+    ],
+    "tags": [
+      "欧拉图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-238",
+    "title": "树结构案例238",
+    "description": "通过树结构掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000937",
+      "dm-q-001910",
+      "dm-q-002007"
+    ],
+    "tags": [
+      "树结构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-239",
+    "title": "最小生成树案例239",
+    "description": "通过最小生成树掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001175",
+      "dm-q-000581",
+      "dm-q-001486"
+    ],
+    "tags": [
+      "最小生成树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-240",
+    "title": "布尔化简案例240",
+    "description": "通过布尔化简掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002790",
+      "dm-q-000986",
+      "dm-q-001659"
+    ],
+    "tags": [
+      "布尔化简"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-241",
+    "title": "集合运算案例241",
+    "description": "通过集合运算掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002920",
+      "dm-q-002380",
+      "dm-q-001432"
+    ],
+    "tags": [
+      "集合运算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-242",
+    "title": "关系性质案例242",
+    "description": "通过关系性质掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000799",
+      "dm-q-001851",
+      "dm-q-002286"
+    ],
+    "tags": [
+      "关系性质"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-243",
+    "title": "等价关系案例243",
+    "description": "通过等价关系掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001536",
+      "dm-q-001667",
+      "dm-q-003421"
+    ],
+    "tags": [
+      "等价关系"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-244",
+    "title": "偏序哈斯图案例244",
+    "description": "通过偏序哈斯图掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003643",
+      "dm-q-000621",
+      "dm-q-002715"
+    ],
+    "tags": [
+      "偏序哈斯图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-245",
+    "title": "函数判断案例245",
+    "description": "通过函数判断掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003593",
+      "dm-q-003504",
+      "dm-q-000391"
+    ],
+    "tags": [
+      "函数判断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-246",
+    "title": "真值表案例246",
+    "description": "通过真值表掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003319",
+      "dm-q-001301",
+      "dm-q-000890"
+    ],
+    "tags": [
+      "真值表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-247",
+    "title": "命题等价案例247",
+    "description": "通过命题等价掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001482",
+      "dm-q-001814",
+      "dm-q-002845"
+    ],
+    "tags": [
+      "命题等价"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-248",
+    "title": "主范式案例248",
+    "description": "通过主范式掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001268",
+      "dm-q-000731",
+      "dm-q-000782"
+    ],
+    "tags": [
+      "主范式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-249",
+    "title": "谓词翻译案例249",
+    "description": "通过谓词翻译掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002327",
+      "dm-q-000236",
+      "dm-q-002524"
+    ],
+    "tags": [
+      "谓词翻译"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-250",
+    "title": "推理证明案例250",
+    "description": "通过推理证明掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000648",
+      "dm-q-000216",
+      "dm-q-001805"
+    ],
+    "tags": [
+      "推理证明"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-251",
+    "title": "反证法案例251",
+    "description": "通过反证法掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-000724",
+      "dm-q-000602",
+      "dm-q-000381"
+    ],
+    "tags": [
+      "反证法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-252",
+    "title": "归纳法案例252",
+    "description": "通过归纳法掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002286",
+      "dm-q-001559",
+      "dm-q-003585"
+    ],
+    "tags": [
+      "归纳法"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-253",
+    "title": "排列组合案例253",
+    "description": "通过排列组合掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001309",
+      "dm-q-001130",
+      "dm-q-002359"
+    ],
+    "tags": [
+      "排列组合"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-254",
+    "title": "容斥原理案例254",
+    "description": "通过容斥原理掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003550",
+      "dm-q-000043",
+      "dm-q-000267"
+    ],
+    "tags": [
+      "容斥原理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-255",
+    "title": "递推求解案例255",
+    "description": "通过递推求解掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001156",
+      "dm-q-002280",
+      "dm-q-001144"
+    ],
+    "tags": [
+      "递推求解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-256",
+    "title": "连通性案例256",
+    "description": "通过连通性掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001801",
+      "dm-q-003311",
+      "dm-q-003676"
+    ],
+    "tags": [
+      "连通性"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-257",
+    "title": "欧拉图案例257",
+    "description": "通过欧拉图掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-002695",
+      "dm-q-000329",
+      "dm-q-002799"
+    ],
+    "tags": [
+      "欧拉图"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-258",
+    "title": "树结构案例258",
+    "description": "通过树结构掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001037",
+      "dm-q-000798",
+      "dm-q-000854"
+    ],
+    "tags": [
+      "树结构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-259",
+    "title": "最小生成树案例259",
+    "description": "通过最小生成树掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-001992",
+      "dm-q-003642",
+      "dm-q-001698"
+    ],
+    "tags": [
+      "最小生成树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-case-260",
+    "title": "布尔化简案例260",
+    "description": "通过布尔化简掌握DM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "思路",
+        "description": "推导"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "dm-q-003484",
+      "dm-q-001962",
+      "dm-q-000202"
+    ],
+    "tags": [
+      "布尔化简"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

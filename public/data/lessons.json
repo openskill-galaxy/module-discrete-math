@@ -1,0 +1,3616 @@
+[
+  {
+    "id": "dm-lesson-001",
+    "courseId": "dm-course-01",
+    "order": 1,
+    "title": "DM课程1章1",
+    "slug": "DM课程1章1",
+    "summary": "DM课程1章1",
+    "content": "# DM课程1章1\n\nDM课程1章1内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程1章1提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-002",
+    "courseId": "dm-course-01",
+    "order": 2,
+    "title": "DM课程1章2",
+    "slug": "DM课程1章2",
+    "summary": "DM课程1章2",
+    "content": "# DM课程1章2\n\nDM课程1章2内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程1章2提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-003",
+    "courseId": "dm-course-01",
+    "order": 3,
+    "title": "DM课程1章3",
+    "slug": "DM课程1章3",
+    "summary": "DM课程1章3",
+    "content": "# DM课程1章3\n\nDM课程1章3内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程1章3提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-004",
+    "courseId": "dm-course-01",
+    "order": 4,
+    "title": "DM课程1章4",
+    "slug": "DM课程1章4",
+    "summary": "DM课程1章4",
+    "content": "# DM课程1章4\n\nDM课程1章4内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程1章4提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-005",
+    "courseId": "dm-course-01",
+    "order": 5,
+    "title": "DM课程1章5",
+    "slug": "DM课程1章5",
+    "summary": "DM课程1章5",
+    "content": "# DM课程1章5\n\nDM课程1章5内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程1章5提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-006",
+    "courseId": "dm-course-01",
+    "order": 6,
+    "title": "DM课程1章6",
+    "slug": "DM课程1章6",
+    "summary": "DM课程1章6",
+    "content": "# DM课程1章6\n\nDM课程1章6内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程1章6提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-007",
+    "courseId": "dm-course-01",
+    "order": 7,
+    "title": "DM课程1章7",
+    "slug": "DM课程1章7",
+    "summary": "DM课程1章7",
+    "content": "# DM课程1章7\n\nDM课程1章7内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程1章7提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-008",
+    "courseId": "dm-course-01",
+    "order": 8,
+    "title": "DM课程1章8",
+    "slug": "DM课程1章8",
+    "summary": "DM课程1章8",
+    "content": "# DM课程1章8\n\nDM课程1章8内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程1章8提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-009",
+    "courseId": "dm-course-01",
+    "order": 9,
+    "title": "DM课程1章9",
+    "slug": "DM课程1章9",
+    "summary": "DM课程1章9",
+    "content": "# DM课程1章9\n\nDM课程1章9内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程1章9提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-010",
+    "courseId": "dm-course-01",
+    "order": 10,
+    "title": "DM课程1章10",
+    "slug": "DM课程1章10",
+    "summary": "DM课程1章10",
+    "content": "# DM课程1章10\n\nDM课程1章10内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程1章10提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-011",
+    "courseId": "dm-course-01",
+    "order": 11,
+    "title": "DM课程1章11",
+    "slug": "DM课程1章11",
+    "summary": "DM课程1章11",
+    "content": "# DM课程1章11\n\nDM课程1章11内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程1章11提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-012",
+    "courseId": "dm-course-01",
+    "order": 12,
+    "title": "DM课程1章12",
+    "slug": "DM课程1章12",
+    "summary": "DM课程1章12",
+    "content": "# DM课程1章12\n\nDM课程1章12内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程1章12提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-013",
+    "courseId": "dm-course-01",
+    "order": 13,
+    "title": "DM课程1章13",
+    "slug": "DM课程1章13",
+    "summary": "DM课程1章13",
+    "content": "# DM课程1章13\n\nDM课程1章13内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程1章13提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-014",
+    "courseId": "dm-course-02",
+    "order": 1,
+    "title": "DM课程2章1",
+    "slug": "DM课程2章1",
+    "summary": "DM课程2章1",
+    "content": "# DM课程2章1\n\nDM课程2章1内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程2章1提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-015",
+    "courseId": "dm-course-02",
+    "order": 2,
+    "title": "DM课程2章2",
+    "slug": "DM课程2章2",
+    "summary": "DM课程2章2",
+    "content": "# DM课程2章2\n\nDM课程2章2内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程2章2提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-016",
+    "courseId": "dm-course-02",
+    "order": 3,
+    "title": "DM课程2章3",
+    "slug": "DM课程2章3",
+    "summary": "DM课程2章3",
+    "content": "# DM课程2章3\n\nDM课程2章3内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程2章3提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-017",
+    "courseId": "dm-course-02",
+    "order": 4,
+    "title": "DM课程2章4",
+    "slug": "DM课程2章4",
+    "summary": "DM课程2章4",
+    "content": "# DM课程2章4\n\nDM课程2章4内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程2章4提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-018",
+    "courseId": "dm-course-02",
+    "order": 5,
+    "title": "DM课程2章5",
+    "slug": "DM课程2章5",
+    "summary": "DM课程2章5",
+    "content": "# DM课程2章5\n\nDM课程2章5内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程2章5提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-019",
+    "courseId": "dm-course-02",
+    "order": 6,
+    "title": "DM课程2章6",
+    "slug": "DM课程2章6",
+    "summary": "DM课程2章6",
+    "content": "# DM课程2章6\n\nDM课程2章6内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程2章6提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-020",
+    "courseId": "dm-course-02",
+    "order": 7,
+    "title": "DM课程2章7",
+    "slug": "DM课程2章7",
+    "summary": "DM课程2章7",
+    "content": "# DM课程2章7\n\nDM课程2章7内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程2章7提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-021",
+    "courseId": "dm-course-02",
+    "order": 8,
+    "title": "DM课程2章8",
+    "slug": "DM课程2章8",
+    "summary": "DM课程2章8",
+    "content": "# DM课程2章8\n\nDM课程2章8内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程2章8提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-022",
+    "courseId": "dm-course-02",
+    "order": 9,
+    "title": "DM课程2章9",
+    "slug": "DM课程2章9",
+    "summary": "DM课程2章9",
+    "content": "# DM课程2章9\n\nDM课程2章9内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程2章9提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-023",
+    "courseId": "dm-course-02",
+    "order": 10,
+    "title": "DM课程2章10",
+    "slug": "DM课程2章10",
+    "summary": "DM课程2章10",
+    "content": "# DM课程2章10\n\nDM课程2章10内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程2章10提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-024",
+    "courseId": "dm-course-02",
+    "order": 11,
+    "title": "DM课程2章11",
+    "slug": "DM课程2章11",
+    "summary": "DM课程2章11",
+    "content": "# DM课程2章11\n\nDM课程2章11内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程2章11提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-025",
+    "courseId": "dm-course-02",
+    "order": 12,
+    "title": "DM课程2章12",
+    "slug": "DM课程2章12",
+    "summary": "DM课程2章12",
+    "content": "# DM课程2章12\n\nDM课程2章12内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程2章12提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-026",
+    "courseId": "dm-course-02",
+    "order": 13,
+    "title": "DM课程2章13",
+    "slug": "DM课程2章13",
+    "summary": "DM课程2章13",
+    "content": "# DM课程2章13\n\nDM课程2章13内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程2章13提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-027",
+    "courseId": "dm-course-03",
+    "order": 1,
+    "title": "DM课程3章1",
+    "slug": "DM课程3章1",
+    "summary": "DM课程3章1",
+    "content": "# DM课程3章1\n\nDM课程3章1内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程3章1提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-028",
+    "courseId": "dm-course-03",
+    "order": 2,
+    "title": "DM课程3章2",
+    "slug": "DM课程3章2",
+    "summary": "DM课程3章2",
+    "content": "# DM课程3章2\n\nDM课程3章2内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程3章2提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-029",
+    "courseId": "dm-course-03",
+    "order": 3,
+    "title": "DM课程3章3",
+    "slug": "DM课程3章3",
+    "summary": "DM课程3章3",
+    "content": "# DM课程3章3\n\nDM课程3章3内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程3章3提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-030",
+    "courseId": "dm-course-03",
+    "order": 4,
+    "title": "DM课程3章4",
+    "slug": "DM课程3章4",
+    "summary": "DM课程3章4",
+    "content": "# DM课程3章4\n\nDM课程3章4内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程3章4提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-031",
+    "courseId": "dm-course-03",
+    "order": 5,
+    "title": "DM课程3章5",
+    "slug": "DM课程3章5",
+    "summary": "DM课程3章5",
+    "content": "# DM课程3章5\n\nDM课程3章5内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程3章5提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-032",
+    "courseId": "dm-course-03",
+    "order": 6,
+    "title": "DM课程3章6",
+    "slug": "DM课程3章6",
+    "summary": "DM课程3章6",
+    "content": "# DM课程3章6\n\nDM课程3章6内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程3章6提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-033",
+    "courseId": "dm-course-03",
+    "order": 7,
+    "title": "DM课程3章7",
+    "slug": "DM课程3章7",
+    "summary": "DM课程3章7",
+    "content": "# DM课程3章7\n\nDM课程3章7内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程3章7提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-034",
+    "courseId": "dm-course-03",
+    "order": 8,
+    "title": "DM课程3章8",
+    "slug": "DM课程3章8",
+    "summary": "DM课程3章8",
+    "content": "# DM课程3章8\n\nDM课程3章8内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程3章8提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-035",
+    "courseId": "dm-course-03",
+    "order": 9,
+    "title": "DM课程3章9",
+    "slug": "DM课程3章9",
+    "summary": "DM课程3章9",
+    "content": "# DM课程3章9\n\nDM课程3章9内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程3章9提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-036",
+    "courseId": "dm-course-03",
+    "order": 10,
+    "title": "DM课程3章10",
+    "slug": "DM课程3章10",
+    "summary": "DM课程3章10",
+    "content": "# DM课程3章10\n\nDM课程3章10内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程3章10提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-037",
+    "courseId": "dm-course-03",
+    "order": 11,
+    "title": "DM课程3章11",
+    "slug": "DM课程3章11",
+    "summary": "DM课程3章11",
+    "content": "# DM课程3章11\n\nDM课程3章11内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程3章11提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-038",
+    "courseId": "dm-course-03",
+    "order": 12,
+    "title": "DM课程3章12",
+    "slug": "DM课程3章12",
+    "summary": "DM课程3章12",
+    "content": "# DM课程3章12\n\nDM课程3章12内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程3章12提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-039",
+    "courseId": "dm-course-03",
+    "order": 13,
+    "title": "DM课程3章13",
+    "slug": "DM课程3章13",
+    "summary": "DM课程3章13",
+    "content": "# DM课程3章13\n\nDM课程3章13内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程3章13提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-040",
+    "courseId": "dm-course-04",
+    "order": 1,
+    "title": "DM课程4章1",
+    "slug": "DM课程4章1",
+    "summary": "DM课程4章1",
+    "content": "# DM课程4章1\n\nDM课程4章1内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程4章1提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-041",
+    "courseId": "dm-course-04",
+    "order": 2,
+    "title": "DM课程4章2",
+    "slug": "DM课程4章2",
+    "summary": "DM课程4章2",
+    "content": "# DM课程4章2\n\nDM课程4章2内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程4章2提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-042",
+    "courseId": "dm-course-04",
+    "order": 3,
+    "title": "DM课程4章3",
+    "slug": "DM课程4章3",
+    "summary": "DM课程4章3",
+    "content": "# DM课程4章3\n\nDM课程4章3内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程4章3提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-043",
+    "courseId": "dm-course-04",
+    "order": 4,
+    "title": "DM课程4章4",
+    "slug": "DM课程4章4",
+    "summary": "DM课程4章4",
+    "content": "# DM课程4章4\n\nDM课程4章4内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程4章4提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-044",
+    "courseId": "dm-course-04",
+    "order": 5,
+    "title": "DM课程4章5",
+    "slug": "DM课程4章5",
+    "summary": "DM课程4章5",
+    "content": "# DM课程4章5\n\nDM课程4章5内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程4章5提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-045",
+    "courseId": "dm-course-04",
+    "order": 6,
+    "title": "DM课程4章6",
+    "slug": "DM课程4章6",
+    "summary": "DM课程4章6",
+    "content": "# DM课程4章6\n\nDM课程4章6内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程4章6提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-046",
+    "courseId": "dm-course-04",
+    "order": 7,
+    "title": "DM课程4章7",
+    "slug": "DM课程4章7",
+    "summary": "DM课程4章7",
+    "content": "# DM课程4章7\n\nDM课程4章7内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程4章7提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-047",
+    "courseId": "dm-course-04",
+    "order": 8,
+    "title": "DM课程4章8",
+    "slug": "DM课程4章8",
+    "summary": "DM课程4章8",
+    "content": "# DM课程4章8\n\nDM课程4章8内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程4章8提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-048",
+    "courseId": "dm-course-04",
+    "order": 9,
+    "title": "DM课程4章9",
+    "slug": "DM课程4章9",
+    "summary": "DM课程4章9",
+    "content": "# DM课程4章9\n\nDM课程4章9内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程4章9提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-049",
+    "courseId": "dm-course-04",
+    "order": 10,
+    "title": "DM课程4章10",
+    "slug": "DM课程4章10",
+    "summary": "DM课程4章10",
+    "content": "# DM课程4章10\n\nDM课程4章10内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程4章10提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-050",
+    "courseId": "dm-course-04",
+    "order": 11,
+    "title": "DM课程4章11",
+    "slug": "DM课程4章11",
+    "summary": "DM课程4章11",
+    "content": "# DM课程4章11\n\nDM课程4章11内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程4章11提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-051",
+    "courseId": "dm-course-04",
+    "order": 12,
+    "title": "DM课程4章12",
+    "slug": "DM课程4章12",
+    "summary": "DM课程4章12",
+    "content": "# DM课程4章12\n\nDM课程4章12内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程4章12提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-052",
+    "courseId": "dm-course-04",
+    "order": 13,
+    "title": "DM课程4章13",
+    "slug": "DM课程4章13",
+    "summary": "DM课程4章13",
+    "content": "# DM课程4章13\n\nDM课程4章13内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程4章13提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-053",
+    "courseId": "dm-course-05",
+    "order": 1,
+    "title": "DM课程5章1",
+    "slug": "DM课程5章1",
+    "summary": "DM课程5章1",
+    "content": "# DM课程5章1\n\nDM课程5章1内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程5章1提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000005",
+      "dm-q-000020",
+      "dm-q-000033",
+      "dm-q-000039",
+      "dm-q-000044"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-054",
+    "courseId": "dm-course-05",
+    "order": 2,
+    "title": "DM课程5章2",
+    "slug": "DM课程5章2",
+    "summary": "DM课程5章2",
+    "content": "# DM课程5章2\n\nDM课程5章2内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程5章2提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000005",
+      "dm-q-000020",
+      "dm-q-000033",
+      "dm-q-000039",
+      "dm-q-000044"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-055",
+    "courseId": "dm-course-05",
+    "order": 3,
+    "title": "DM课程5章3",
+    "slug": "DM课程5章3",
+    "summary": "DM课程5章3",
+    "content": "# DM课程5章3\n\nDM课程5章3内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程5章3提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000005",
+      "dm-q-000020",
+      "dm-q-000033",
+      "dm-q-000039",
+      "dm-q-000044"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-056",
+    "courseId": "dm-course-05",
+    "order": 4,
+    "title": "DM课程5章4",
+    "slug": "DM课程5章4",
+    "summary": "DM课程5章4",
+    "content": "# DM课程5章4\n\nDM课程5章4内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程5章4提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000005",
+      "dm-q-000020",
+      "dm-q-000033",
+      "dm-q-000039",
+      "dm-q-000044"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-057",
+    "courseId": "dm-course-05",
+    "order": 5,
+    "title": "DM课程5章5",
+    "slug": "DM课程5章5",
+    "summary": "DM课程5章5",
+    "content": "# DM课程5章5\n\nDM课程5章5内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程5章5提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000005",
+      "dm-q-000020",
+      "dm-q-000033",
+      "dm-q-000039",
+      "dm-q-000044"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-058",
+    "courseId": "dm-course-05",
+    "order": 6,
+    "title": "DM课程5章6",
+    "slug": "DM课程5章6",
+    "summary": "DM课程5章6",
+    "content": "# DM课程5章6\n\nDM课程5章6内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程5章6提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000005",
+      "dm-q-000020",
+      "dm-q-000033",
+      "dm-q-000039",
+      "dm-q-000044"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-059",
+    "courseId": "dm-course-05",
+    "order": 7,
+    "title": "DM课程5章7",
+    "slug": "DM课程5章7",
+    "summary": "DM课程5章7",
+    "content": "# DM课程5章7\n\nDM课程5章7内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程5章7提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "easy",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000005",
+      "dm-q-000020",
+      "dm-q-000033",
+      "dm-q-000039",
+      "dm-q-000044"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-060",
+    "courseId": "dm-course-05",
+    "order": 8,
+    "title": "DM课程5章8",
+    "slug": "DM课程5章8",
+    "summary": "DM课程5章8",
+    "content": "# DM课程5章8\n\nDM课程5章8内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程5章8提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000005",
+      "dm-q-000020",
+      "dm-q-000033",
+      "dm-q-000039",
+      "dm-q-000044"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-061",
+    "courseId": "dm-course-05",
+    "order": 9,
+    "title": "DM课程5章9",
+    "slug": "DM课程5章9",
+    "summary": "DM课程5章9",
+    "content": "# DM课程5章9\n\nDM课程5章9内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程5章9提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000005",
+      "dm-q-000020",
+      "dm-q-000033",
+      "dm-q-000039",
+      "dm-q-000044"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-062",
+    "courseId": "dm-course-05",
+    "order": 10,
+    "title": "DM课程5章10",
+    "slug": "DM课程5章10",
+    "summary": "DM课程5章10",
+    "content": "# DM课程5章10\n\nDM课程5章10内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程5章10提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000005",
+      "dm-q-000020",
+      "dm-q-000033",
+      "dm-q-000039",
+      "dm-q-000044"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-063",
+    "courseId": "dm-course-05",
+    "order": 11,
+    "title": "DM课程5章11",
+    "slug": "DM课程5章11",
+    "summary": "DM课程5章11",
+    "content": "# DM课程5章11\n\nDM课程5章11内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程5章11提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000005",
+      "dm-q-000020",
+      "dm-q-000033",
+      "dm-q-000039",
+      "dm-q-000044"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-064",
+    "courseId": "dm-course-05",
+    "order": 12,
+    "title": "DM课程5章12",
+    "slug": "DM课程5章12",
+    "summary": "DM课程5章12",
+    "content": "# DM课程5章12\n\nDM课程5章12内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程5章12提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000005",
+      "dm-q-000020",
+      "dm-q-000033",
+      "dm-q-000039",
+      "dm-q-000044"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-065",
+    "courseId": "dm-course-05",
+    "order": 13,
+    "title": "DM课程5章13",
+    "slug": "DM课程5章13",
+    "summary": "DM课程5章13",
+    "content": "# DM课程5章13\n\nDM课程5章13内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程5章13提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000005",
+      "dm-q-000020",
+      "dm-q-000033",
+      "dm-q-000039",
+      "dm-q-000044"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-066",
+    "courseId": "dm-course-06",
+    "order": 1,
+    "title": "DM课程6章1",
+    "slug": "DM课程6章1",
+    "summary": "DM课程6章1",
+    "content": "# DM课程6章1\n\nDM课程6章1内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程6章1提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000006",
+      "dm-q-000017",
+      "dm-q-000022",
+      "dm-q-000037",
+      "dm-q-000050"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-067",
+    "courseId": "dm-course-06",
+    "order": 2,
+    "title": "DM课程6章2",
+    "slug": "DM课程6章2",
+    "summary": "DM课程6章2",
+    "content": "# DM课程6章2\n\nDM课程6章2内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程6章2提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000006",
+      "dm-q-000017",
+      "dm-q-000022",
+      "dm-q-000037",
+      "dm-q-000050"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-068",
+    "courseId": "dm-course-06",
+    "order": 3,
+    "title": "DM课程6章3",
+    "slug": "DM课程6章3",
+    "summary": "DM课程6章3",
+    "content": "# DM课程6章3\n\nDM课程6章3内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程6章3提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000006",
+      "dm-q-000017",
+      "dm-q-000022",
+      "dm-q-000037",
+      "dm-q-000050"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-069",
+    "courseId": "dm-course-06",
+    "order": 4,
+    "title": "DM课程6章4",
+    "slug": "DM课程6章4",
+    "summary": "DM课程6章4",
+    "content": "# DM课程6章4\n\nDM课程6章4内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程6章4提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000006",
+      "dm-q-000017",
+      "dm-q-000022",
+      "dm-q-000037",
+      "dm-q-000050"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-070",
+    "courseId": "dm-course-06",
+    "order": 5,
+    "title": "DM课程6章5",
+    "slug": "DM课程6章5",
+    "summary": "DM课程6章5",
+    "content": "# DM课程6章5\n\nDM课程6章5内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程6章5提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000006",
+      "dm-q-000017",
+      "dm-q-000022",
+      "dm-q-000037",
+      "dm-q-000050"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-071",
+    "courseId": "dm-course-06",
+    "order": 6,
+    "title": "DM课程6章6",
+    "slug": "DM课程6章6",
+    "summary": "DM课程6章6",
+    "content": "# DM课程6章6\n\nDM课程6章6内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程6章6提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000006",
+      "dm-q-000017",
+      "dm-q-000022",
+      "dm-q-000037",
+      "dm-q-000050"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-072",
+    "courseId": "dm-course-06",
+    "order": 7,
+    "title": "DM课程6章7",
+    "slug": "DM课程6章7",
+    "summary": "DM课程6章7",
+    "content": "# DM课程6章7\n\nDM课程6章7内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程6章7提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000006",
+      "dm-q-000017",
+      "dm-q-000022",
+      "dm-q-000037",
+      "dm-q-000050"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-073",
+    "courseId": "dm-course-06",
+    "order": 8,
+    "title": "DM课程6章8",
+    "slug": "DM课程6章8",
+    "summary": "DM课程6章8",
+    "content": "# DM课程6章8\n\nDM课程6章8内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程6章8提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000006",
+      "dm-q-000017",
+      "dm-q-000022",
+      "dm-q-000037",
+      "dm-q-000050"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-074",
+    "courseId": "dm-course-06",
+    "order": 9,
+    "title": "DM课程6章9",
+    "slug": "DM课程6章9",
+    "summary": "DM课程6章9",
+    "content": "# DM课程6章9\n\nDM课程6章9内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程6章9提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000006",
+      "dm-q-000017",
+      "dm-q-000022",
+      "dm-q-000037",
+      "dm-q-000050"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-075",
+    "courseId": "dm-course-06",
+    "order": 10,
+    "title": "DM课程6章10",
+    "slug": "DM课程6章10",
+    "summary": "DM课程6章10",
+    "content": "# DM课程6章10\n\nDM课程6章10内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程6章10提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000006",
+      "dm-q-000017",
+      "dm-q-000022",
+      "dm-q-000037",
+      "dm-q-000050"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-076",
+    "courseId": "dm-course-06",
+    "order": 11,
+    "title": "DM课程6章11",
+    "slug": "DM课程6章11",
+    "summary": "DM课程6章11",
+    "content": "# DM课程6章11\n\nDM课程6章11内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程6章11提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000006",
+      "dm-q-000017",
+      "dm-q-000022",
+      "dm-q-000037",
+      "dm-q-000050"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-077",
+    "courseId": "dm-course-06",
+    "order": 12,
+    "title": "DM课程6章12",
+    "slug": "DM课程6章12",
+    "summary": "DM课程6章12",
+    "content": "# DM课程6章12\n\nDM课程6章12内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程6章12提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000006",
+      "dm-q-000017",
+      "dm-q-000022",
+      "dm-q-000037",
+      "dm-q-000050"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-078",
+    "courseId": "dm-course-06",
+    "order": 13,
+    "title": "DM课程6章13",
+    "slug": "DM课程6章13",
+    "summary": "DM课程6章13",
+    "content": "# DM课程6章13\n\nDM课程6章13内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程6章13提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [
+      "dm-q-000006",
+      "dm-q-000017",
+      "dm-q-000022",
+      "dm-q-000037",
+      "dm-q-000050"
+    ],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-079",
+    "courseId": "dm-course-07",
+    "order": 1,
+    "title": "DM课程7章1",
+    "slug": "DM课程7章1",
+    "summary": "DM课程7章1",
+    "content": "# DM课程7章1\n\nDM课程7章1内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程7章1提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-080",
+    "courseId": "dm-course-07",
+    "order": 2,
+    "title": "DM课程7章2",
+    "slug": "DM课程7章2",
+    "summary": "DM课程7章2",
+    "content": "# DM课程7章2\n\nDM课程7章2内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程7章2提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-081",
+    "courseId": "dm-course-07",
+    "order": 3,
+    "title": "DM课程7章3",
+    "slug": "DM课程7章3",
+    "summary": "DM课程7章3",
+    "content": "# DM课程7章3\n\nDM课程7章3内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程7章3提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-082",
+    "courseId": "dm-course-07",
+    "order": 4,
+    "title": "DM课程7章4",
+    "slug": "DM课程7章4",
+    "summary": "DM课程7章4",
+    "content": "# DM课程7章4\n\nDM课程7章4内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程7章4提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-083",
+    "courseId": "dm-course-07",
+    "order": 5,
+    "title": "DM课程7章5",
+    "slug": "DM课程7章5",
+    "summary": "DM课程7章5",
+    "content": "# DM课程7章5\n\nDM课程7章5内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程7章5提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-084",
+    "courseId": "dm-course-07",
+    "order": 6,
+    "title": "DM课程7章6",
+    "slug": "DM课程7章6",
+    "summary": "DM课程7章6",
+    "content": "# DM课程7章6\n\nDM课程7章6内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程7章6提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-085",
+    "courseId": "dm-course-07",
+    "order": 7,
+    "title": "DM课程7章7",
+    "slug": "DM课程7章7",
+    "summary": "DM课程7章7",
+    "content": "# DM课程7章7\n\nDM课程7章7内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程7章7提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-086",
+    "courseId": "dm-course-07",
+    "order": 8,
+    "title": "DM课程7章8",
+    "slug": "DM课程7章8",
+    "summary": "DM课程7章8",
+    "content": "# DM课程7章8\n\nDM课程7章8内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程7章8提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-087",
+    "courseId": "dm-course-07",
+    "order": 9,
+    "title": "DM课程7章9",
+    "slug": "DM课程7章9",
+    "summary": "DM课程7章9",
+    "content": "# DM课程7章9\n\nDM课程7章9内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程7章9提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-088",
+    "courseId": "dm-course-07",
+    "order": 10,
+    "title": "DM课程7章10",
+    "slug": "DM课程7章10",
+    "summary": "DM课程7章10",
+    "content": "# DM课程7章10\n\nDM课程7章10内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程7章10提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-089",
+    "courseId": "dm-course-07",
+    "order": 11,
+    "title": "DM课程7章11",
+    "slug": "DM课程7章11",
+    "summary": "DM课程7章11",
+    "content": "# DM课程7章11\n\nDM课程7章11内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程7章11提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-090",
+    "courseId": "dm-course-07",
+    "order": 12,
+    "title": "DM课程7章12",
+    "slug": "DM课程7章12",
+    "summary": "DM课程7章12",
+    "content": "# DM课程7章12\n\nDM课程7章12内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程7章12提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-091",
+    "courseId": "dm-course-07",
+    "order": 13,
+    "title": "DM课程7章13",
+    "slug": "DM课程7章13",
+    "summary": "DM课程7章13",
+    "content": "# DM课程7章13\n\nDM课程7章13内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程7章13提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-092",
+    "courseId": "dm-course-08",
+    "order": 1,
+    "title": "DM课程8章1",
+    "slug": "DM课程8章1",
+    "summary": "DM课程8章1",
+    "content": "# DM课程8章1\n\nDM课程8章1内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程8章1提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-093",
+    "courseId": "dm-course-08",
+    "order": 2,
+    "title": "DM课程8章2",
+    "slug": "DM课程8章2",
+    "summary": "DM课程8章2",
+    "content": "# DM课程8章2\n\nDM课程8章2内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程8章2提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-094",
+    "courseId": "dm-course-08",
+    "order": 3,
+    "title": "DM课程8章3",
+    "slug": "DM课程8章3",
+    "summary": "DM课程8章3",
+    "content": "# DM课程8章3\n\nDM课程8章3内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程8章3提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-095",
+    "courseId": "dm-course-08",
+    "order": 4,
+    "title": "DM课程8章4",
+    "slug": "DM课程8章4",
+    "summary": "DM课程8章4",
+    "content": "# DM课程8章4\n\nDM课程8章4内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程8章4提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-096",
+    "courseId": "dm-course-08",
+    "order": 5,
+    "title": "DM课程8章5",
+    "slug": "DM课程8章5",
+    "summary": "DM课程8章5",
+    "content": "# DM课程8章5\n\nDM课程8章5内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程8章5提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-097",
+    "courseId": "dm-course-08",
+    "order": 6,
+    "title": "DM课程8章6",
+    "slug": "DM课程8章6",
+    "summary": "DM课程8章6",
+    "content": "# DM课程8章6\n\nDM课程8章6内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程8章6提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-098",
+    "courseId": "dm-course-08",
+    "order": 7,
+    "title": "DM课程8章7",
+    "slug": "DM课程8章7",
+    "summary": "DM课程8章7",
+    "content": "# DM课程8章7\n\nDM课程8章7内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程8章7提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-099",
+    "courseId": "dm-course-08",
+    "order": 8,
+    "title": "DM课程8章8",
+    "slug": "DM课程8章8",
+    "summary": "DM课程8章8",
+    "content": "# DM课程8章8\n\nDM课程8章8内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程8章8提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-100",
+    "courseId": "dm-course-08",
+    "order": 9,
+    "title": "DM课程8章9",
+    "slug": "DM课程8章9",
+    "summary": "DM课程8章9",
+    "content": "# DM课程8章9\n\nDM课程8章9内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程8章9提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-101",
+    "courseId": "dm-course-08",
+    "order": 10,
+    "title": "DM课程8章10",
+    "slug": "DM课程8章10",
+    "summary": "DM课程8章10",
+    "content": "# DM课程8章10\n\nDM课程8章10内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程8章10提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-102",
+    "courseId": "dm-course-08",
+    "order": 11,
+    "title": "DM课程8章11",
+    "slug": "DM课程8章11",
+    "summary": "DM课程8章11",
+    "content": "# DM课程8章11\n\nDM课程8章11内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程8章11提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-103",
+    "courseId": "dm-course-08",
+    "order": 12,
+    "title": "DM课程8章12",
+    "slug": "DM课程8章12",
+    "summary": "DM课程8章12",
+    "content": "# DM课程8章12\n\nDM课程8章12内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程8章12提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-104",
+    "courseId": "dm-course-08",
+    "order": 13,
+    "title": "DM课程8章13",
+    "slug": "DM课程8章13",
+    "summary": "DM课程8章13",
+    "content": "# DM课程8章13\n\nDM课程8章13内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程8章13提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-105",
+    "courseId": "dm-course-09",
+    "order": 1,
+    "title": "DM课程9章1",
+    "slug": "DM课程9章1",
+    "summary": "DM课程9章1",
+    "content": "# DM课程9章1\n\nDM课程9章1内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程9章1提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-106",
+    "courseId": "dm-course-09",
+    "order": 2,
+    "title": "DM课程9章2",
+    "slug": "DM课程9章2",
+    "summary": "DM课程9章2",
+    "content": "# DM课程9章2\n\nDM课程9章2内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程9章2提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-107",
+    "courseId": "dm-course-09",
+    "order": 3,
+    "title": "DM课程9章3",
+    "slug": "DM课程9章3",
+    "summary": "DM课程9章3",
+    "content": "# DM课程9章3\n\nDM课程9章3内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程9章3提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-108",
+    "courseId": "dm-course-09",
+    "order": 4,
+    "title": "DM课程9章4",
+    "slug": "DM课程9章4",
+    "summary": "DM课程9章4",
+    "content": "# DM课程9章4\n\nDM课程9章4内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程9章4提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-109",
+    "courseId": "dm-course-09",
+    "order": 5,
+    "title": "DM课程9章5",
+    "slug": "DM课程9章5",
+    "summary": "DM课程9章5",
+    "content": "# DM课程9章5\n\nDM课程9章5内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程9章5提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-110",
+    "courseId": "dm-course-09",
+    "order": 6,
+    "title": "DM课程9章6",
+    "slug": "DM课程9章6",
+    "summary": "DM课程9章6",
+    "content": "# DM课程9章6\n\nDM课程9章6内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程9章6提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-111",
+    "courseId": "dm-course-09",
+    "order": 7,
+    "title": "DM课程9章7",
+    "slug": "DM课程9章7",
+    "summary": "DM课程9章7",
+    "content": "# DM课程9章7\n\nDM课程9章7内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程9章7提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-112",
+    "courseId": "dm-course-09",
+    "order": 8,
+    "title": "DM课程9章8",
+    "slug": "DM课程9章8",
+    "summary": "DM课程9章8",
+    "content": "# DM课程9章8\n\nDM课程9章8内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程9章8提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-113",
+    "courseId": "dm-course-09",
+    "order": 9,
+    "title": "DM课程9章9",
+    "slug": "DM课程9章9",
+    "summary": "DM课程9章9",
+    "content": "# DM课程9章9\n\nDM课程9章9内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程9章9提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-114",
+    "courseId": "dm-course-09",
+    "order": 10,
+    "title": "DM课程9章10",
+    "slug": "DM课程9章10",
+    "summary": "DM课程9章10",
+    "content": "# DM课程9章10\n\nDM课程9章10内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程9章10提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-115",
+    "courseId": "dm-course-09",
+    "order": 11,
+    "title": "DM课程9章11",
+    "slug": "DM课程9章11",
+    "summary": "DM课程9章11",
+    "content": "# DM课程9章11\n\nDM课程9章11内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程9章11提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-116",
+    "courseId": "dm-course-09",
+    "order": 12,
+    "title": "DM课程9章12",
+    "slug": "DM课程9章12",
+    "summary": "DM课程9章12",
+    "content": "# DM课程9章12\n\nDM课程9章12内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程9章12提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-117",
+    "courseId": "dm-course-09",
+    "order": 13,
+    "title": "DM课程9章13",
+    "slug": "DM课程9章13",
+    "summary": "DM课程9章13",
+    "content": "# DM课程9章13\n\nDM课程9章13内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程9章13提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-118",
+    "courseId": "dm-course-10",
+    "order": 1,
+    "title": "DM课程10章1",
+    "slug": "DM课程10章1",
+    "summary": "DM课程10章1",
+    "content": "# DM课程10章1\n\nDM课程10章1内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程10章1提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-119",
+    "courseId": "dm-course-10",
+    "order": 2,
+    "title": "DM课程10章2",
+    "slug": "DM课程10章2",
+    "summary": "DM课程10章2",
+    "content": "# DM课程10章2\n\nDM课程10章2内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程10章2提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-120",
+    "courseId": "dm-course-10",
+    "order": 3,
+    "title": "DM课程10章3",
+    "slug": "DM课程10章3",
+    "summary": "DM课程10章3",
+    "content": "# DM课程10章3\n\nDM课程10章3内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程10章3提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-121",
+    "courseId": "dm-course-10",
+    "order": 4,
+    "title": "DM课程10章4",
+    "slug": "DM课程10章4",
+    "summary": "DM课程10章4",
+    "content": "# DM课程10章4\n\nDM课程10章4内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程10章4提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-122",
+    "courseId": "dm-course-10",
+    "order": 5,
+    "title": "DM课程10章5",
+    "slug": "DM课程10章5",
+    "summary": "DM课程10章5",
+    "content": "# DM课程10章5\n\nDM课程10章5内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程10章5提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-123",
+    "courseId": "dm-course-10",
+    "order": 6,
+    "title": "DM课程10章6",
+    "slug": "DM课程10章6",
+    "summary": "DM课程10章6",
+    "content": "# DM课程10章6\n\nDM课程10章6内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程10章6提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-124",
+    "courseId": "dm-course-10",
+    "order": 7,
+    "title": "DM课程10章7",
+    "slug": "DM课程10章7",
+    "summary": "DM课程10章7",
+    "content": "# DM课程10章7\n\nDM课程10章7内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程10章7提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-125",
+    "courseId": "dm-course-10",
+    "order": 8,
+    "title": "DM课程10章8",
+    "slug": "DM课程10章8",
+    "summary": "DM课程10章8",
+    "content": "# DM课程10章8\n\nDM课程10章8内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程10章8提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-126",
+    "courseId": "dm-course-10",
+    "order": 9,
+    "title": "DM课程10章9",
+    "slug": "DM课程10章9",
+    "summary": "DM课程10章9",
+    "content": "# DM课程10章9\n\nDM课程10章9内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程10章9提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-127",
+    "courseId": "dm-course-10",
+    "order": 10,
+    "title": "DM课程10章10",
+    "slug": "DM课程10章10",
+    "summary": "DM课程10章10",
+    "content": "# DM课程10章10\n\nDM课程10章10内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程10章10提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-128",
+    "courseId": "dm-course-10",
+    "order": 11,
+    "title": "DM课程10章11",
+    "slug": "DM课程10章11",
+    "summary": "DM课程10章11",
+    "content": "# DM课程10章11\n\nDM课程10章11内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程10章11提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-129",
+    "courseId": "dm-course-10",
+    "order": 12,
+    "title": "DM课程10章12",
+    "slug": "DM课程10章12",
+    "summary": "DM课程10章12",
+    "content": "# DM课程10章12\n\nDM课程10章12内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程10章12提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "medium",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-130",
+    "courseId": "dm-course-10",
+    "order": 13,
+    "title": "DM课程10章13",
+    "slug": "DM课程10章13",
+    "summary": "DM课程10章13",
+    "content": "# DM课程10章13\n\nDM课程10章13内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程10章13提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-131",
+    "courseId": "dm-course-11",
+    "order": 1,
+    "title": "DM课程11章1",
+    "slug": "DM课程11章1",
+    "summary": "DM课程11章1",
+    "content": "# DM课程11章1\n\nDM课程11章1内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程11章1提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-132",
+    "courseId": "dm-course-11",
+    "order": 2,
+    "title": "DM课程11章2",
+    "slug": "DM课程11章2",
+    "summary": "DM课程11章2",
+    "content": "# DM课程11章2\n\nDM课程11章2内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程11章2提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-133",
+    "courseId": "dm-course-11",
+    "order": 3,
+    "title": "DM课程11章3",
+    "slug": "DM课程11章3",
+    "summary": "DM课程11章3",
+    "content": "# DM课程11章3\n\nDM课程11章3内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程11章3提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-134",
+    "courseId": "dm-course-11",
+    "order": 4,
+    "title": "DM课程11章4",
+    "slug": "DM课程11章4",
+    "summary": "DM课程11章4",
+    "content": "# DM课程11章4\n\nDM课程11章4内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程11章4提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-135",
+    "courseId": "dm-course-11",
+    "order": 5,
+    "title": "DM课程11章5",
+    "slug": "DM课程11章5",
+    "summary": "DM课程11章5",
+    "content": "# DM课程11章5\n\nDM课程11章5内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程11章5提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-136",
+    "courseId": "dm-course-11",
+    "order": 6,
+    "title": "DM课程11章6",
+    "slug": "DM课程11章6",
+    "summary": "DM课程11章6",
+    "content": "# DM课程11章6\n\nDM课程11章6内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程11章6提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-137",
+    "courseId": "dm-course-11",
+    "order": 7,
+    "title": "DM课程11章7",
+    "slug": "DM课程11章7",
+    "summary": "DM课程11章7",
+    "content": "# DM课程11章7\n\nDM课程11章7内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程11章7提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-138",
+    "courseId": "dm-course-11",
+    "order": 8,
+    "title": "DM课程11章8",
+    "slug": "DM课程11章8",
+    "summary": "DM课程11章8",
+    "content": "# DM课程11章8\n\nDM课程11章8内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程11章8提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-139",
+    "courseId": "dm-course-11",
+    "order": 9,
+    "title": "DM课程11章9",
+    "slug": "DM课程11章9",
+    "summary": "DM课程11章9",
+    "content": "# DM课程11章9\n\nDM课程11章9内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程11章9提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-140",
+    "courseId": "dm-course-11",
+    "order": 10,
+    "title": "DM课程11章10",
+    "slug": "DM课程11章10",
+    "summary": "DM课程11章10",
+    "content": "# DM课程11章10\n\nDM课程11章10内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程11章10提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-141",
+    "courseId": "dm-course-11",
+    "order": 11,
+    "title": "DM课程11章11",
+    "slug": "DM课程11章11",
+    "summary": "DM课程11章11",
+    "content": "# DM课程11章11\n\nDM课程11章11内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程11章11提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-142",
+    "courseId": "dm-course-11",
+    "order": 12,
+    "title": "DM课程11章12",
+    "slug": "DM课程11章12",
+    "summary": "DM课程11章12",
+    "content": "# DM课程11章12\n\nDM课程11章12内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程11章12提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-143",
+    "courseId": "dm-course-11",
+    "order": 13,
+    "title": "DM课程11章13",
+    "slug": "DM课程11章13",
+    "summary": "DM课程11章13",
+    "content": "# DM课程11章13\n\nDM课程11章13内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程11章13提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-144",
+    "courseId": "dm-course-12",
+    "order": 1,
+    "title": "DM课程12章1",
+    "slug": "DM课程12章1",
+    "summary": "DM课程12章1",
+    "content": "# DM课程12章1\n\nDM课程12章1内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程12章1提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-145",
+    "courseId": "dm-course-12",
+    "order": 2,
+    "title": "DM课程12章2",
+    "slug": "DM课程12章2",
+    "summary": "DM课程12章2",
+    "content": "# DM课程12章2\n\nDM课程12章2内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程12章2提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-146",
+    "courseId": "dm-course-12",
+    "order": 3,
+    "title": "DM课程12章3",
+    "slug": "DM课程12章3",
+    "summary": "DM课程12章3",
+    "content": "# DM课程12章3\n\nDM课程12章3内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程12章3提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-147",
+    "courseId": "dm-course-12",
+    "order": 4,
+    "title": "DM课程12章4",
+    "slug": "DM课程12章4",
+    "summary": "DM课程12章4",
+    "content": "# DM课程12章4\n\nDM课程12章4内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程12章4提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-148",
+    "courseId": "dm-course-12",
+    "order": 5,
+    "title": "DM课程12章5",
+    "slug": "DM课程12章5",
+    "summary": "DM课程12章5",
+    "content": "# DM课程12章5\n\nDM课程12章5内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程12章5提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-149",
+    "courseId": "dm-course-12",
+    "order": 6,
+    "title": "DM课程12章6",
+    "slug": "DM课程12章6",
+    "summary": "DM课程12章6",
+    "content": "# DM课程12章6\n\nDM课程12章6内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程12章6提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-150",
+    "courseId": "dm-course-12",
+    "order": 7,
+    "title": "DM课程12章7",
+    "slug": "DM课程12章7",
+    "summary": "DM课程12章7",
+    "content": "# DM课程12章7\n\nDM课程12章7内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程12章7提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-151",
+    "courseId": "dm-course-12",
+    "order": 8,
+    "title": "DM课程12章8",
+    "slug": "DM课程12章8",
+    "summary": "DM课程12章8",
+    "content": "# DM课程12章8\n\nDM课程12章8内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程12章8提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-152",
+    "courseId": "dm-course-12",
+    "order": 9,
+    "title": "DM课程12章9",
+    "slug": "DM课程12章9",
+    "summary": "DM课程12章9",
+    "content": "# DM课程12章9\n\nDM课程12章9内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程12章9提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-153",
+    "courseId": "dm-course-12",
+    "order": 10,
+    "title": "DM课程12章10",
+    "slug": "DM课程12章10",
+    "summary": "DM课程12章10",
+    "content": "# DM课程12章10\n\nDM课程12章10内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程12章10提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-154",
+    "courseId": "dm-course-12",
+    "order": 11,
+    "title": "DM课程12章11",
+    "slug": "DM课程12章11",
+    "summary": "DM课程12章11",
+    "content": "# DM课程12章11\n\nDM课程12章11内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程12章11提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-155",
+    "courseId": "dm-course-12",
+    "order": 12,
+    "title": "DM课程12章12",
+    "slug": "DM课程12章12",
+    "summary": "DM课程12章12",
+    "content": "# DM课程12章12\n\nDM课程12章12内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程12章12提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-156",
+    "courseId": "dm-course-12",
+    "order": 13,
+    "title": "DM课程12章13",
+    "slug": "DM课程12章13",
+    "summary": "DM课程12章13",
+    "content": "# DM课程12章13\n\nDM课程12章13内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程12章13提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-157",
+    "courseId": "dm-course-13",
+    "order": 1,
+    "title": "DM课程13章1",
+    "slug": "DM课程13章1",
+    "summary": "DM课程13章1",
+    "content": "# DM课程13章1\n\nDM课程13章1内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程13章1提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-158",
+    "courseId": "dm-course-13",
+    "order": 2,
+    "title": "DM课程13章2",
+    "slug": "DM课程13章2",
+    "summary": "DM课程13章2",
+    "content": "# DM课程13章2\n\nDM课程13章2内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程13章2提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-159",
+    "courseId": "dm-course-13",
+    "order": 3,
+    "title": "DM课程13章3",
+    "slug": "DM课程13章3",
+    "summary": "DM课程13章3",
+    "content": "# DM课程13章3\n\nDM课程13章3内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程13章3提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-160",
+    "courseId": "dm-course-13",
+    "order": 4,
+    "title": "DM课程13章4",
+    "slug": "DM课程13章4",
+    "summary": "DM课程13章4",
+    "content": "# DM课程13章4\n\nDM课程13章4内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程13章4提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-161",
+    "courseId": "dm-course-13",
+    "order": 5,
+    "title": "DM课程13章5",
+    "slug": "DM课程13章5",
+    "summary": "DM课程13章5",
+    "content": "# DM课程13章5\n\nDM课程13章5内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程13章5提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-162",
+    "courseId": "dm-course-13",
+    "order": 6,
+    "title": "DM课程13章6",
+    "slug": "DM课程13章6",
+    "summary": "DM课程13章6",
+    "content": "# DM课程13章6\n\nDM课程13章6内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程13章6提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-163",
+    "courseId": "dm-course-13",
+    "order": 7,
+    "title": "DM课程13章7",
+    "slug": "DM课程13章7",
+    "summary": "DM课程13章7",
+    "content": "# DM课程13章7\n\nDM课程13章7内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程13章7提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-164",
+    "courseId": "dm-course-13",
+    "order": 8,
+    "title": "DM课程13章8",
+    "slug": "DM课程13章8",
+    "summary": "DM课程13章8",
+    "content": "# DM课程13章8\n\nDM课程13章8内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程13章8提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-165",
+    "courseId": "dm-course-13",
+    "order": 9,
+    "title": "DM课程13章9",
+    "slug": "DM课程13章9",
+    "summary": "DM课程13章9",
+    "content": "# DM课程13章9\n\nDM课程13章9内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程13章9提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-166",
+    "courseId": "dm-course-13",
+    "order": 10,
+    "title": "DM课程13章10",
+    "slug": "DM课程13章10",
+    "summary": "DM课程13章10",
+    "content": "# DM课程13章10\n\nDM课程13章10内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程13章10提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-167",
+    "courseId": "dm-course-13",
+    "order": 11,
+    "title": "DM课程13章11",
+    "slug": "DM课程13章11",
+    "summary": "DM课程13章11",
+    "content": "# DM课程13章11\n\nDM课程13章11内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程13章11提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-168",
+    "courseId": "dm-course-13",
+    "order": 12,
+    "title": "DM课程13章12",
+    "slug": "DM课程13章12",
+    "summary": "DM课程13章12",
+    "content": "# DM课程13章12\n\nDM课程13章12内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程13章12提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-169",
+    "courseId": "dm-course-13",
+    "order": 13,
+    "title": "DM课程13章13",
+    "slug": "DM课程13章13",
+    "summary": "DM课程13章13",
+    "content": "# DM课程13章13\n\nDM课程13章13内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程13章13提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-170",
+    "courseId": "dm-course-14",
+    "order": 1,
+    "title": "DM课程14章1",
+    "slug": "DM课程14章1",
+    "summary": "DM课程14章1",
+    "content": "# DM课程14章1\n\nDM课程14章1内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程14章1提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-171",
+    "courseId": "dm-course-14",
+    "order": 2,
+    "title": "DM课程14章2",
+    "slug": "DM课程14章2",
+    "summary": "DM课程14章2",
+    "content": "# DM课程14章2\n\nDM课程14章2内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程14章2提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-172",
+    "courseId": "dm-course-14",
+    "order": 3,
+    "title": "DM课程14章3",
+    "slug": "DM课程14章3",
+    "summary": "DM课程14章3",
+    "content": "# DM课程14章3\n\nDM课程14章3内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程14章3提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-173",
+    "courseId": "dm-course-14",
+    "order": 4,
+    "title": "DM课程14章4",
+    "slug": "DM课程14章4",
+    "summary": "DM课程14章4",
+    "content": "# DM课程14章4\n\nDM课程14章4内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程14章4提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-174",
+    "courseId": "dm-course-14",
+    "order": 5,
+    "title": "DM课程14章5",
+    "slug": "DM课程14章5",
+    "summary": "DM课程14章5",
+    "content": "# DM课程14章5\n\nDM课程14章5内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程14章5提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-175",
+    "courseId": "dm-course-14",
+    "order": 6,
+    "title": "DM课程14章6",
+    "slug": "DM课程14章6",
+    "summary": "DM课程14章6",
+    "content": "# DM课程14章6\n\nDM课程14章6内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程14章6提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-176",
+    "courseId": "dm-course-14",
+    "order": 7,
+    "title": "DM课程14章7",
+    "slug": "DM课程14章7",
+    "summary": "DM课程14章7",
+    "content": "# DM课程14章7\n\nDM课程14章7内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程14章7提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-177",
+    "courseId": "dm-course-14",
+    "order": 8,
+    "title": "DM课程14章8",
+    "slug": "DM课程14章8",
+    "summary": "DM课程14章8",
+    "content": "# DM课程14章8\n\nDM课程14章8内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程14章8提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-178",
+    "courseId": "dm-course-14",
+    "order": 9,
+    "title": "DM课程14章9",
+    "slug": "DM课程14章9",
+    "summary": "DM课程14章9",
+    "content": "# DM课程14章9\n\nDM课程14章9内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程14章9提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-179",
+    "courseId": "dm-course-14",
+    "order": 10,
+    "title": "DM课程14章10",
+    "slug": "DM课程14章10",
+    "summary": "DM课程14章10",
+    "content": "# DM课程14章10\n\nDM课程14章10内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程14章10提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-180",
+    "courseId": "dm-course-14",
+    "order": 11,
+    "title": "DM课程14章11",
+    "slug": "DM课程14章11",
+    "summary": "DM课程14章11",
+    "content": "# DM课程14章11\n\nDM课程14章11内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程14章11提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-181",
+    "courseId": "dm-course-14",
+    "order": 12,
+    "title": "DM课程14章12",
+    "slug": "DM课程14章12",
+    "summary": "DM课程14章12",
+    "content": "# DM课程14章12\n\nDM课程14章12内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程14章12提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-lesson-182",
+    "courseId": "dm-course-14",
+    "order": 13,
+    "title": "DM课程14章13",
+    "slug": "DM课程14章13",
+    "summary": "DM课程14章13",
+    "content": "# DM课程14章13\n\nDM课程14章13内容。\n\n## 要点\n- 概念\n- 证明\n- 应用\n\n## 总结\n掌握DM课程14章13提高离散数学能力。",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "DM"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

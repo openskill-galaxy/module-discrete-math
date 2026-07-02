@@ -1,0 +1,520 @@
+[
+  {
+    "id": "dm-course-01",
+    "order": 1,
+    "slug": "DM入门",
+    "title": "离散数学入门与学习路线",
+    "description": "离散数学定位、应用场景、学习路线。",
+    "estimatedHours": 4,
+    "difficulty": "easy",
+    "tags": [
+      "离散数学入门与学习路线"
+    ],
+    "lessonIds": [
+      "dm-lesson-001",
+      "dm-lesson-002",
+      "dm-lesson-003",
+      "dm-lesson-004",
+      "dm-lesson-005",
+      "dm-lesson-006",
+      "dm-lesson-007",
+      "dm-lesson-008",
+      "dm-lesson-009",
+      "dm-lesson-010",
+      "dm-lesson-011",
+      "dm-lesson-012",
+      "dm-lesson-013"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握离散数学核心概念",
+      "能进行逻辑推理证明",
+      "理解图论树结构",
+      "解决组合计数问题"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-course-02",
+    "order": 2,
+    "slug": "集合论",
+    "title": "集合论基础",
+    "description": "集合概念、子集、全集空集、集合运算、幂集、笛卡尔积。",
+    "estimatedHours": 10,
+    "difficulty": "easy",
+    "tags": [
+      "集合论基础"
+    ],
+    "lessonIds": [
+      "dm-lesson-014",
+      "dm-lesson-015",
+      "dm-lesson-016",
+      "dm-lesson-017",
+      "dm-lesson-018",
+      "dm-lesson-019",
+      "dm-lesson-020",
+      "dm-lesson-021",
+      "dm-lesson-022",
+      "dm-lesson-023",
+      "dm-lesson-024",
+      "dm-lesson-025",
+      "dm-lesson-026"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握离散数学核心概念",
+      "能进行逻辑推理证明",
+      "理解图论树结构",
+      "解决组合计数问题"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-course-03",
+    "order": 3,
+    "slug": "关系",
+    "title": "关系与等价关系",
+    "description": "二元关系、自反对称传递、等价关系、偏序、哈斯图。",
+    "estimatedHours": 12,
+    "difficulty": "medium",
+    "tags": [
+      "关系与等价关系"
+    ],
+    "lessonIds": [
+      "dm-lesson-027",
+      "dm-lesson-028",
+      "dm-lesson-029",
+      "dm-lesson-030",
+      "dm-lesson-031",
+      "dm-lesson-032",
+      "dm-lesson-033",
+      "dm-lesson-034",
+      "dm-lesson-035",
+      "dm-lesson-036",
+      "dm-lesson-037",
+      "dm-lesson-038",
+      "dm-lesson-039"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握离散数学核心概念",
+      "能进行逻辑推理证明",
+      "理解图论树结构",
+      "解决组合计数问题"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-course-04",
+    "order": 4,
+    "slug": "函数",
+    "title": "函数与映射",
+    "description": "函数定义、单射满射双射、复合函数、反函数。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "函数与映射"
+    ],
+    "lessonIds": [
+      "dm-lesson-040",
+      "dm-lesson-041",
+      "dm-lesson-042",
+      "dm-lesson-043",
+      "dm-lesson-044",
+      "dm-lesson-045",
+      "dm-lesson-046",
+      "dm-lesson-047",
+      "dm-lesson-048",
+      "dm-lesson-049",
+      "dm-lesson-050",
+      "dm-lesson-051",
+      "dm-lesson-052"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握离散数学核心概念",
+      "能进行逻辑推理证明",
+      "理解图论树结构",
+      "解决组合计数问题"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-course-05",
+    "order": 5,
+    "slug": "命题逻辑",
+    "title": "命题逻辑",
+    "description": "命题、联结词、真值表、蕴含、等价、范式、主范式。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "命题逻辑"
+    ],
+    "lessonIds": [
+      "dm-lesson-053",
+      "dm-lesson-054",
+      "dm-lesson-055",
+      "dm-lesson-056",
+      "dm-lesson-057",
+      "dm-lesson-058",
+      "dm-lesson-059",
+      "dm-lesson-060",
+      "dm-lesson-061",
+      "dm-lesson-062",
+      "dm-lesson-063",
+      "dm-lesson-064",
+      "dm-lesson-065"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握离散数学核心概念",
+      "能进行逻辑推理证明",
+      "理解图论树结构",
+      "解决组合计数问题"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-course-06",
+    "order": 6,
+    "slug": "谓词逻辑",
+    "title": "谓词逻辑",
+    "description": "谓词、量词、全称量词、存在量词、谓词翻译。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "谓词逻辑"
+    ],
+    "lessonIds": [
+      "dm-lesson-066",
+      "dm-lesson-067",
+      "dm-lesson-068",
+      "dm-lesson-069",
+      "dm-lesson-070",
+      "dm-lesson-071",
+      "dm-lesson-072",
+      "dm-lesson-073",
+      "dm-lesson-074",
+      "dm-lesson-075",
+      "dm-lesson-076",
+      "dm-lesson-077",
+      "dm-lesson-078"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握离散数学核心概念",
+      "能进行逻辑推理证明",
+      "理解图论树结构",
+      "解决组合计数问题"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-course-07",
+    "order": 7,
+    "slug": "推理证明",
+    "title": "推理规则与证明方法",
+    "description": "推理规则、直接证明、反证法、构造性证明。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "推理规则与证明方法"
+    ],
+    "lessonIds": [
+      "dm-lesson-079",
+      "dm-lesson-080",
+      "dm-lesson-081",
+      "dm-lesson-082",
+      "dm-lesson-083",
+      "dm-lesson-084",
+      "dm-lesson-085",
+      "dm-lesson-086",
+      "dm-lesson-087",
+      "dm-lesson-088",
+      "dm-lesson-089",
+      "dm-lesson-090",
+      "dm-lesson-091"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握离散数学核心概念",
+      "能进行逻辑推理证明",
+      "理解图论树结构",
+      "解决组合计数问题"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-course-08",
+    "order": 8,
+    "slug": "归纳法",
+    "title": "数学归纳法与递归思想",
+    "description": "归纳法原理、第一归纳法、第二归纳法、递归定义。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "数学归纳法与递归思想"
+    ],
+    "lessonIds": [
+      "dm-lesson-092",
+      "dm-lesson-093",
+      "dm-lesson-094",
+      "dm-lesson-095",
+      "dm-lesson-096",
+      "dm-lesson-097",
+      "dm-lesson-098",
+      "dm-lesson-099",
+      "dm-lesson-100",
+      "dm-lesson-101",
+      "dm-lesson-102",
+      "dm-lesson-103",
+      "dm-lesson-104"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握离散数学核心概念",
+      "能进行逻辑推理证明",
+      "理解图论树结构",
+      "解决组合计数问题"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-course-09",
+    "order": 9,
+    "slug": "组合计数",
+    "title": "组合计数基础",
+    "description": "排列、组合、鸽巢原理、容斥原理、二项式定理。",
+    "estimatedHours": 12,
+    "difficulty": "hard",
+    "tags": [
+      "组合计数基础"
+    ],
+    "lessonIds": [
+      "dm-lesson-105",
+      "dm-lesson-106",
+      "dm-lesson-107",
+      "dm-lesson-108",
+      "dm-lesson-109",
+      "dm-lesson-110",
+      "dm-lesson-111",
+      "dm-lesson-112",
+      "dm-lesson-113",
+      "dm-lesson-114",
+      "dm-lesson-115",
+      "dm-lesson-116",
+      "dm-lesson-117"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握离散数学核心概念",
+      "能进行逻辑推理证明",
+      "理解图论树结构",
+      "解决组合计数问题"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-course-10",
+    "order": 10,
+    "slug": "递推关系",
+    "title": "递推关系与生成函数入门",
+    "description": "递推关系求解、生成函数、斐波那契、卡特兰数。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "递推关系与生成函数入门"
+    ],
+    "lessonIds": [
+      "dm-lesson-118",
+      "dm-lesson-119",
+      "dm-lesson-120",
+      "dm-lesson-121",
+      "dm-lesson-122",
+      "dm-lesson-123",
+      "dm-lesson-124",
+      "dm-lesson-125",
+      "dm-lesson-126",
+      "dm-lesson-127",
+      "dm-lesson-128",
+      "dm-lesson-129",
+      "dm-lesson-130"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握离散数学核心概念",
+      "能进行逻辑推理证明",
+      "理解图论树结构",
+      "解决组合计数问题"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-course-11",
+    "order": 11,
+    "slug": "图论",
+    "title": "图论基础",
+    "description": "图概念、顶点边度、路径回路、连通性、欧拉图、哈密顿图。",
+    "estimatedHours": 12,
+    "difficulty": "hard",
+    "tags": [
+      "图论基础"
+    ],
+    "lessonIds": [
+      "dm-lesson-131",
+      "dm-lesson-132",
+      "dm-lesson-133",
+      "dm-lesson-134",
+      "dm-lesson-135",
+      "dm-lesson-136",
+      "dm-lesson-137",
+      "dm-lesson-138",
+      "dm-lesson-139",
+      "dm-lesson-140",
+      "dm-lesson-141",
+      "dm-lesson-142",
+      "dm-lesson-143"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握离散数学核心概念",
+      "能进行逻辑推理证明",
+      "理解图论树结构",
+      "解决组合计数问题"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-course-12",
+    "order": 12,
+    "slug": "树",
+    "title": "树、生成树与图算法基础",
+    "description": "树、二叉树、生成树、最小生成树、Prim、Kruskal。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "树、生成树与图算法基础"
+    ],
+    "lessonIds": [
+      "dm-lesson-144",
+      "dm-lesson-145",
+      "dm-lesson-146",
+      "dm-lesson-147",
+      "dm-lesson-148",
+      "dm-lesson-149",
+      "dm-lesson-150",
+      "dm-lesson-151",
+      "dm-lesson-152",
+      "dm-lesson-153",
+      "dm-lesson-154",
+      "dm-lesson-155",
+      "dm-lesson-156"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握离散数学核心概念",
+      "能进行逻辑推理证明",
+      "理解图论树结构",
+      "解决组合计数问题"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-course-13",
+    "order": 13,
+    "slug": "布尔代数",
+    "title": "布尔代数与开关代数",
+    "description": "布尔代数公理、逻辑门、布尔表达式化简。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "布尔代数与开关代数"
+    ],
+    "lessonIds": [
+      "dm-lesson-157",
+      "dm-lesson-158",
+      "dm-lesson-159",
+      "dm-lesson-160",
+      "dm-lesson-161",
+      "dm-lesson-162",
+      "dm-lesson-163",
+      "dm-lesson-164",
+      "dm-lesson-165",
+      "dm-lesson-166",
+      "dm-lesson-167",
+      "dm-lesson-168",
+      "dm-lesson-169"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握离散数学核心概念",
+      "能进行逻辑推理证明",
+      "理解图论树结构",
+      "解决组合计数问题"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "dm-course-14",
+    "order": 14,
+    "slug": "DM综合",
+    "title": "离散数学综合题、期末与考研训练",
+    "description": "综合题、期末考试、408考研题、复习方法。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "离散数学综合题、期末与考研训练"
+    ],
+    "lessonIds": [
+      "dm-lesson-170",
+      "dm-lesson-171",
+      "dm-lesson-172",
+      "dm-lesson-173",
+      "dm-lesson-174",
+      "dm-lesson-175",
+      "dm-lesson-176",
+      "dm-lesson-177",
+      "dm-lesson-178",
+      "dm-lesson-179",
+      "dm-lesson-180",
+      "dm-lesson-181",
+      "dm-lesson-182"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握离散数学核心概念",
+      "能进行逻辑推理证明",
+      "理解图论树结构",
+      "解决组合计数问题"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]
