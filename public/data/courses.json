@@ -34,7 +34,23 @@
       "理解图论树结构",
       "解决组合计数问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "dm-lesson-001",
+      "dm-lesson-002",
+      "dm-lesson-003",
+      "dm-lesson-004",
+      "dm-lesson-005",
+      "dm-lesson-006",
+      "dm-lesson-007",
+      "dm-lesson-008",
+      "dm-lesson-009",
+      "dm-lesson-010",
+      "dm-lesson-011",
+      "dm-lesson-012",
+      "dm-lesson-013"
+    ],
+    "summary": "离散数学定位、应用场景、学习路线。"
   },
   {
     "id": "dm-course-02",
@@ -71,7 +87,23 @@
       "理解图论树结构",
       "解决组合计数问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "dm-lesson-014",
+      "dm-lesson-015",
+      "dm-lesson-016",
+      "dm-lesson-017",
+      "dm-lesson-018",
+      "dm-lesson-019",
+      "dm-lesson-020",
+      "dm-lesson-021",
+      "dm-lesson-022",
+      "dm-lesson-023",
+      "dm-lesson-024",
+      "dm-lesson-025",
+      "dm-lesson-026"
+    ],
+    "summary": "集合概念、子集、全集空集、集合运算、幂集、笛卡尔积。"
   },
   {
     "id": "dm-course-03",
@@ -108,7 +140,23 @@
       "理解图论树结构",
       "解决组合计数问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "dm-lesson-027",
+      "dm-lesson-028",
+      "dm-lesson-029",
+      "dm-lesson-030",
+      "dm-lesson-031",
+      "dm-lesson-032",
+      "dm-lesson-033",
+      "dm-lesson-034",
+      "dm-lesson-035",
+      "dm-lesson-036",
+      "dm-lesson-037",
+      "dm-lesson-038",
+      "dm-lesson-039"
+    ],
+    "summary": "二元关系、自反对称传递、等价关系、偏序、哈斯图。"
   },
   {
     "id": "dm-course-04",
@@ -145,7 +193,23 @@
       "理解图论树结构",
       "解决组合计数问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "dm-lesson-040",
+      "dm-lesson-041",
+      "dm-lesson-042",
+      "dm-lesson-043",
+      "dm-lesson-044",
+      "dm-lesson-045",
+      "dm-lesson-046",
+      "dm-lesson-047",
+      "dm-lesson-048",
+      "dm-lesson-049",
+      "dm-lesson-050",
+      "dm-lesson-051",
+      "dm-lesson-052"
+    ],
+    "summary": "函数定义、单射满射双射、复合函数、反函数。"
   },
   {
     "id": "dm-course-05",
@@ -182,7 +246,23 @@
       "理解图论树结构",
       "解决组合计数问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "dm-lesson-053",
+      "dm-lesson-054",
+      "dm-lesson-055",
+      "dm-lesson-056",
+      "dm-lesson-057",
+      "dm-lesson-058",
+      "dm-lesson-059",
+      "dm-lesson-060",
+      "dm-lesson-061",
+      "dm-lesson-062",
+      "dm-lesson-063",
+      "dm-lesson-064",
+      "dm-lesson-065"
+    ],
+    "summary": "命题、联结词、真值表、蕴含、等价、范式、主范式。"
   },
   {
     "id": "dm-course-06",
@@ -219,7 +299,23 @@
       "理解图论树结构",
       "解决组合计数问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "dm-lesson-066",
+      "dm-lesson-067",
+      "dm-lesson-068",
+      "dm-lesson-069",
+      "dm-lesson-070",
+      "dm-lesson-071",
+      "dm-lesson-072",
+      "dm-lesson-073",
+      "dm-lesson-074",
+      "dm-lesson-075",
+      "dm-lesson-076",
+      "dm-lesson-077",
+      "dm-lesson-078"
+    ],
+    "summary": "谓词、量词、全称量词、存在量词、谓词翻译。"
   },
   {
     "id": "dm-course-07",
@@ -256,7 +352,23 @@
       "理解图论树结构",
       "解决组合计数问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "dm-lesson-079",
+      "dm-lesson-080",
+      "dm-lesson-081",
+      "dm-lesson-082",
+      "dm-lesson-083",
+      "dm-lesson-084",
+      "dm-lesson-085",
+      "dm-lesson-086",
+      "dm-lesson-087",
+      "dm-lesson-088",
+      "dm-lesson-089",
+      "dm-lesson-090",
+      "dm-lesson-091"
+    ],
+    "summary": "推理规则、直接证明、反证法、构造性证明。"
   },
   {
     "id": "dm-course-08",
@@ -293,7 +405,23 @@
       "理解图论树结构",
       "解决组合计数问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "dm-lesson-092",
+      "dm-lesson-093",
+      "dm-lesson-094",
+      "dm-lesson-095",
+      "dm-lesson-096",
+      "dm-lesson-097",
+      "dm-lesson-098",
+      "dm-lesson-099",
+      "dm-lesson-100",
+      "dm-lesson-101",
+      "dm-lesson-102",
+      "dm-lesson-103",
+      "dm-lesson-104"
+    ],
+    "summary": "归纳法原理、第一归纳法、第二归纳法、递归定义。"
   },
   {
     "id": "dm-course-09",
@@ -330,7 +458,23 @@
       "理解图论树结构",
       "解决组合计数问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "dm-lesson-105",
+      "dm-lesson-106",
+      "dm-lesson-107",
+      "dm-lesson-108",
+      "dm-lesson-109",
+      "dm-lesson-110",
+      "dm-lesson-111",
+      "dm-lesson-112",
+      "dm-lesson-113",
+      "dm-lesson-114",
+      "dm-lesson-115",
+      "dm-lesson-116",
+      "dm-lesson-117"
+    ],
+    "summary": "排列、组合、鸽巢原理、容斥原理、二项式定理。"
   },
   {
     "id": "dm-course-10",
@@ -367,7 +511,23 @@
       "理解图论树结构",
       "解决组合计数问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "dm-lesson-118",
+      "dm-lesson-119",
+      "dm-lesson-120",
+      "dm-lesson-121",
+      "dm-lesson-122",
+      "dm-lesson-123",
+      "dm-lesson-124",
+      "dm-lesson-125",
+      "dm-lesson-126",
+      "dm-lesson-127",
+      "dm-lesson-128",
+      "dm-lesson-129",
+      "dm-lesson-130"
+    ],
+    "summary": "递推关系求解、生成函数、斐波那契、卡特兰数。"
   },
   {
     "id": "dm-course-11",
@@ -404,7 +564,23 @@
       "理解图论树结构",
       "解决组合计数问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "dm-lesson-131",
+      "dm-lesson-132",
+      "dm-lesson-133",
+      "dm-lesson-134",
+      "dm-lesson-135",
+      "dm-lesson-136",
+      "dm-lesson-137",
+      "dm-lesson-138",
+      "dm-lesson-139",
+      "dm-lesson-140",
+      "dm-lesson-141",
+      "dm-lesson-142",
+      "dm-lesson-143"
+    ],
+    "summary": "图概念、顶点边度、路径回路、连通性、欧拉图、哈密顿图。"
   },
   {
     "id": "dm-course-12",
@@ -441,7 +617,23 @@
       "理解图论树结构",
       "解决组合计数问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "dm-lesson-144",
+      "dm-lesson-145",
+      "dm-lesson-146",
+      "dm-lesson-147",
+      "dm-lesson-148",
+      "dm-lesson-149",
+      "dm-lesson-150",
+      "dm-lesson-151",
+      "dm-lesson-152",
+      "dm-lesson-153",
+      "dm-lesson-154",
+      "dm-lesson-155",
+      "dm-lesson-156"
+    ],
+    "summary": "树、二叉树、生成树、最小生成树、Prim、Kruskal。"
   },
   {
     "id": "dm-course-13",
@@ -478,7 +670,23 @@
       "理解图论树结构",
       "解决组合计数问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "dm-lesson-157",
+      "dm-lesson-158",
+      "dm-lesson-159",
+      "dm-lesson-160",
+      "dm-lesson-161",
+      "dm-lesson-162",
+      "dm-lesson-163",
+      "dm-lesson-164",
+      "dm-lesson-165",
+      "dm-lesson-166",
+      "dm-lesson-167",
+      "dm-lesson-168",
+      "dm-lesson-169"
+    ],
+    "summary": "布尔代数公理、逻辑门、布尔表达式化简。"
   },
   {
     "id": "dm-course-14",
@@ -515,6 +723,22 @@
       "理解图论树结构",
       "解决组合计数问题"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "dm-lesson-170",
+      "dm-lesson-171",
+      "dm-lesson-172",
+      "dm-lesson-173",
+      "dm-lesson-174",
+      "dm-lesson-175",
+      "dm-lesson-176",
+      "dm-lesson-177",
+      "dm-lesson-178",
+      "dm-lesson-179",
+      "dm-lesson-180",
+      "dm-lesson-181",
+      "dm-lesson-182"
+    ],
+    "summary": "综合题、期末考试、408考研题、复习方法。"
   }
 ]
