@@ -1,562 +1,81 @@
 [
   {
-    "id": "dm-route-01",
-    "slug": "DM路线1",
-    "title": "DM路线1",
-    "description": "DM路线1",
-    "summary": "DM路线1",
-    "targetUser": "目标1",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
+    "id": "mod-discrete-math-route-1",
+    "slug": "professional-path",
+    "title": "离散数学基础 专业级成长路线",
+    "summary": "带您由浅入深、由原理到实战系统通关 离散数学基础 核心要点。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "离散数学基础 环境依赖搭建与运行机制",
+        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "courseId": "mod-discrete-math-c-1",
+        "lessonId": "mod-discrete-math-l-1"
+      },
+      {
+        "order": 2,
+        "title": "离散数学基础 配置文件覆盖与属性解析",
+        "description": "学习课时: 学习多环境配置管理，利用环境变量覆盖规则进行定制开发。",
+        "courseId": "mod-discrete-math-c-1",
+        "lessonId": "mod-discrete-math-l-2"
+      },
+      {
+        "order": 3,
+        "title": "离散数学基础 API 接口规范与数据通信",
+        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "courseId": "mod-discrete-math-c-2",
+        "lessonId": "mod-discrete-math-l-3"
+      },
+      {
+        "order": 4,
+        "title": "离散数学基础 核心控制器与数据校验机制",
+        "description": "学习课时: 掌握核心控制器的异常处理、拦截器配置与入参格式合法性检查。",
+        "courseId": "mod-discrete-math-c-2",
+        "lessonId": "mod-discrete-math-l-4"
+      },
+      {
+        "order": 5,
+        "title": "离散数学基础 缓存优化与垃圾回收调优",
+        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "courseId": "mod-discrete-math-c-3",
+        "lessonId": "mod-discrete-math-l-5"
+      },
+      {
+        "order": 6,
+        "title": "离散数学基础 可观测性日志与分布式链路监控",
+        "description": "学习课时: 配置全局日志收集管道，分析高负载服务下的运行指标波动。",
+        "courseId": "mod-discrete-math-c-3",
+        "lessonId": "mod-discrete-math-l-6"
+      }
     ]
   },
   {
-    "id": "dm-route-02",
-    "slug": "DM路线2",
-    "title": "DM路线2",
-    "description": "DM路线2",
-    "summary": "DM路线2",
-    "targetUser": "目标2",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-03",
-    "slug": "DM路线3",
-    "title": "DM路线3",
-    "description": "DM路线3",
-    "summary": "DM路线3",
-    "targetUser": "目标3",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-04",
-    "slug": "DM路线4",
-    "title": "DM路线4",
-    "description": "DM路线4",
-    "summary": "DM路线4",
-    "targetUser": "目标4",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-05",
-    "slug": "DM路线5",
-    "title": "DM路线5",
-    "description": "DM路线5",
-    "summary": "DM路线5",
-    "targetUser": "目标5",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-06",
-    "slug": "DM路线6",
-    "title": "DM路线6",
-    "description": "DM路线6",
-    "summary": "DM路线6",
-    "targetUser": "目标6",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-07",
-    "slug": "DM路线7",
-    "title": "DM路线7",
-    "description": "DM路线7",
-    "summary": "DM路线7",
-    "targetUser": "目标7",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-08",
-    "slug": "DM路线8",
-    "title": "DM路线8",
-    "description": "DM路线8",
-    "summary": "DM路线8",
-    "targetUser": "目标8",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-09",
-    "slug": "DM路线9",
-    "title": "DM路线9",
-    "description": "DM路线9",
-    "summary": "DM路线9",
-    "targetUser": "目标9",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-10",
-    "slug": "DM路线10",
-    "title": "DM路线10",
-    "description": "DM路线10",
-    "summary": "DM路线10",
-    "targetUser": "目标10",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-11",
-    "slug": "DM路线11",
-    "title": "DM路线11",
-    "description": "DM路线11",
-    "summary": "DM路线11",
-    "targetUser": "目标11",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-12",
-    "slug": "DM路线12",
-    "title": "DM路线12",
-    "description": "DM路线12",
-    "summary": "DM路线12",
-    "targetUser": "目标12",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-13",
-    "slug": "DM路线13",
-    "title": "DM路线13",
-    "description": "DM路线13",
-    "summary": "DM路线13",
-    "targetUser": "目标13",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-14",
-    "slug": "DM路线14",
-    "title": "DM路线14",
-    "description": "DM路线14",
-    "summary": "DM路线14",
-    "targetUser": "目标14",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-15",
-    "slug": "DM路线15",
-    "title": "DM路线15",
-    "description": "DM路线15",
-    "summary": "DM路线15",
-    "targetUser": "目标15",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-16",
-    "slug": "DM路线16",
-    "title": "DM路线16",
-    "description": "DM路线16",
-    "summary": "DM路线16",
-    "targetUser": "目标16",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-17",
-    "slug": "DM路线17",
-    "title": "DM路线17",
-    "description": "DM路线17",
-    "summary": "DM路线17",
-    "targetUser": "目标17",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-18",
-    "slug": "DM路线18",
-    "title": "DM路线18",
-    "description": "DM路线18",
-    "summary": "DM路线18",
-    "targetUser": "目标18",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-19",
-    "slug": "DM路线19",
-    "title": "DM路线19",
-    "description": "DM路线19",
-    "summary": "DM路线19",
-    "targetUser": "目标19",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-20",
-    "slug": "DM路线20",
-    "title": "DM路线20",
-    "description": "DM路线20",
-    "summary": "DM路线20",
-    "targetUser": "目标20",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-21",
-    "slug": "DM路线21",
-    "title": "DM路线21",
-    "description": "DM路线21",
-    "summary": "DM路线21",
-    "targetUser": "目标21",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-22",
-    "slug": "DM路线22",
-    "title": "DM路线22",
-    "description": "DM路线22",
-    "summary": "DM路线22",
-    "targetUser": "目标22",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-23",
-    "slug": "DM路线23",
-    "title": "DM路线23",
-    "description": "DM路线23",
-    "summary": "DM路线23",
-    "targetUser": "目标23",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-24",
-    "slug": "DM路线24",
-    "title": "DM路线24",
-    "description": "DM路线24",
-    "summary": "DM路线24",
-    "targetUser": "目标24",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-25",
-    "slug": "DM路线25",
-    "title": "DM路线25",
-    "description": "DM路线25",
-    "summary": "DM路线25",
-    "targetUser": "目标25",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-26",
-    "slug": "DM路线26",
-    "title": "DM路线26",
-    "description": "DM路线26",
-    "summary": "DM路线26",
-    "targetUser": "目标26",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-27",
-    "slug": "DM路线27",
-    "title": "DM路线27",
-    "description": "DM路线27",
-    "summary": "DM路线27",
-    "targetUser": "目标27",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-28",
-    "slug": "DM路线28",
-    "title": "DM路线28",
-    "description": "DM路线28",
-    "summary": "DM路线28",
-    "targetUser": "目标28",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-29",
-    "slug": "DM路线29",
-    "title": "DM路线29",
-    "description": "DM路线29",
-    "summary": "DM路线29",
-    "targetUser": "目标29",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-30",
-    "slug": "DM路线30",
-    "title": "DM路线30",
-    "description": "DM路线30",
-    "summary": "DM路线30",
-    "targetUser": "目标30",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-31",
-    "slug": "DM路线31",
-    "title": "DM路线31",
-    "description": "DM路线31",
-    "summary": "DM路线31",
-    "targetUser": "目标31",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-32",
-    "slug": "DM路线32",
-    "title": "DM路线32",
-    "description": "DM路线32",
-    "summary": "DM路线32",
-    "targetUser": "目标32",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-33",
-    "slug": "DM路线33",
-    "title": "DM路线33",
-    "description": "DM路线33",
-    "summary": "DM路线33",
-    "targetUser": "目标33",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-34",
-    "slug": "DM路线34",
-    "title": "DM路线34",
-    "description": "DM路线34",
-    "summary": "DM路线34",
-    "targetUser": "目标34",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ]
-  },
-  {
-    "id": "dm-route-35",
-    "slug": "DM路线35",
-    "title": "DM路线35",
-    "description": "DM路线35",
-    "summary": "DM路线35",
-    "targetUser": "目标35",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
+    "id": "mod-discrete-math-route-2",
+    "slug": "quick-start-path",
+    "title": "离散数学基础 快速通关极速路线",
+    "summary": "专为快速开发或面试突击设计的速成学习路径。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "离散数学基础 环境依赖搭建与运行机制",
+        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "courseId": "mod-discrete-math-c-1",
+        "lessonId": "mod-discrete-math-l-1"
+      },
+      {
+        "order": 3,
+        "title": "离散数学基础 API 接口规范与数据通信",
+        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "courseId": "mod-discrete-math-c-2",
+        "lessonId": "mod-discrete-math-l-3"
+      },
+      {
+        "order": 5,
+        "title": "离散数学基础 缓存优化与垃圾回收调优",
+        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "courseId": "mod-discrete-math-c-3",
+        "lessonId": "mod-discrete-math-l-5"
+      }
     ]
   }
 ]
