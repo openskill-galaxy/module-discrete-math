@@ -1,31 +1,60 @@
 [
   {
     "id": "mod-discrete-math-exam-1",
-    "slug": "final-exam",
-    "title": "离散数学基础 核心期末综合自测",
-    "summary": "全面检验您对 离散数学基础 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "离散数学基础入门测验",
+    "summary": "覆盖集合运算、命题逻辑等值式与图论入门等基础概念，适合入门自测。",
     "difficulty": "easy",
     "questionIds": [
       "mod-discrete-math-q-1",
       "mod-discrete-math-q-2",
       "mod-discrete-math-q-3",
-      "mod-discrete-math-q-4",
-      "mod-discrete-math-q-5",
-      "mod-discrete-math-q-6"
+      "mod-discrete-math-q-6",
+      "mod-discrete-math-q-9",
+      "mod-discrete-math-q-11",
+      "mod-discrete-math-q-19",
+      "mod-discrete-math-q-24"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-discrete-math-exam-2",
-    "slug": "basic-exam",
-    "title": "离散数学基础 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "关系、逻辑与图论进阶强化测验",
+    "summary": "聚焦等价关系、偏序与哈斯图、欧拉回路和推理规则等进阶主题。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-discrete-math-q-1",
-      "mod-discrete-math-q-2",
-      "mod-discrete-math-q-3"
+      "mod-discrete-math-q-4",
+      "mod-discrete-math-q-7",
+      "mod-discrete-math-q-8",
+      "mod-discrete-math-q-10",
+      "mod-discrete-math-q-12",
+      "mod-discrete-math-q-13",
+      "mod-discrete-math-q-14",
+      "mod-discrete-math-q-16",
+      "mod-discrete-math-q-20",
+      "mod-discrete-math-q-23"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-discrete-math-exam-3",
+    "slug": "comprehensive-exam",
+    "title": "离散数学综合模拟卷",
+    "summary": "综合量词推理、平面图、数学归纳法与 NP 完全问题的高阶模拟测试。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-discrete-math-q-5",
+      "mod-discrete-math-q-12",
+      "mod-discrete-math-q-15",
+      "mod-discrete-math-q-16",
+      "mod-discrete-math-q-17",
+      "mod-discrete-math-q-18",
+      "mod-discrete-math-q-21",
+      "mod-discrete-math-q-22",
+      "mod-discrete-math-q-23"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60

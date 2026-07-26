@@ -5,11 +5,7 @@
     "description": "通过集合运算掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-003478",
-      "dm-q-003385",
-      "dm-q-003361"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "集合运算"
     ],
@@ -29,11 +25,7 @@
     "description": "通过关系性质掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001438",
-      "dm-q-003481",
-      "dm-q-002472"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "关系性质"
     ],
@@ -53,11 +45,7 @@
     "description": "通过等价关系掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002461",
-      "dm-q-001878",
-      "dm-q-000075"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价关系"
     ],
@@ -77,11 +65,7 @@
     "description": "通过偏序哈斯图掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000251",
-      "dm-q-000742",
-      "dm-q-002659"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "偏序哈斯图"
     ],
@@ -101,11 +85,7 @@
     "description": "通过函数判断掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000420",
-      "dm-q-001741",
-      "dm-q-002456"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "函数判断"
     ],
@@ -125,11 +105,7 @@
     "description": "通过真值表掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-003461",
-      "dm-q-000354",
-      "dm-q-002162"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "真值表"
     ],
@@ -149,11 +125,7 @@
     "description": "通过命题等价掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002908",
-      "dm-q-002058",
-      "dm-q-002009"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "命题等价"
     ],
@@ -173,11 +145,7 @@
     "description": "通过主范式掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-003166",
-      "dm-q-003219",
-      "dm-q-000028"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "主范式"
     ],
@@ -197,11 +165,7 @@
     "description": "通过谓词翻译掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002907",
-      "dm-q-001200",
-      "dm-q-003067"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谓词翻译"
     ],
@@ -221,11 +185,7 @@
     "description": "通过推理证明掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000824",
-      "dm-q-001072",
-      "dm-q-000240"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "推理证明"
     ],
@@ -245,11 +205,7 @@
     "description": "通过反证法掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001923",
-      "dm-q-002705",
-      "dm-q-002123"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "反证法"
     ],
@@ -269,11 +225,7 @@
     "description": "通过归纳法掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002859",
-      "dm-q-000901",
-      "dm-q-001477"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "归纳法"
     ],
@@ -293,11 +245,7 @@
     "description": "通过排列组合掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002558",
-      "dm-q-001386",
-      "dm-q-001277"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "排列组合"
     ],
@@ -317,11 +265,7 @@
     "description": "通过容斥原理掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001632",
-      "dm-q-001566",
-      "dm-q-000480"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "容斥原理"
     ],
@@ -341,11 +285,7 @@
     "description": "通过递推求解掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000382",
-      "dm-q-001754",
-      "dm-q-001455"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "递推求解"
     ],
@@ -365,11 +305,7 @@
     "description": "通过连通性掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001144",
-      "dm-q-003491",
-      "dm-q-002538"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "连通性"
     ],
@@ -389,11 +325,7 @@
     "description": "通过欧拉图掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002790",
-      "dm-q-001447",
-      "dm-q-001833"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "欧拉图"
     ],
@@ -413,11 +345,7 @@
     "description": "通过树结构掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001346",
-      "dm-q-000925",
-      "dm-q-003341"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "树结构"
     ],
@@ -437,11 +365,7 @@
     "description": "通过最小生成树掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-003347",
-      "dm-q-000476",
-      "dm-q-000604"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最小生成树"
     ],
@@ -461,11 +385,7 @@
     "description": "通过布尔化简掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000884",
-      "dm-q-002033",
-      "dm-q-003200"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "布尔化简"
     ],
@@ -485,11 +405,7 @@
     "description": "通过集合运算掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000981",
-      "dm-q-000013",
-      "dm-q-000706"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "集合运算"
     ],
@@ -509,11 +425,7 @@
     "description": "通过关系性质掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002268",
-      "dm-q-001316",
-      "dm-q-002547"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "关系性质"
     ],
@@ -533,11 +445,7 @@
     "description": "通过等价关系掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000181",
-      "dm-q-003137",
-      "dm-q-003518"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价关系"
     ],
@@ -557,11 +465,7 @@
     "description": "通过偏序哈斯图掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-003469",
-      "dm-q-003493",
-      "dm-q-002060"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "偏序哈斯图"
     ],
@@ -581,11 +485,7 @@
     "description": "通过函数判断掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001258",
-      "dm-q-001746",
-      "dm-q-000894"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "函数判断"
     ],
@@ -605,11 +505,7 @@
     "description": "通过真值表掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001430",
-      "dm-q-002666",
-      "dm-q-002578"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "真值表"
     ],
@@ -629,11 +525,7 @@
     "description": "通过命题等价掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000909",
-      "dm-q-002806",
-      "dm-q-002736"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "命题等价"
     ],
@@ -653,11 +545,7 @@
     "description": "通过主范式掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000516",
-      "dm-q-002963",
-      "dm-q-002137"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "主范式"
     ],
@@ -677,11 +565,7 @@
     "description": "通过谓词翻译掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-003260",
-      "dm-q-002799",
-      "dm-q-002831"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谓词翻译"
     ],
@@ -701,11 +585,7 @@
     "description": "通过推理证明掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001518",
-      "dm-q-002067",
-      "dm-q-000961"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "推理证明"
     ],
@@ -725,11 +605,7 @@
     "description": "通过反证法掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000277",
-      "dm-q-002269",
-      "dm-q-000644"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "反证法"
     ],
@@ -749,11 +625,7 @@
     "description": "通过归纳法掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001213",
-      "dm-q-001814",
-      "dm-q-000745"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "归纳法"
     ],
@@ -773,11 +645,7 @@
     "description": "通过排列组合掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002533",
-      "dm-q-001950",
-      "dm-q-002957"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "排列组合"
     ],
@@ -797,11 +665,7 @@
     "description": "通过容斥原理掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001925",
-      "dm-q-001799",
-      "dm-q-000290"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "容斥原理"
     ],
@@ -821,11 +685,7 @@
     "description": "通过递推求解掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001668",
-      "dm-q-000206",
-      "dm-q-002037"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "递推求解"
     ],
@@ -845,11 +705,7 @@
     "description": "通过连通性掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-003507",
-      "dm-q-001028",
-      "dm-q-000505"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "连通性"
     ],
@@ -869,11 +725,7 @@
     "description": "通过欧拉图掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002505",
-      "dm-q-001858",
-      "dm-q-000377"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "欧拉图"
     ],
@@ -893,11 +745,7 @@
     "description": "通过树结构掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001962",
-      "dm-q-003646",
-      "dm-q-001936"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "树结构"
     ],
@@ -917,11 +765,7 @@
     "description": "通过最小生成树掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002693",
-      "dm-q-000627",
-      "dm-q-000692"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最小生成树"
     ],
@@ -941,11 +785,7 @@
     "description": "通过布尔化简掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001376",
-      "dm-q-003040",
-      "dm-q-002775"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "布尔化简"
     ],
@@ -965,11 +805,7 @@
     "description": "通过集合运算掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000467",
-      "dm-q-003531",
-      "dm-q-001855"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "集合运算"
     ],
@@ -989,11 +825,7 @@
     "description": "通过关系性质掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001907",
-      "dm-q-003091",
-      "dm-q-000293"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "关系性质"
     ],
@@ -1013,11 +845,7 @@
     "description": "通过等价关系掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000439",
-      "dm-q-001623",
-      "dm-q-003630"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价关系"
     ],
@@ -1037,11 +865,7 @@
     "description": "通过偏序哈斯图掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000379",
-      "dm-q-003490",
-      "dm-q-001801"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "偏序哈斯图"
     ],
@@ -1061,11 +885,7 @@
     "description": "通过函数判断掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002072",
-      "dm-q-002395",
-      "dm-q-000274"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "函数判断"
     ],
@@ -1085,11 +905,7 @@
     "description": "通过真值表掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001554",
-      "dm-q-000647",
-      "dm-q-002959"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "真值表"
     ],
@@ -1109,11 +925,7 @@
     "description": "通过命题等价掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-003442",
-      "dm-q-003437",
-      "dm-q-002077"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "命题等价"
     ],
@@ -1133,11 +945,7 @@
     "description": "通过主范式掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002801",
-      "dm-q-003398",
-      "dm-q-001764"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "主范式"
     ],
@@ -1157,11 +965,7 @@
     "description": "通过谓词翻译掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-003657",
-      "dm-q-003403",
-      "dm-q-001837"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谓词翻译"
     ],
@@ -1181,11 +985,7 @@
     "description": "通过推理证明掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002731",
-      "dm-q-001418",
-      "dm-q-002760"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "推理证明"
     ],
@@ -1205,11 +1005,7 @@
     "description": "通过反证法掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001774",
-      "dm-q-002121",
-      "dm-q-003388"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "反证法"
     ],
@@ -1229,11 +1025,7 @@
     "description": "通过归纳法掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002866",
-      "dm-q-002436",
-      "dm-q-001677"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "归纳法"
     ],
@@ -1253,11 +1045,7 @@
     "description": "通过排列组合掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-003410",
-      "dm-q-002016",
-      "dm-q-001663"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "排列组合"
     ],
@@ -1277,11 +1065,7 @@
     "description": "通过容斥原理掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-003609",
-      "dm-q-002021",
-      "dm-q-002115"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "容斥原理"
     ],
@@ -1301,11 +1085,7 @@
     "description": "通过递推求解掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000927",
-      "dm-q-003105",
-      "dm-q-001469"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "递推求解"
     ],
@@ -1325,11 +1105,7 @@
     "description": "通过连通性掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000203",
-      "dm-q-001668",
-      "dm-q-001908"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "连通性"
     ],
@@ -1349,11 +1125,7 @@
     "description": "通过欧拉图掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002635",
-      "dm-q-003242",
-      "dm-q-000721"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "欧拉图"
     ],
@@ -1373,11 +1145,7 @@
     "description": "通过树结构掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001561",
-      "dm-q-000790",
-      "dm-q-000200"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "树结构"
     ],
@@ -1397,11 +1165,7 @@
     "description": "通过最小生成树掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002234",
-      "dm-q-001007",
-      "dm-q-002193"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最小生成树"
     ],
@@ -1421,11 +1185,7 @@
     "description": "通过布尔化简掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-003593",
-      "dm-q-002773",
-      "dm-q-000829"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "布尔化简"
     ],
@@ -1445,11 +1205,7 @@
     "description": "通过集合运算掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000563",
-      "dm-q-002838",
-      "dm-q-002355"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "集合运算"
     ],
@@ -1469,11 +1225,7 @@
     "description": "通过关系性质掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001637",
-      "dm-q-001435",
-      "dm-q-001973"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "关系性质"
     ],
@@ -1493,11 +1245,7 @@
     "description": "通过等价关系掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002078",
-      "dm-q-003311",
-      "dm-q-001291"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价关系"
     ],
@@ -1517,11 +1265,7 @@
     "description": "通过偏序哈斯图掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001885",
-      "dm-q-003481",
-      "dm-q-000356"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "偏序哈斯图"
     ],
@@ -1541,11 +1285,7 @@
     "description": "通过函数判断掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000617",
-      "dm-q-003565",
-      "dm-q-000223"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "函数判断"
     ],
@@ -1565,11 +1305,7 @@
     "description": "通过真值表掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001345",
-      "dm-q-003242",
-      "dm-q-002059"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "真值表"
     ],
@@ -1589,11 +1325,7 @@
     "description": "通过命题等价掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-002824",
-      "dm-q-002560",
-      "dm-q-000578"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "命题等价"
     ],
@@ -1613,11 +1345,7 @@
     "description": "通过主范式掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001907",
-      "dm-q-000206",
-      "dm-q-001722"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "主范式"
     ],
@@ -1637,11 +1365,7 @@
     "description": "通过谓词翻译掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-003457",
-      "dm-q-001426",
-      "dm-q-003658"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谓词翻译"
     ],
@@ -1661,11 +1385,7 @@
     "description": "通过推理证明掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001524",
-      "dm-q-000486",
-      "dm-q-002557"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "推理证明"
     ],
@@ -1685,11 +1405,7 @@
     "description": "通过反证法掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000824",
-      "dm-q-001265",
-      "dm-q-003423"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "反证法"
     ],
@@ -1709,11 +1425,7 @@
     "description": "通过归纳法掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000348",
-      "dm-q-000885",
-      "dm-q-002344"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "归纳法"
     ],
@@ -1733,11 +1445,7 @@
     "description": "通过排列组合掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001835",
-      "dm-q-002690",
-      "dm-q-001873"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "排列组合"
     ],
@@ -1757,11 +1465,7 @@
     "description": "通过容斥原理掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-003520",
-      "dm-q-001781",
-      "dm-q-003357"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "容斥原理"
     ],
@@ -1781,11 +1485,7 @@
     "description": "通过递推求解掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-003068",
-      "dm-q-001587",
-      "dm-q-001095"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "递推求解"
     ],
@@ -1805,11 +1505,7 @@
     "description": "通过连通性掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000290",
-      "dm-q-001049",
-      "dm-q-002630"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "连通性"
     ],
@@ -1829,11 +1525,7 @@
     "description": "通过欧拉图掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001954",
-      "dm-q-000361",
-      "dm-q-002038"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "欧拉图"
     ],
@@ -1853,11 +1545,7 @@
     "description": "通过树结构掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-000818",
-      "dm-q-003181",
-      "dm-q-000753"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "树结构"
     ],
@@ -1877,11 +1565,7 @@
     "description": "通过最小生成树掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001604",
-      "dm-q-002151",
-      "dm-q-000901"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最小生成树"
     ],
@@ -1901,11 +1585,7 @@
     "description": "通过布尔化简掌握DM",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "dm-q-001059",
-      "dm-q-001015",
-      "dm-q-000097"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "布尔化简"
     ],
@@ -1925,11 +1605,7 @@
     "description": "通过集合运算掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001604",
-      "dm-q-001209",
-      "dm-q-002589"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "集合运算"
     ],
@@ -1949,11 +1625,7 @@
     "description": "通过关系性质掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002979",
-      "dm-q-000196",
-      "dm-q-000371"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "关系性质"
     ],
@@ -1973,11 +1645,7 @@
     "description": "通过等价关系掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002666",
-      "dm-q-003092",
-      "dm-q-002946"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价关系"
     ],
@@ -1997,11 +1665,7 @@
     "description": "通过偏序哈斯图掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001674",
-      "dm-q-002570",
-      "dm-q-001552"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "偏序哈斯图"
     ],
@@ -2021,11 +1685,7 @@
     "description": "通过函数判断掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-000534",
-      "dm-q-001611",
-      "dm-q-003621"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "函数判断"
     ],
@@ -2045,11 +1705,7 @@
     "description": "通过真值表掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001775",
-      "dm-q-001525",
-      "dm-q-000479"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "真值表"
     ],
@@ -2069,11 +1725,7 @@
     "description": "通过命题等价掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003421",
-      "dm-q-002921",
-      "dm-q-003587"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "命题等价"
     ],
@@ -2093,11 +1745,7 @@
     "description": "通过主范式掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003626",
-      "dm-q-003538",
-      "dm-q-002741"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "主范式"
     ],
@@ -2117,11 +1765,7 @@
     "description": "通过谓词翻译掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001576",
-      "dm-q-003447",
-      "dm-q-003558"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谓词翻译"
     ],
@@ -2141,11 +1785,7 @@
     "description": "通过推理证明掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-000057",
-      "dm-q-000749",
-      "dm-q-001193"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "推理证明"
     ],
@@ -2165,11 +1805,7 @@
     "description": "通过反证法掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001900",
-      "dm-q-001106",
-      "dm-q-001264"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "反证法"
     ],
@@ -2189,11 +1825,7 @@
     "description": "通过归纳法掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002435",
-      "dm-q-001718",
-      "dm-q-001178"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "归纳法"
     ],
@@ -2213,11 +1845,7 @@
     "description": "通过排列组合掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003307",
-      "dm-q-001531",
-      "dm-q-001377"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "排列组合"
     ],
@@ -2237,11 +1865,7 @@
     "description": "通过容斥原理掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003471",
-      "dm-q-000904",
-      "dm-q-002877"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "容斥原理"
     ],
@@ -2261,11 +1885,7 @@
     "description": "通过递推求解掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002553",
-      "dm-q-002584",
-      "dm-q-002557"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "递推求解"
     ],
@@ -2285,11 +1905,7 @@
     "description": "通过连通性掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001244",
-      "dm-q-000855",
-      "dm-q-001695"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "连通性"
     ],
@@ -2309,11 +1925,7 @@
     "description": "通过欧拉图掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002355",
-      "dm-q-000832",
-      "dm-q-001000"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "欧拉图"
     ],
@@ -2333,11 +1945,7 @@
     "description": "通过树结构掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001869",
-      "dm-q-002340",
-      "dm-q-002666"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "树结构"
     ],
@@ -2357,11 +1965,7 @@
     "description": "通过最小生成树掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002037",
-      "dm-q-001809",
-      "dm-q-003698"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最小生成树"
     ],
@@ -2381,11 +1985,7 @@
     "description": "通过布尔化简掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001443",
-      "dm-q-002693",
-      "dm-q-002847"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "布尔化简"
     ],
@@ -2405,11 +2005,7 @@
     "description": "通过集合运算掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001264",
-      "dm-q-002564",
-      "dm-q-003252"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "集合运算"
     ],
@@ -2429,11 +2025,7 @@
     "description": "通过关系性质掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002660",
-      "dm-q-000773",
-      "dm-q-003081"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "关系性质"
     ],
@@ -2453,11 +2045,7 @@
     "description": "通过等价关系掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001180",
-      "dm-q-001845",
-      "dm-q-001881"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价关系"
     ],
@@ -2477,11 +2065,7 @@
     "description": "通过偏序哈斯图掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001133",
-      "dm-q-003166",
-      "dm-q-000665"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "偏序哈斯图"
     ],
@@ -2501,11 +2085,7 @@
     "description": "通过函数判断掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-000771",
-      "dm-q-002361",
-      "dm-q-001981"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "函数判断"
     ],
@@ -2525,11 +2105,7 @@
     "description": "通过真值表掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003489",
-      "dm-q-001842",
-      "dm-q-000353"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "真值表"
     ],
@@ -2549,11 +2125,7 @@
     "description": "通过命题等价掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001589",
-      "dm-q-002958",
-      "dm-q-001320"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "命题等价"
     ],
@@ -2573,11 +2145,7 @@
     "description": "通过主范式掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003423",
-      "dm-q-002802",
-      "dm-q-001071"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "主范式"
     ],
@@ -2597,11 +2165,7 @@
     "description": "通过谓词翻译掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002319",
-      "dm-q-001585",
-      "dm-q-003200"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谓词翻译"
     ],
@@ -2621,11 +2185,7 @@
     "description": "通过推理证明掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001759",
-      "dm-q-000934",
-      "dm-q-000770"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "推理证明"
     ],
@@ -2645,11 +2205,7 @@
     "description": "通过反证法掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002864",
-      "dm-q-000491",
-      "dm-q-000754"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "反证法"
     ],
@@ -2669,11 +2225,7 @@
     "description": "通过归纳法掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001509",
-      "dm-q-003678",
-      "dm-q-002639"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "归纳法"
     ],
@@ -2693,11 +2245,7 @@
     "description": "通过排列组合掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001428",
-      "dm-q-002076",
-      "dm-q-002925"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "排列组合"
     ],
@@ -2717,11 +2265,7 @@
     "description": "通过容斥原理掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003249",
-      "dm-q-000080",
-      "dm-q-000368"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "容斥原理"
     ],
@@ -2741,11 +2285,7 @@
     "description": "通过递推求解掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003083",
-      "dm-q-001272",
-      "dm-q-002620"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "递推求解"
     ],
@@ -2765,11 +2305,7 @@
     "description": "通过连通性掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001145",
-      "dm-q-002406",
-      "dm-q-002676"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "连通性"
     ],
@@ -2789,11 +2325,7 @@
     "description": "通过欧拉图掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002975",
-      "dm-q-001137",
-      "dm-q-002526"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "欧拉图"
     ],
@@ -2813,11 +2345,7 @@
     "description": "通过树结构掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001249",
-      "dm-q-000498",
-      "dm-q-001184"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "树结构"
     ],
@@ -2837,11 +2365,7 @@
     "description": "通过最小生成树掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003134",
-      "dm-q-000565",
-      "dm-q-001373"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最小生成树"
     ],
@@ -2861,11 +2385,7 @@
     "description": "通过布尔化简掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001218",
-      "dm-q-002272",
-      "dm-q-000075"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "布尔化简"
     ],
@@ -2885,11 +2405,7 @@
     "description": "通过集合运算掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-000218",
-      "dm-q-001373",
-      "dm-q-001468"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "集合运算"
     ],
@@ -2909,11 +2425,7 @@
     "description": "通过关系性质掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002726",
-      "dm-q-002232",
-      "dm-q-001629"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "关系性质"
     ],
@@ -2933,11 +2445,7 @@
     "description": "通过等价关系掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001991",
-      "dm-q-002737",
-      "dm-q-003407"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价关系"
     ],
@@ -2957,11 +2465,7 @@
     "description": "通过偏序哈斯图掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003272",
-      "dm-q-002197",
-      "dm-q-003111"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "偏序哈斯图"
     ],
@@ -2981,11 +2485,7 @@
     "description": "通过函数判断掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002172",
-      "dm-q-003413",
-      "dm-q-002692"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "函数判断"
     ],
@@ -3005,11 +2505,7 @@
     "description": "通过真值表掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-000453",
-      "dm-q-001931",
-      "dm-q-002154"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "真值表"
     ],
@@ -3029,11 +2525,7 @@
     "description": "通过命题等价掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003698",
-      "dm-q-000872",
-      "dm-q-001396"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "命题等价"
     ],
@@ -3053,11 +2545,7 @@
     "description": "通过主范式掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003123",
-      "dm-q-003379",
-      "dm-q-000701"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "主范式"
     ],
@@ -3077,11 +2565,7 @@
     "description": "通过谓词翻译掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002763",
-      "dm-q-002517",
-      "dm-q-000600"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谓词翻译"
     ],
@@ -3101,11 +2585,7 @@
     "description": "通过推理证明掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003270",
-      "dm-q-002842",
-      "dm-q-000606"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "推理证明"
     ],
@@ -3125,11 +2605,7 @@
     "description": "通过反证法掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-000932",
-      "dm-q-001719",
-      "dm-q-000488"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "反证法"
     ],
@@ -3149,11 +2625,7 @@
     "description": "通过归纳法掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001753",
-      "dm-q-002058",
-      "dm-q-000237"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "归纳法"
     ],
@@ -3173,11 +2645,7 @@
     "description": "通过排列组合掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003320",
-      "dm-q-000256",
-      "dm-q-001739"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "排列组合"
     ],
@@ -3197,11 +2665,7 @@
     "description": "通过容斥原理掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003551",
-      "dm-q-001575",
-      "dm-q-001967"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "容斥原理"
     ],
@@ -3221,11 +2685,7 @@
     "description": "通过递推求解掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002298",
-      "dm-q-000144",
-      "dm-q-000584"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "递推求解"
     ],
@@ -3245,11 +2705,7 @@
     "description": "通过连通性掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001974",
-      "dm-q-002116",
-      "dm-q-001313"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "连通性"
     ],
@@ -3269,11 +2725,7 @@
     "description": "通过欧拉图掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-000234",
-      "dm-q-002735",
-      "dm-q-000225"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "欧拉图"
     ],
@@ -3293,11 +2745,7 @@
     "description": "通过树结构掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001659",
-      "dm-q-002084",
-      "dm-q-000099"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "树结构"
     ],
@@ -3317,11 +2765,7 @@
     "description": "通过最小生成树掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001703",
-      "dm-q-003217",
-      "dm-q-000148"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最小生成树"
     ],
@@ -3341,11 +2785,7 @@
     "description": "通过布尔化简掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002980",
-      "dm-q-003538",
-      "dm-q-000621"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "布尔化简"
     ],
@@ -3365,11 +2805,7 @@
     "description": "通过集合运算掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001179",
-      "dm-q-002570",
-      "dm-q-000111"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "集合运算"
     ],
@@ -3389,11 +2825,7 @@
     "description": "通过关系性质掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001123",
-      "dm-q-000940",
-      "dm-q-002275"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "关系性质"
     ],
@@ -3413,11 +2845,7 @@
     "description": "通过等价关系掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003566",
-      "dm-q-001459",
-      "dm-q-000943"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价关系"
     ],
@@ -3437,11 +2865,7 @@
     "description": "通过偏序哈斯图掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-000516",
-      "dm-q-000378",
-      "dm-q-002773"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "偏序哈斯图"
     ],
@@ -3461,11 +2885,7 @@
     "description": "通过函数判断掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002019",
-      "dm-q-000703",
-      "dm-q-002627"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "函数判断"
     ],
@@ -3485,11 +2905,7 @@
     "description": "通过真值表掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001429",
-      "dm-q-002778",
-      "dm-q-001538"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "真值表"
     ],
@@ -3509,11 +2925,7 @@
     "description": "通过命题等价掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002282",
-      "dm-q-000116",
-      "dm-q-000955"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "命题等价"
     ],
@@ -3533,11 +2945,7 @@
     "description": "通过主范式掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003198",
-      "dm-q-001819",
-      "dm-q-002577"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "主范式"
     ],
@@ -3557,11 +2965,7 @@
     "description": "通过谓词翻译掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002432",
-      "dm-q-002216",
-      "dm-q-001498"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谓词翻译"
     ],
@@ -3581,11 +2985,7 @@
     "description": "通过推理证明掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001051",
-      "dm-q-003459",
-      "dm-q-002320"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "推理证明"
     ],
@@ -3605,11 +3005,7 @@
     "description": "通过反证法掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003668",
-      "dm-q-001434",
-      "dm-q-001686"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "反证法"
     ],
@@ -3629,11 +3025,7 @@
     "description": "通过归纳法掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002566",
-      "dm-q-000898",
-      "dm-q-003671"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "归纳法"
     ],
@@ -3653,11 +3045,7 @@
     "description": "通过排列组合掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-001989",
-      "dm-q-000425",
-      "dm-q-003381"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "排列组合"
     ],
@@ -3677,11 +3065,7 @@
     "description": "通过容斥原理掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-000287",
-      "dm-q-002872",
-      "dm-q-003083"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "容斥原理"
     ],
@@ -3701,11 +3085,7 @@
     "description": "通过递推求解掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002155",
-      "dm-q-000122",
-      "dm-q-003651"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "递推求解"
     ],
@@ -3725,11 +3105,7 @@
     "description": "通过连通性掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-000274",
-      "dm-q-000269",
-      "dm-q-001189"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "连通性"
     ],
@@ -3749,11 +3125,7 @@
     "description": "通过欧拉图掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002501",
-      "dm-q-001304",
-      "dm-q-002425"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "欧拉图"
     ],
@@ -3773,11 +3145,7 @@
     "description": "通过树结构掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-003527",
-      "dm-q-001905",
-      "dm-q-001974"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "树结构"
     ],
@@ -3797,11 +3165,7 @@
     "description": "通过最小生成树掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-000859",
-      "dm-q-003581",
-      "dm-q-001524"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最小生成树"
     ],
@@ -3821,11 +3185,7 @@
     "description": "通过布尔化简掌握DM",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "dm-q-002671",
-      "dm-q-003336",
-      "dm-q-002001"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "布尔化简"
     ],
@@ -3845,11 +3205,7 @@
     "description": "通过集合运算掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003206",
-      "dm-q-002930",
-      "dm-q-002536"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "集合运算"
     ],
@@ -3869,11 +3225,7 @@
     "description": "通过关系性质掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002209",
-      "dm-q-000539",
-      "dm-q-003676"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "关系性质"
     ],
@@ -3893,11 +3245,7 @@
     "description": "通过等价关系掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000796",
-      "dm-q-002751",
-      "dm-q-002965"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价关系"
     ],
@@ -3917,11 +3265,7 @@
     "description": "通过偏序哈斯图掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002461",
-      "dm-q-003176",
-      "dm-q-003541"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "偏序哈斯图"
     ],
@@ -3941,11 +3285,7 @@
     "description": "通过函数判断掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002269",
-      "dm-q-002999",
-      "dm-q-003583"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "函数判断"
     ],
@@ -3965,11 +3305,7 @@
     "description": "通过真值表掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000035",
-      "dm-q-000501",
-      "dm-q-000770"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "真值表"
     ],
@@ -3989,11 +3325,7 @@
     "description": "通过命题等价掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003689",
-      "dm-q-000080",
-      "dm-q-000893"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "命题等价"
     ],
@@ -4013,11 +3345,7 @@
     "description": "通过主范式掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000769",
-      "dm-q-000655",
-      "dm-q-001483"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "主范式"
     ],
@@ -4037,11 +3365,7 @@
     "description": "通过谓词翻译掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002959",
-      "dm-q-002227",
-      "dm-q-003548"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谓词翻译"
     ],
@@ -4061,11 +3385,7 @@
     "description": "通过推理证明掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003176",
-      "dm-q-002825",
-      "dm-q-000284"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "推理证明"
     ],
@@ -4085,11 +3405,7 @@
     "description": "通过反证法掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000659",
-      "dm-q-003113",
-      "dm-q-001924"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "反证法"
     ],
@@ -4109,11 +3425,7 @@
     "description": "通过归纳法掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001533",
-      "dm-q-003163",
-      "dm-q-000170"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "归纳法"
     ],
@@ -4133,11 +3445,7 @@
     "description": "通过排列组合掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002192",
-      "dm-q-000685",
-      "dm-q-000406"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "排列组合"
     ],
@@ -4157,11 +3465,7 @@
     "description": "通过容斥原理掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001270",
-      "dm-q-003015",
-      "dm-q-002602"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "容斥原理"
     ],
@@ -4181,11 +3485,7 @@
     "description": "通过递推求解掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003416",
-      "dm-q-001908",
-      "dm-q-002328"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "递推求解"
     ],
@@ -4205,11 +3505,7 @@
     "description": "通过连通性掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002036",
-      "dm-q-003393",
-      "dm-q-000651"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "连通性"
     ],
@@ -4229,11 +3525,7 @@
     "description": "通过欧拉图掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003172",
-      "dm-q-001725",
-      "dm-q-000843"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "欧拉图"
     ],
@@ -4253,11 +3545,7 @@
     "description": "通过树结构掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002302",
-      "dm-q-001261",
-      "dm-q-000139"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "树结构"
     ],
@@ -4277,11 +3565,7 @@
     "description": "通过最小生成树掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003313",
-      "dm-q-001135",
-      "dm-q-001914"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最小生成树"
     ],
@@ -4301,11 +3585,7 @@
     "description": "通过布尔化简掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003045",
-      "dm-q-003274",
-      "dm-q-000464"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "布尔化简"
     ],
@@ -4325,11 +3605,7 @@
     "description": "通过集合运算掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003393",
-      "dm-q-000297",
-      "dm-q-003693"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "集合运算"
     ],
@@ -4349,11 +3625,7 @@
     "description": "通过关系性质掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003151",
-      "dm-q-001121",
-      "dm-q-000389"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "关系性质"
     ],
@@ -4373,11 +3645,7 @@
     "description": "通过等价关系掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003010",
-      "dm-q-003195",
-      "dm-q-000433"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价关系"
     ],
@@ -4397,11 +3665,7 @@
     "description": "通过偏序哈斯图掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003005",
-      "dm-q-000189",
-      "dm-q-003126"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "偏序哈斯图"
     ],
@@ -4421,11 +3685,7 @@
     "description": "通过函数判断掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002958",
-      "dm-q-001555",
-      "dm-q-002813"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "函数判断"
     ],
@@ -4445,11 +3705,7 @@
     "description": "通过真值表掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002763",
-      "dm-q-003532",
-      "dm-q-000212"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "真值表"
     ],
@@ -4469,11 +3725,7 @@
     "description": "通过命题等价掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000718",
-      "dm-q-000911",
-      "dm-q-002757"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "命题等价"
     ],
@@ -4493,11 +3745,7 @@
     "description": "通过主范式掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002902",
-      "dm-q-002872",
-      "dm-q-001831"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "主范式"
     ],
@@ -4517,11 +3765,7 @@
     "description": "通过谓词翻译掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002387",
-      "dm-q-001689",
-      "dm-q-001904"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谓词翻译"
     ],
@@ -4541,11 +3785,7 @@
     "description": "通过推理证明掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001991",
-      "dm-q-001053",
-      "dm-q-000480"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "推理证明"
     ],
@@ -4565,11 +3805,7 @@
     "description": "通过反证法掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000302",
-      "dm-q-002926",
-      "dm-q-000688"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "反证法"
     ],
@@ -4589,11 +3825,7 @@
     "description": "通过归纳法掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000559",
-      "dm-q-001765",
-      "dm-q-000040"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "归纳法"
     ],
@@ -4613,11 +3845,7 @@
     "description": "通过排列组合掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002440",
-      "dm-q-001965",
-      "dm-q-001269"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "排列组合"
     ],
@@ -4637,11 +3865,7 @@
     "description": "通过容斥原理掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002692",
-      "dm-q-000585",
-      "dm-q-002435"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "容斥原理"
     ],
@@ -4661,11 +3885,7 @@
     "description": "通过递推求解掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003132",
-      "dm-q-002734",
-      "dm-q-003412"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "递推求解"
     ],
@@ -4685,11 +3905,7 @@
     "description": "通过连通性掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000708",
-      "dm-q-003396",
-      "dm-q-003176"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "连通性"
     ],
@@ -4709,11 +3925,7 @@
     "description": "通过欧拉图掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003671",
-      "dm-q-002544",
-      "dm-q-002816"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "欧拉图"
     ],
@@ -4733,11 +3945,7 @@
     "description": "通过树结构掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002041",
-      "dm-q-001692",
-      "dm-q-001678"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "树结构"
     ],
@@ -4757,11 +3965,7 @@
     "description": "通过最小生成树掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001497",
-      "dm-q-000226",
-      "dm-q-000378"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最小生成树"
     ],
@@ -4781,11 +3985,7 @@
     "description": "通过布尔化简掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000728",
-      "dm-q-001411",
-      "dm-q-000163"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "布尔化简"
     ],
@@ -4805,11 +4005,7 @@
     "description": "通过集合运算掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000379",
-      "dm-q-003033",
-      "dm-q-002420"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "集合运算"
     ],
@@ -4829,11 +4025,7 @@
     "description": "通过关系性质掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001989",
-      "dm-q-002995",
-      "dm-q-003310"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "关系性质"
     ],
@@ -4853,11 +4045,7 @@
     "description": "通过等价关系掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001030",
-      "dm-q-001672",
-      "dm-q-002656"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价关系"
     ],
@@ -4877,11 +4065,7 @@
     "description": "通过偏序哈斯图掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001429",
-      "dm-q-003470",
-      "dm-q-001480"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "偏序哈斯图"
     ],
@@ -4901,11 +4085,7 @@
     "description": "通过函数判断掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000984",
-      "dm-q-002143",
-      "dm-q-001755"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "函数判断"
     ],
@@ -4925,11 +4105,7 @@
     "description": "通过真值表掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001018",
-      "dm-q-003340",
-      "dm-q-000397"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "真值表"
     ],
@@ -4949,11 +4125,7 @@
     "description": "通过命题等价掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003686",
-      "dm-q-001630",
-      "dm-q-002356"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "命题等价"
     ],
@@ -4973,11 +4145,7 @@
     "description": "通过主范式掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002183",
-      "dm-q-001992",
-      "dm-q-001125"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "主范式"
     ],
@@ -4997,11 +4165,7 @@
     "description": "通过谓词翻译掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003111",
-      "dm-q-002357",
-      "dm-q-002768"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谓词翻译"
     ],
@@ -5021,11 +4185,7 @@
     "description": "通过推理证明掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003424",
-      "dm-q-000804",
-      "dm-q-003111"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "推理证明"
     ],
@@ -5045,11 +4205,7 @@
     "description": "通过反证法掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000528",
-      "dm-q-002823",
-      "dm-q-003130"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "反证法"
     ],
@@ -5069,11 +4225,7 @@
     "description": "通过归纳法掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000121",
-      "dm-q-002211",
-      "dm-q-000455"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "归纳法"
     ],
@@ -5093,11 +4245,7 @@
     "description": "通过排列组合掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002413",
-      "dm-q-000635",
-      "dm-q-001999"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "排列组合"
     ],
@@ -5117,11 +4265,7 @@
     "description": "通过容斥原理掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001778",
-      "dm-q-002651",
-      "dm-q-002581"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "容斥原理"
     ],
@@ -5141,11 +4285,7 @@
     "description": "通过递推求解掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002052",
-      "dm-q-002884",
-      "dm-q-002013"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "递推求解"
     ],
@@ -5165,11 +4305,7 @@
     "description": "通过连通性掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003273",
-      "dm-q-002245",
-      "dm-q-002874"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "连通性"
     ],
@@ -5189,11 +4325,7 @@
     "description": "通过欧拉图掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000158",
-      "dm-q-003062",
-      "dm-q-002311"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "欧拉图"
     ],
@@ -5213,11 +4345,7 @@
     "description": "通过树结构掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000560",
-      "dm-q-002715",
-      "dm-q-000016"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "树结构"
     ],
@@ -5237,11 +4365,7 @@
     "description": "通过最小生成树掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000198",
-      "dm-q-002468",
-      "dm-q-000355"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最小生成树"
     ],
@@ -5261,11 +4385,7 @@
     "description": "通过布尔化简掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003170",
-      "dm-q-003233",
-      "dm-q-003640"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "布尔化简"
     ],
@@ -5285,11 +4405,7 @@
     "description": "通过集合运算掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003553",
-      "dm-q-000311",
-      "dm-q-002778"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "集合运算"
     ],
@@ -5309,11 +4425,7 @@
     "description": "通过关系性质掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003488",
-      "dm-q-000408",
-      "dm-q-001372"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "关系性质"
     ],
@@ -5333,11 +4445,7 @@
     "description": "通过等价关系掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002279",
-      "dm-q-001929",
-      "dm-q-000337"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价关系"
     ],
@@ -5357,11 +4465,7 @@
     "description": "通过偏序哈斯图掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000834",
-      "dm-q-001074",
-      "dm-q-000501"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "偏序哈斯图"
     ],
@@ -5381,11 +4485,7 @@
     "description": "通过函数判断掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002915",
-      "dm-q-003166",
-      "dm-q-002649"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "函数判断"
     ],
@@ -5405,11 +4505,7 @@
     "description": "通过真值表掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003269",
-      "dm-q-000032",
-      "dm-q-002532"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "真值表"
     ],
@@ -5429,11 +4525,7 @@
     "description": "通过命题等价掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002616",
-      "dm-q-001492",
-      "dm-q-003619"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "命题等价"
     ],
@@ -5453,11 +4545,7 @@
     "description": "通过主范式掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002070",
-      "dm-q-000276",
-      "dm-q-000922"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "主范式"
     ],
@@ -5477,11 +4565,7 @@
     "description": "通过谓词翻译掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000225",
-      "dm-q-002429",
-      "dm-q-003124"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谓词翻译"
     ],
@@ -5501,11 +4585,7 @@
     "description": "通过推理证明掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003376",
-      "dm-q-001391",
-      "dm-q-002311"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "推理证明"
     ],
@@ -5525,11 +4605,7 @@
     "description": "通过反证法掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001629",
-      "dm-q-000499",
-      "dm-q-000258"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "反证法"
     ],
@@ -5549,11 +4625,7 @@
     "description": "通过归纳法掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001031",
-      "dm-q-002619",
-      "dm-q-000305"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "归纳法"
     ],
@@ -5573,11 +4645,7 @@
     "description": "通过排列组合掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001982",
-      "dm-q-001732",
-      "dm-q-002556"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "排列组合"
     ],
@@ -5597,11 +4665,7 @@
     "description": "通过容斥原理掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000663",
-      "dm-q-001825",
-      "dm-q-000959"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "容斥原理"
     ],
@@ -5621,11 +4685,7 @@
     "description": "通过递推求解掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001967",
-      "dm-q-002901",
-      "dm-q-002935"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "递推求解"
     ],
@@ -5645,11 +4705,7 @@
     "description": "通过连通性掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000910",
-      "dm-q-002711",
-      "dm-q-003064"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "连通性"
     ],
@@ -5669,11 +4725,7 @@
     "description": "通过欧拉图掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000071",
-      "dm-q-003623",
-      "dm-q-003072"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "欧拉图"
     ],
@@ -5693,11 +4745,7 @@
     "description": "通过树结构掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000937",
-      "dm-q-001910",
-      "dm-q-002007"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "树结构"
     ],
@@ -5717,11 +4765,7 @@
     "description": "通过最小生成树掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001175",
-      "dm-q-000581",
-      "dm-q-001486"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最小生成树"
     ],
@@ -5741,11 +4785,7 @@
     "description": "通过布尔化简掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002790",
-      "dm-q-000986",
-      "dm-q-001659"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "布尔化简"
     ],
@@ -5765,11 +4805,7 @@
     "description": "通过集合运算掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002920",
-      "dm-q-002380",
-      "dm-q-001432"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "集合运算"
     ],
@@ -5789,11 +4825,7 @@
     "description": "通过关系性质掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000799",
-      "dm-q-001851",
-      "dm-q-002286"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "关系性质"
     ],
@@ -5813,11 +4845,7 @@
     "description": "通过等价关系掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001536",
-      "dm-q-001667",
-      "dm-q-003421"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "等价关系"
     ],
@@ -5837,11 +4865,7 @@
     "description": "通过偏序哈斯图掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003643",
-      "dm-q-000621",
-      "dm-q-002715"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "偏序哈斯图"
     ],
@@ -5861,11 +4885,7 @@
     "description": "通过函数判断掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003593",
-      "dm-q-003504",
-      "dm-q-000391"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "函数判断"
     ],
@@ -5885,11 +4905,7 @@
     "description": "通过真值表掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003319",
-      "dm-q-001301",
-      "dm-q-000890"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "真值表"
     ],
@@ -5909,11 +4925,7 @@
     "description": "通过命题等价掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001482",
-      "dm-q-001814",
-      "dm-q-002845"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "命题等价"
     ],
@@ -5933,11 +4945,7 @@
     "description": "通过主范式掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001268",
-      "dm-q-000731",
-      "dm-q-000782"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "主范式"
     ],
@@ -5957,11 +4965,7 @@
     "description": "通过谓词翻译掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002327",
-      "dm-q-000236",
-      "dm-q-002524"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "谓词翻译"
     ],
@@ -5981,11 +4985,7 @@
     "description": "通过推理证明掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000648",
-      "dm-q-000216",
-      "dm-q-001805"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "推理证明"
     ],
@@ -6005,11 +5005,7 @@
     "description": "通过反证法掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-000724",
-      "dm-q-000602",
-      "dm-q-000381"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "反证法"
     ],
@@ -6029,11 +5025,7 @@
     "description": "通过归纳法掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002286",
-      "dm-q-001559",
-      "dm-q-003585"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "归纳法"
     ],
@@ -6053,11 +5045,7 @@
     "description": "通过排列组合掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001309",
-      "dm-q-001130",
-      "dm-q-002359"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "排列组合"
     ],
@@ -6077,11 +5065,7 @@
     "description": "通过容斥原理掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003550",
-      "dm-q-000043",
-      "dm-q-000267"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "容斥原理"
     ],
@@ -6101,11 +5085,7 @@
     "description": "通过递推求解掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001156",
-      "dm-q-002280",
-      "dm-q-001144"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "递推求解"
     ],
@@ -6125,11 +5105,7 @@
     "description": "通过连通性掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001801",
-      "dm-q-003311",
-      "dm-q-003676"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "连通性"
     ],
@@ -6149,11 +5125,7 @@
     "description": "通过欧拉图掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-002695",
-      "dm-q-000329",
-      "dm-q-002799"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "欧拉图"
     ],
@@ -6173,11 +5145,7 @@
     "description": "通过树结构掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001037",
-      "dm-q-000798",
-      "dm-q-000854"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "树结构"
     ],
@@ -6197,11 +5165,7 @@
     "description": "通过最小生成树掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-001992",
-      "dm-q-003642",
-      "dm-q-001698"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最小生成树"
     ],
@@ -6221,11 +5185,7 @@
     "description": "通过布尔化简掌握DM",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "dm-q-003484",
-      "dm-q-001962",
-      "dm-q-000202"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "布尔化简"
     ],

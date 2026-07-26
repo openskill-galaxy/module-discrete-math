@@ -1,218 +1,428 @@
 [
   {
     "id": "mod-discrete-math-q-1",
-    "slug": "question-course-1-2",
+    "slug": "question-1",
     "type": "single",
-    "stem": "在学习 [离散数学基础] 的过程里，关于“离散数学基础 环境依赖搭建与运行机制”的核心考点，以下表述最为准确的是？",
+    "stem": "设集合 A = {1, 2, 3}，则 A 的幂集 P(A) 的元素个数是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "8" },
+      { "key": "B", "text": "6" },
+      { "key": "C", "text": "3" },
+      { "key": "D", "text": "9" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“离散数学基础 环境依赖搭建与运行机制”的正确答案为 A。解析：在 离散数学基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "离散数学基础",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["A"],
+    "explanation": "幂集是 A 的所有子集构成的集合，|A|=n 时 |P(A)| = 2ⁿ。每个元素都有「取或不取」两种选择，3 个元素共 2³ = 8 个子集（包括空集 ∅ 和 A 本身）。B 漏掉了空集和全集，D 误算为 3²。",
+    "tags": ["集合", "幂集"],
+    "difficulty": "easy",
+    "chapter": "mod-discrete-math-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-discrete-math-q-2",
-    "slug": "question-course-1-3",
+    "slug": "question-2",
     "type": "single",
-    "stem": "在学习 [离散数学基础] 的过程里，关于“离散数学基础 配置文件覆盖与属性解析”的核心考点，以下表述最为准确的是？",
+    "stem": "命题公式 p → q 与下列哪个公式逻辑等值？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "¬p ∨ q" },
+      { "key": "B", "text": "p ∨ ¬q" },
+      { "key": "C", "text": "¬p ∧ q" },
+      { "key": "D", "text": "q → p" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“离散数学基础 配置文件覆盖与属性解析”的正确答案为 A。解析：在 离散数学基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "离散数学基础",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["A"],
+    "explanation": "蕴含等值式：p → q ⇔ ¬p ∨ q，可用真值表验证——两者仅在 p 真 q 假时为假。这是命题逻辑最重要的等值式之一，是消去蕴含词、化范式的基础。D 是逆命题，与原命题不等值；与 p → q 等值的是其逆否命题 ¬q → ¬p。",
+    "tags": ["命题逻辑", "等值式"],
+    "difficulty": "easy",
+    "chapter": "mod-discrete-math-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-discrete-math-q-3",
-    "slug": "question-course-2-4",
+    "slug": "question-3",
     "type": "single",
-    "stem": "在学习 [离散数学基础] 的过程里，关于“离散数学基础 API 接口规范与数据通信”的核心考点，以下表述最为准确的是？",
+    "stem": "设 A = {1,2}，B = {a,b,c}，则笛卡尔积 A × B 的元素个数是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "6" },
+      { "key": "B", "text": "5" },
+      { "key": "C", "text": "8" },
+      { "key": "D", "text": "9" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“离散数学基础 API 接口规范与数据通信”的正确答案为 A。解析：在 离散数学基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "离散数学基础",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "answer": ["A"],
+    "explanation": "|A × B| = |A| × |B| = 2 × 3 = 6，元素为 (1,a),(1,b),(1,c),(2,a),(2,b),(2,c) 六个有序对。注意笛卡尔积的元素是有序对，A×B 与 B×A 一般不相等。B 是误用加法，C、D 是误用幂运算。",
+    "tags": ["笛卡尔积", "集合"],
+    "difficulty": "easy",
+    "chapter": "mod-discrete-math-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-discrete-math-q-4",
-    "slug": "question-course-2-5",
+    "slug": "question-4",
     "type": "single",
-    "stem": "在学习 [离散数学基础] 的过程里，关于“离散数学基础 核心控制器与数据校验机制”的核心考点，以下表述最为准确的是？",
+    "stem": "整数集 Z 上的关系 R = {(x,y) | x ≡ y (mod 3)}（模 3 同余）是什么关系？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "等价关系（自反、对称、传递）" },
+      { "key": "B", "text": "偏序关系（自反、反对称、传递）" },
+      { "key": "C", "text": "仅自反和对称，不传递" },
+      { "key": "D", "text": "仅对称和传递，不自反" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“离散数学基础 核心控制器与数据校验机制”的正确答案为 A。解析：在 离散数学基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "离散数学基础",
-      "基础考点"
-    ],
+    "answer": ["A"],
+    "explanation": "模 3 同余满足：自反（x−x=0 被 3 整除）、对称（3|(x−y) 则 3|(y−x)）、传递（3|(x−y) 且 3|(y−z) 则 3|(x−z)），故是等价关系，将 Z 划分为 [0]、[1]、[2] 三个等价类。它不反对称（1≡4 且 4≡1 但 1≠4），因此不是偏序关系。",
+    "tags": ["等价关系", "同余"],
     "difficulty": "medium",
-    "chapter": "course-2",
+    "chapter": "mod-discrete-math-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-discrete-math-q-5",
-    "slug": "question-course-3-6",
+    "slug": "question-5",
     "type": "single",
-    "stem": "在学习 [离散数学基础] 的过程里，关于“离散数学基础 缓存优化与垃圾回收调优”的核心考点，以下表述最为准确的是？",
+    "stem": "谓词公式 ∀x∃y P(x, y) 与 ∃y∀x P(x, y) 的关系是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "∃y∀x P(x,y) 可以推出 ∀x∃y P(x,y)，但反之不成立" },
+      { "key": "B", "text": "两者逻辑等值，可以互推" },
+      { "key": "C", "text": "∀x∃y P(x,y) 可以推出 ∃y∀x P(x,y)" },
+      { "key": "D", "text": "两者互相矛盾，不能同时为真" }
     ],
-    "answer": [
-      "0"
+    "answer": ["A"],
+    "explanation": "∃y∀x P(x,y) 说「存在一个公共的 y 对所有 x 成立」，自然对每个 x 都能找到 y（就是那个公共的），故可推出 ∀x∃y P(x,y)。反之不行：如 P(x,y) 表示「y > x」（实数域），每个 x 都有更大的 y（前者真），但不存在比所有数都大的 y（后者假）。量词顺序不可随意交换是谓词逻辑核心考点。",
+    "tags": ["谓词逻辑", "量词"],
+    "difficulty": "hard",
+    "chapter": "mod-discrete-math-c-2",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-discrete-math-q-6",
+    "slug": "question-6",
+    "type": "single",
+    "stem": "一个无向图有 6 个顶点，每个顶点的度数都是 3，则该图的边数是？",
+    "options": [
+      { "key": "A", "text": "9" },
+      { "key": "B", "text": "18" },
+      { "key": "C", "text": "6" },
+      { "key": "D", "text": "12" }
     ],
-    "explanation": "关于“离散数学基础 缓存优化与垃圾回收调优”的正确答案为 A。解析：在 离散数学基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "离散数学基础",
-      "基础考点"
+    "answer": ["A"],
+    "explanation": "由握手定理，所有顶点度数之和等于边数的 2 倍：Σdeg(v) = 2|E|。度数和为 6×3 = 18，故边数 |E| = 18/2 = 9。B 忘记除以 2，是最常见错误——每条边为两个端点各贡献 1 度，所以要除 2。",
+    "tags": ["图论", "握手定理"],
+    "difficulty": "easy",
+    "chapter": "mod-discrete-math-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-discrete-math-q-7",
+    "slug": "question-7",
+    "type": "single",
+    "stem": "无向连通图 G 存在欧拉回路（一笔画回到起点）的充要条件是？",
+    "options": [
+      { "key": "A", "text": "所有顶点的度数均为偶数" },
+      { "key": "B", "text": "恰有两个奇度顶点" },
+      { "key": "C", "text": "顶点数为偶数" },
+      { "key": "D", "text": "边数为偶数" }
     ],
+    "answer": ["A"],
+    "explanation": "欧拉定理：连通无向图存在欧拉回路 ⟺ 每个顶点度数都是偶数（每次经过顶点消耗「一进一出」两度）。恰有两个奇度顶点时只存在欧拉通路（起点终点为那两个奇度点），不能回到起点。哥尼斯堡七桥问题四个顶点全为奇度，故无解。顶点数、边数的奇偶与此无关。",
+    "tags": ["欧拉回路", "图论"],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-discrete-math-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-discrete-math-q-8",
+    "slug": "question-8",
+    "type": "single",
+    "stem": "n 个顶点的树（连通无回路的无向图）恰好有多少条边？",
+    "options": [
+      { "key": "A", "text": "n − 1" },
+      { "key": "B", "text": "n" },
+      { "key": "C", "text": "n(n−1)/2" },
+      { "key": "D", "text": "2n" }
+    ],
+    "answer": ["A"],
+    "explanation": "树的基本性质：n 个顶点的树有且仅有 n−1 条边。这也是树的等价刻画之一：连通且边数为 n−1，或无回路且边数为 n−1。再加任何一条边都会形成唯一回路，删任何一条边都会不连通。C 是完全图 Kₙ 的边数。",
+    "tags": ["树", "图论"],
+    "difficulty": "easy",
+    "chapter": "mod-discrete-math-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-discrete-math-q-9",
+    "slug": "question-9",
+    "type": "single",
+    "stem": "从 10 个不同元素中取出 3 个组成一组（不考虑顺序），共有多少种取法？",
+    "options": [
+      { "key": "A", "text": "C(10,3) = 120" },
+      { "key": "B", "text": "P(10,3) = 720" },
+      { "key": "C", "text": "10³ = 1000" },
+      { "key": "D", "text": "3¹⁰" }
+    ],
+    "answer": ["A"],
+    "explanation": "不考虑顺序用组合数 C(10,3) = 10!/(3!·7!) = 120。若考虑顺序则是排列数 P(10,3) = 10×9×8 = 720，两者相差 3! = 6 倍（每组 3 个元素有 6 种排列）。10³ 是允许重复的有序选取。区分「排列看顺序、组合不看顺序」是组合计数第一步。",
+    "tags": ["组合计数", "排列组合"],
+    "difficulty": "easy",
+    "chapter": "mod-discrete-math-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-discrete-math-q-10",
+    "slug": "question-10",
+    "type": "single",
+    "stem": "某班 50 人中，30 人会 Python，25 人会 Java，12 人两种都会，则两种语言都不会的人数是？",
+    "options": [
+      { "key": "A", "text": "7" },
+      { "key": "B", "text": "12" },
+      { "key": "C", "text": "5" },
+      { "key": "D", "text": "0" }
+    ],
+    "answer": ["A"],
+    "explanation": "由容斥原理：|A∪B| = |A| + |B| − |A∩B| = 30 + 25 − 12 = 43 人至少会一种，都不会的为 50 − 43 = 7 人。直接相加 30+25=55 会把两者都会的 12 人重复计数，必须减去交集，这正是容斥原理的核心思想。",
+    "tags": ["容斥原理", "组合计数"],
+    "difficulty": "easy",
+    "chapter": "mod-discrete-math-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-discrete-math-q-11",
+    "slug": "question-11",
+    "type": "single",
+    "stem": "任取 13 个人，至少有两人生日在同一个月。这个结论依据的是什么原理？",
+    "options": [
+      { "key": "A", "text": "鸽巢原理（抽屉原理）" },
+      { "key": "B", "text": "容斥原理" },
+      { "key": "C", "text": "数学归纳法" },
+      { "key": "D", "text": "乘法原理" }
+    ],
+    "answer": ["A"],
+    "explanation": "把 12 个月看作 12 个抽屉，13 个人放入 12 个抽屉，由鸽巢原理必有一个抽屉至少放 2 人。一般形式：n+1 个物体放入 n 个盒子，至少一个盒子含 2 个以上物体；推广形式为⌈n/m⌉。它是存在性证明的经典工具，不给出具体是哪两个人。",
+    "tags": ["鸽巢原理"],
+    "difficulty": "easy",
+    "chapter": "mod-discrete-math-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-discrete-math-q-12",
+    "slug": "question-12",
+    "type": "single",
+    "stem": "关于偏序集 (A, ⪯) 的哈斯图（Hasse diagram），下列说法正确的是？",
+    "options": [
+      { "key": "A", "text": "哈斯图省略自环和可由传递性推出的边，元素间的覆盖关系用上下位置表示" },
+      { "key": "B", "text": "哈斯图必须画出关系中的每一个有序对" },
+      { "key": "C", "text": "哈斯图中任意两个元素之间都必须有边相连" },
+      { "key": "D", "text": "哈斯图只能表示全序关系" }
+    ],
+    "answer": ["A"],
+    "explanation": "哈斯图是偏序关系的简化图示：省略每个元素的自环（自反性默认）、省略传递可推出的边，只画覆盖关系，且较大元素画在上方（省去箭头）。偏序中允许存在不可比的元素对（无边、也不在同一链上），全序只是特殊情形，故 B、C、D 均错误。",
+    "tags": ["偏序关系", "哈斯图"],
+    "difficulty": "medium",
+    "chapter": "mod-discrete-math-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-discrete-math-q-13",
+    "slug": "question-13",
+    "type": "single",
+    "stem": "命题公式 (p ∧ (p → q)) → q 是什么类型的公式？",
+    "options": [
+      { "key": "A", "text": "永真式（重言式）" },
+      { "key": "B", "text": "永假式（矛盾式）" },
+      { "key": "C", "text": "可满足但非永真" },
+      { "key": "D", "text": "与 p 等值的公式" }
+    ],
+    "answer": ["A"],
+    "explanation": "这是假言推理（Modus Ponens）规则的公式化：前提 p 与 p→q 同时为真时 q 必真，可用真值表验证四种赋值下公式恒为真，故为重言式。推理规则的有效性正是通过对应蕴含式是重言式来定义的，这类「推理定律」还包括拒取式、假言三段论等。",
+    "tags": ["重言式", "推理规则"],
+    "difficulty": "medium",
+    "chapter": "mod-discrete-math-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-discrete-math-q-14",
+    "slug": "question-14",
+    "type": "single",
+    "stem": "函数 f: A → B 是双射（一一对应）的含义是？",
+    "options": [
+      { "key": "A", "text": "f 既是单射（不同元素像不同）又是满射（B 中每个元素都有原像）" },
+      { "key": "B", "text": "f 只需满足单射条件" },
+      { "key": "C", "text": "f 只需满足满射条件" },
+      { "key": "D", "text": "A 中每个元素可以对应 B 中多个元素" }
+    ],
+    "answer": ["A"],
+    "explanation": "双射 = 单射 + 满射：单射保证 x₁≠x₂ ⇒ f(x₁)≠f(x₂)，满射保证值域覆盖整个 B。双射存在当且仅当 |A|=|B|（有限集），且双射函数必有反函数。D 违反函数定义本身——函数要求每个自变量恰好对应一个函数值。",
+    "tags": ["函数", "双射"],
+    "difficulty": "easy",
+    "chapter": "mod-discrete-math-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-discrete-math-q-15",
+    "slug": "question-15",
+    "type": "multiple",
+    "stem": "下列关于命题逻辑等值式的说法，正确的有？（多选）",
+    "options": [
+      { "key": "A", "text": "德摩根律：¬(p ∧ q) ⇔ ¬p ∨ ¬q" },
+      { "key": "B", "text": "p → q 的逆否命题 ¬q → ¬p 与原命题等值" },
+      { "key": "C", "text": "分配律：p ∧ (q ∨ r) ⇔ (p ∧ q) ∨ (p ∧ r)" },
+      { "key": "D", "text": "p → q 与其否命题 ¬p → ¬q 等值" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "德摩根律（否定进入括号时与/或互换）、逆否等值（这是反证法与逆否证明的逻辑依据）、合取对析取的分配律都是基本等值式。D 错误：否命题 ¬p→¬q 实际与逆命题 q→p 等值，与原命题真值可以不同，「原命题真则否命题必真」是典型逻辑谬误。",
+    "tags": ["等值式", "德摩根律"],
+    "difficulty": "medium",
+    "chapter": "mod-discrete-math-c-3",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-discrete-math-q-16",
+    "slug": "question-16",
+    "type": "multiple",
+    "stem": "设 R 是集合 A 上的关系，下列判定方法正确的有？（多选）",
+    "options": [
+      { "key": "A", "text": "自反性：对每个 x∈A 都有 (x,x)∈R" },
+      { "key": "B", "text": "对称性：(x,y)∈R 蕴含 (y,x)∈R" },
+      { "key": "C", "text": "传递性：(x,y)∈R 且 (y,z)∈R 蕴含 (x,z)∈R" },
+      { "key": "D", "text": "反对称性：R 中不允许出现任何形如 (x,x) 的序对" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "A、B、C 是三大性质的标准定义。D 错误：反对称性的定义是「(x,y)∈R 且 (y,x)∈R 蕴含 x=y」，它完全允许 (x,x) 存在——事实上偏序关系既自反又反对称，如 ≤ 关系中 (a,a) 都在关系中。把反对称理解为「禁止自环」是常见误区。",
+    "tags": ["二元关系", "关系性质"],
+    "difficulty": "medium",
+    "chapter": "mod-discrete-math-c-1",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-discrete-math-q-17",
+    "slug": "question-17",
+    "type": "multiple",
+    "stem": "关于图论的基本结论，下列说法正确的有？（多选）",
+    "options": [
+      { "key": "A", "text": "任何无向图中，度数为奇数的顶点个数必为偶数" },
+      { "key": "B", "text": "完全图 K₅ 和完全二部图 K₃,₃ 都不是平面图" },
+      { "key": "C", "text": "连通平面图满足欧拉公式：顶点数 − 边数 + 面数 = 2" },
+      { "key": "D", "text": "任何图的邻接矩阵都一定是对称矩阵" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "A 是握手定理的推论（度数总和为偶数，奇度顶点必成对出现）；B 是库拉托夫斯基定理的两个「最小非平面图」，任何非平面图都含 K₅ 或 K₃,₃ 的剖分；C 是欧拉公式 v−e+f=2。D 错误：无向图的邻接矩阵对称，但有向图中 (u,v) 有边不代表 (v,u) 有边，矩阵一般不对称。",
+    "tags": ["图论", "平面图", "欧拉公式"],
+    "difficulty": "hard",
+    "chapter": "mod-discrete-math-c-2",
     "knowledge_points": [],
     "estimated_time": 5
   },
   {
-    "id": "mod-discrete-math-q-6",
-    "slug": "question-course-3-7",
-    "type": "single",
-    "stem": "在学习 [离散数学基础] 的过程里，关于“离散数学基础 可观测性日志与分布式链路监控”的核心考点，以下表述最为准确的是？",
+    "id": "mod-discrete-math-q-18",
+    "slug": "question-18",
+    "type": "multiple",
+    "stem": "用数学归纳法证明「对所有 n≥1，1+2+…+n = n(n+1)/2」，下列步骤描述正确的有？（多选）",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "基础步骤：验证 n=1 时等式成立（左边 1，右边 1×2/2=1）" },
+      { "key": "B", "text": "归纳步骤：假设 n=k 时成立，推出 n=k+1 时也成立" },
+      { "key": "C", "text": "归纳假设「n=k 成立」是证明过程中允许使用的前提" },
+      { "key": "D", "text": "只要验证 n=1,2,3 三个值都成立，就完成了对所有 n 的证明" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“离散数学基础 可观测性日志与分布式链路监控”的正确答案为 A。解析：在 离散数学基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "离散数学基础",
-      "基础考点"
-    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "数学归纳法两步缺一不可：基础步骤锚定起点，归纳步骤建立「k 真 ⇒ k+1 真」的传递链，归纳假设正是该步骤的合法前提。D 是「不完全归纳」，验证有限个值不构成对无穷多个 n 的证明——存在前若干项成立而整体不成立的命题（如某些多项式素数猜想）。",
+    "tags": ["数学归纳法", "证明方法"],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-discrete-math-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-discrete-math-q-19",
+    "slug": "question-19",
+    "type": "judge",
+    "stem": "判断：空集 ∅ 是任何集合的子集，也是任何非空集合的真子集。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。「∅ ⊆ A」等价于「∀x(x∈∅ → x∈A)」，前件恒假故蕴含式恒真（空虚真理）；对非空集合 A，∅ ≠ A 且 ∅ ⊆ A，故 ∅ 是真子集。注意区分 ∅ ⊆ A（恒成立）与 ∅ ∈ A（仅当 A 恰好以空集为元素时成立）。",
+    "tags": ["集合", "空集"],
+    "difficulty": "easy",
+    "chapter": "mod-discrete-math-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-discrete-math-q-20",
+    "slug": "question-20",
+    "type": "judge",
+    "stem": "判断：全称量词的否定规则是 ¬∀x P(x) ⇔ ∃x ¬P(x)。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。「并非所有 x 都满足 P」等价于「存在某个 x 不满足 P」；对偶地有 ¬∃x P(x) ⇔ ∀x ¬P(x)。量词否定规则是谓词逻辑版的德摩根律，写数学命题的否定（如「数列不收敛」的 ε-N 表述）时必须逐层翻转量词并否定内部谓词。",
+    "tags": ["谓词逻辑", "量词否定"],
+    "difficulty": "easy",
+    "chapter": "mod-discrete-math-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-discrete-math-q-21",
+    "slug": "question-21",
+    "type": "judge",
+    "stem": "判断：一个集合上的关系可以同时是等价关系和偏序关系。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。等价关系要求对称，偏序要求反对称，两者同时满足意味着 (x,y)∈R 且 (y,x)∈R 必有 x=y，结合自反性可知这样的关系恰好是恒等关系 Iₐ = {(x,x) | x∈A}。恒等关系自反、对称、反对称、传递全部满足，是唯一同时为等价与偏序的关系。",
+    "tags": ["等价关系", "偏序关系"],
+    "difficulty": "hard",
+    "chapter": "mod-discrete-math-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-discrete-math-q-22",
+    "slug": "question-22",
+    "type": "judge",
+    "stem": "判断：哈密顿回路问题（判断图中是否存在经过每个顶点恰好一次的回路）目前已找到多项式时间的通用判定算法。",
+    "options": [],
+    "answer": ["F"],
+    "explanation": "错误。哈密顿回路问题是经典的 NP 完全问题，目前不存在已知的多项式时间算法（除非 P=NP）。与之形成鲜明对比的是欧拉回路问题——只需检查连通性和顶点度数奇偶性，可在线性时间内判定。「过每条边一次容易，过每个顶点一次难」是图论算法复杂度的著名对照。",
+    "tags": ["哈密顿回路", "NP完全"],
+    "difficulty": "medium",
+    "chapter": "mod-discrete-math-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-discrete-math-q-23",
+    "slug": "question-23",
+    "type": "short",
+    "stem": "n 个顶点的完全图 Kₙ 的边数是多少？（用 n 表示，写出公式）",
+    "options": [],
+    "answer": ["n(n-1)/2|n(n−1)/2|C(n,2)|n*(n-1)/2|(n²-n)/2"],
+    "explanation": "完全图中任意两个顶点之间恰有一条边，边数等于从 n 个顶点中选 2 个的组合数 C(n,2) = n(n−1)/2。例如 K₅ 有 10 条边。该公式也常用于计算「n 人两两握手的总次数」等场景。",
+    "tags": ["完全图", "图论"],
+    "difficulty": "easy",
+    "chapter": "mod-discrete-math-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-discrete-math-q-24",
+    "slug": "question-24",
+    "type": "short",
+    "stem": "「n+1 只鸽子飞入 n 个鸽笼，必有一个笼子至少有两只鸽子」，这一原理的中文名称是什么？",
+    "options": [],
+    "answer": ["鸽巢原理|抽屉原理|鸽笼原理|狄利克雷抽屉原理"],
+    "explanation": "鸽巢原理（又称抽屉原理、狄利克雷原理）：把多于 n 个的物体放入 n 个容器，至少有一个容器装有 2 个以上物体。虽然结论看似显然，但它是组合数学中强有力的存在性证明工具，可解决生日同月、整除性、序列单调子列（Erdős–Szekeres 定理）等问题。",
+    "tags": ["鸽巢原理"],
+    "difficulty": "easy",
+    "chapter": "mod-discrete-math-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
   }
 ]
