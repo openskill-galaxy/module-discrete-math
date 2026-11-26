@@ -1,6 +1,7 @@
 {
-  "short_name": "OpenSkill Module",
-  "name": "OpenSkill Galaxy — 学习自测模块",
+  "short_name": "离散数学基础",
+  "name": "OpenSkill Galaxy — 离散数学基础",
+  "description": "面向计算机专业算法学习和408基础补弱的集合关系函数命题逻辑谓词逻辑证明方法组合计数图论树递推关系与布尔代数训练。",
   "icons": [
     {
       "src": "favicon.svg",
@@ -8,9 +9,10 @@
       "sizes": "any"
     }
   ],
-  "start_url": ".",
-  "background_color": "#fbfbfd",
-  "theme_color": "#4f46e5",
+  "start_url": "/module-discrete-math/",
+  "scope": "/module-discrete-math/",
+  "background_color": "#f4f5fa",
+  "theme_color": "#3039c9",
   "display": "standalone",
   "orientation": "portrait"
 }

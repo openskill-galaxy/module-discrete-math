@@ -2,7 +2,7 @@
   "name": "openskill-module-discrete-math",
   "version": "1.0.0",
   "private": true,
-  "description": "OpenSkill Galaxy reusable static learning module template.",
+  "description": "面向计算机专业和算法学习者",
   "type": "module",
   "scripts": {
     "dev": "vite",

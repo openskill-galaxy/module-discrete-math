@@ -1,71 +1,67 @@
 [
   {
     "id": "mod-discrete-math-c-1",
-    "title": "离散数学基础 架构原理与初始化",
+    "title": "幂集与笛卡尔积 / 命题等值与量词否定",
     "slug": "course-1",
-    "summary": "深度探索 离散数学基础 的设计理念、运行架构以及初始化配置引导。",
+    "summary": "例题研习覆盖集合、幂集、笛卡尔积、命题逻辑、等值式、谓词逻辑、量词否定。",
     "order": 1,
     "difficulty": "easy",
-    "estimatedHours": 57,
+    "estimatedHours": 0.4,
     "lessons": [
       "mod-discrete-math-l-1",
       "mod-discrete-math-l-2"
     ],
     "tags": [
-      "离散数学",
       "集合",
-      "关系",
+      "幂集",
+      "笛卡尔积",
       "命题逻辑",
+      "等值式",
       "谓词逻辑",
-      "图论",
-      "组合计数",
-      "证明"
+      "量词否定"
     ]
   },
   {
     "id": "mod-discrete-math-c-2",
-    "title": "离散数学基础 核心机制与开发实战",
+    "title": "等价关系与偏序 / 图的度数与欧拉回路",
     "slug": "course-2",
-    "summary": "掌握 离散数学基础 的核心组件、API 接口调用以及本地开发调试。",
+    "summary": "例题研习覆盖等价关系、同余、偏序关系、哈斯图、图论、握手定理、欧拉回路。",
     "order": 2,
     "difficulty": "easy",
-    "estimatedHours": 57,
+    "estimatedHours": 0.4,
     "lessons": [
       "mod-discrete-math-l-3",
       "mod-discrete-math-l-4"
     ],
     "tags": [
-      "离散数学",
-      "集合",
-      "关系",
-      "命题逻辑",
-      "谓词逻辑",
+      "等价关系",
+      "同余",
+      "偏序关系",
+      "哈斯图",
       "图论",
-      "组合计数",
-      "证明"
+      "握手定理",
+      "欧拉回路"
     ]
   },
   {
     "id": "mod-discrete-math-c-3",
-    "title": "离散数学基础 高级优化与生产部署",
+    "title": "排列组合与容斥 / 鸽巢原理与归纳证明",
     "slug": "course-3",
-    "summary": "学习如何进行系统性能监控调优、高可用集群部署与数据存储。",
+    "summary": "例题研习覆盖组合计数、排列组合、容斥原理、鸽巢原理、数学归纳法、证明方法。",
     "order": 3,
     "difficulty": "easy",
-    "estimatedHours": 57,
+    "estimatedHours": 0.4,
     "lessons": [
       "mod-discrete-math-l-5",
       "mod-discrete-math-l-6"
     ],
     "tags": [
-      "离散数学",
-      "集合",
-      "关系",
-      "命题逻辑",
-      "谓词逻辑",
-      "图论",
       "组合计数",
-      "证明"
+      "排列组合",
+      "容斥原理",
+      "鸽巢原理",
+      "数学归纳法",
+      "证明方法"
     ]
   }
 ]
